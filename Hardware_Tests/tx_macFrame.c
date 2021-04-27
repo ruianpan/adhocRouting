@@ -22,26 +22,17 @@
 #define MY_DEST_MAC4	0x00
 #define MY_DEST_MAC5	0x00
 
-#define DEFAULT_IF	"eth0"
+#define DEFAULT_IF	"wlan0"
 #define BUF_SIZ		1024
 
-int main(int argc, char *argv[])
-{
+struct ifreq if_idx;
+struct ifreq if_mac;
+
+int initTX(char *buf, struct ifreq *if_idx, struct ifreq *if_mac, int buf_size){
 	int sockfd;
-	struct ifreq if_idx;
-	struct ifreq if_mac;
-	int tx_len = 0;
-	char sendbuf[BUF_SIZ];
-	struct ether_header *eh = (struct ether_header *) sendbuf;
-	struct iphdr *iph = (struct iphdr *) (sendbuf + sizeof(struct ether_header));
-	struct sockaddr_ll socket_address;
+	/* use default interface */
 	char ifName[IFNAMSIZ];
-	
-	/* Get interface name */
-	if (argc > 1)
-		strcpy(ifName, argv[1]);
-	else
-		strcpy(ifName, DEFAULT_IF);
+	strcpy(ifName, DEFAULT_IF);
 
 	/* Open RAW socket to send on */
 	if ((sockfd = socket(AF_PACKET, SOCK_RAW, IPPROTO_RAW)) == -1) {
@@ -49,15 +40,29 @@ int main(int argc, char *argv[])
 	}
 
 	/* Get the index of the interface to send on */
-	memset(&if_idx, 0, sizeof(struct ifreq));
-	strncpy(if_idx.ifr_name, ifName, IFNAMSIZ-1);
-	if (ioctl(sockfd, SIOCGIFINDEX, &if_idx) < 0)
+	memset(if_idx, 0, sizeof(struct ifreq));
+	strncpy(if_idx->ifr_name, ifName, IFNAMSIZ-1);
+	if (ioctl(sockfd, SIOCGIFINDEX, if_idx) < 0)
 	    perror("SIOCGIFINDEX");
+
 	/* Get the MAC address of the interface to send on */
-	memset(&if_mac, 0, sizeof(struct ifreq));
-	strncpy(if_mac.ifr_name, ifName, IFNAMSIZ-1);
-	if (ioctl(sockfd, SIOCGIFHWADDR, &if_mac) < 0)
+	memset(if_mac, 0, sizeof(struct ifreq));
+	strncpy(if_mac->ifr_name, ifName, IFNAMSIZ-1);
+	if (ioctl(sockfd, SIOCGIFHWADDR, if_mac) < 0)
 	    perror("SIOCGIFHWADDR");
+
+	return sockfd;
+}
+
+int main(int argc, char *argv[])
+{
+	int sockfd;
+	int tx_len = 0;
+	char sendbuf[BUF_SIZ];
+	struct ether_header *eh = (struct ether_header *) sendbuf;
+	struct iphdr *iph = (struct iphdr *) (sendbuf + sizeof(struct ether_header));
+	struct sockaddr_ll socket_address;
+
 
 	/* Construct the Ethernet header */
 	memset(sendbuf, 0, BUF_SIZ);
