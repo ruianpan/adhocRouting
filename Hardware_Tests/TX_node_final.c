@@ -16,27 +16,39 @@
 #include <sys/socket.h>
 #include <net/if.h>
 #include <netinet/ether.h>
+#include <sys/stat.h>
+#include <sys/types.h>
+#include <fcntl.h>
+#include <unistd.h>
+#include <sys/time.h>
+
+#include "gpioLib.h"
 
 #define DEST_MAC0	0xdc
 #define DEST_MAC1	0xa6
 #define DEST_MAC2	0x32
 #define DEST_MAC3	0xf7
-#define DEST_MAC4	0xe7 
-#define DEST_MAC5	0x36
+#define DEST_MAC4	0xde 
+#define DEST_MAC5	0x19
 
 //other device I believe
 #define MY_DEST_MAC0	0xdc
 #define MY_DEST_MAC1	0xa6
 #define MY_DEST_MAC2	0x32
 #define MY_DEST_MAC3	0xf7
-#define MY_DEST_MAC4	0xde
-#define MY_DEST_MAC5	0x19
+#define MY_DEST_MAC4	0xe7
+#define MY_DEST_MAC5	0x36
 
 #define ETHER_TYPE	0x0800
 
 #define DEFAULT_IF	"wlan0"
 #define BUF_SIZ		1024
 #define FRAME_HDR_SIZE  14
+#define GPIO_PIN	17
+#define GPIO_PIN_DONE   27
+
+//number of lines of csv data to parse
+#define NUM_ITERS	700
 
 int initRX(char *ifName){
 	int sockfd, sockopt;
@@ -113,7 +125,11 @@ int RX(int RXsockfd, struct ether_header *eh, char *buf, int *prev_sec, int *pre
 		int diff_sec= tv.tv_sec - *prev_sec;
 		int diff_usec= tv.tv_usec - *prev_usec;
 		diff_usec= (diff_usec < 0) ? -1 * diff_usec : diff_usec;
-		printf("Time since last packet recv'd: %d.%d sec\n", diff_sec, diff_usec);
+		printf("Time since last packet recv'd: ");
+		float tmp= (float)diff_usec / 1000.0;
+		tmp += (float)diff_sec * 1000.0;
+		printf("%f ms\n", tmp);
+
 		*prev_sec= tv.tv_sec;
 		*prev_usec= tv.tv_usec;
 
@@ -131,7 +147,7 @@ int RX(int RXsockfd, struct ether_header *eh, char *buf, int *prev_sec, int *pre
 	return -1;
 }
 
-int TX(int sockfd, char *send_buffer, int num_bytes, struct ifreq *if_idx, struct ifreq *if_mac, struct ether_header *eh){
+int TX(int sockfd, char *send_buffer, int num_bytes, struct ifreq *if_idx, struct ifreq *if_mac, struct ether_header *eh, int wait_for_rx){
 	printf("Transmitting %d data bytes\n", num_bytes);
 	int tx_len=0;
 	
@@ -156,8 +172,11 @@ int TX(int sockfd, char *send_buffer, int num_bytes, struct ifreq *if_idx, struc
 	tx_len += sizeof(struct ether_header);
 
 	/*Packet Data -- ausfuhllen hier bitte*/
-	while(tx_len < (num_bytes + sizeof(struct ether_header)) )
-		send_buffer[tx_len++] = 1;
+	if(wait_for_rx)  send_buffer[tx_len++]= 1;
+	else 		 send_buffer[tx_len++]= 0;
+
+	while(tx_len < (num_bytes + sizeof(struct ether_header) + 1) )
+		send_buffer[tx_len++] = 2;
 	
 	struct sockaddr_ll socket_address;
 	socket_address.sll_ifindex = if_idx->ifr_ifindex; //device idx
@@ -178,7 +197,6 @@ int TX(int sockfd, char *send_buffer, int num_bytes, struct ifreq *if_idx, struc
 	return 0;
 }
 
-
 int main(int argc, char *argv[]){
 
 	char ifName[IFNAMSIZ];
@@ -192,7 +210,6 @@ int main(int argc, char *argv[]){
 	int *prev_sec= malloc(sizeof(int));
 	int tmp;
 
-
 	int TXsockfd;
 	struct ifreq if_idx;
 	struct ifreq if_mac;
@@ -200,13 +217,75 @@ int main(int argc, char *argv[]){
 	char send_buffer[BUF_SIZ];
 	memset(send_buffer, 0, BUF_SIZ);
 	struct ether_header *TXeh = (struct ether_header *) send_buffer;
+	
+	//init GPIO 
+	GPIOExport(GPIO_PIN);
+	GPIOExport(GPIO_PIN_DONE);
+	GPIODirection(GPIO_PIN, 1); //set as output
+	GPIODirection(GPIO_PIN_DONE, 1); //set as output
 
+	//get cmdline args
+	int c; 
+	int i=1;
+	char *filename= NULL;
+	while( (c=getopt(argc, argv, "f")) != -1){
+		switch(c){
+			case 'f': //size in bytes
+				filename= argv[i+1]; 
+				break;
+			default:
+				printf("Invalid Arg\n");
+				break;
+		}
+		i++;
+	}
+
+	if(filename == NULL){
+		printf("must include filename\n");
+	       	return -1;
+	}
+	FILE *file = fopen(filename, "r");
+
+	int wait_for_rx= 0;
+	int sleepTime= 100;
 	int num_bytes= 10;
-	TX(TXsockfd, send_buffer, num_bytes, &if_idx, &if_mac, TXeh);
 
-	if((tmp= RX(RXsockfd, eh, buf, prev_sec, prev_usec)) < 0) 
-		printf("MAC-addr connection error\n");
+	char csv_buf[400];
+	int iter_ct= 0;
+	while(fgets(csv_buf, sizeof(csv_buf), file) && iter_ct < NUM_ITERS) {
+		const char delim[2] = ",";
 
+		char *data;
+		data= strtok(csv_buf, delim);
+		wait_for_rx= atoi(data);
+
+		data= strtok(NULL, delim);
+		sleepTime= atoi(data);
+
+		data= strtok(NULL, delim);
+		num_bytes= atoi(data);
+
+
+		GPIOWrite(GPIO_PIN, 1); //begin data collection
+		TX(TXsockfd, send_buffer, num_bytes, &if_idx, &if_mac, TXeh, wait_for_rx);
+
+		GPIOWrite(GPIO_PIN, 0); //end data collection
+		if(wait_for_rx){
+			if((tmp= RX(RXsockfd, eh, buf, prev_sec, prev_usec)) < 0) 
+				printf("MAC-addr connection error\n");
+		}
+
+		usleep((sleepTime * 1000));
+
+		printf("[%d]  %d  %d  %d\n ", iter_ct, wait_for_rx, sleepTime, num_bytes);
+		iter_ct++;
+
+	}
+
+	GPIOWrite(GPIO_PIN_DONE, 1); //finished parsing the csv
+
+	GPIOUnexport(GPIO_PIN);
+	GPIOUnexport(GPIO_PIN_DONE);
 	close(RXsockfd);
 	close(TXsockfd);
 	return 0;
