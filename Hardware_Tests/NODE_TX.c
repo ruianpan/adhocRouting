@@ -80,7 +80,7 @@ int initRX(char *ifName){
 }
 
 
-int initTX(struct ifreq *if_idx, struct ifreq *if_mac, char *ifName){
+int initTX(int *ifindex, uint8_t *src_mac, char *ifName){
 	int sockfd;
 
 	/* Open RAW socket to send on */
@@ -89,17 +89,15 @@ int initTX(struct ifreq *if_idx, struct ifreq *if_mac, char *ifName){
 	    exit(1);
 	}
 
-	/* Get the index of the interface to send on */
-	memset(if_idx, 0, sizeof(struct ifreq));
-	strncpy(if_idx->ifr_name, ifName, IFNAMSIZ-1);
-	if (ioctl(sockfd, SIOCGIFINDEX, if_idx) < 0)
-	    perror("SIOCGIFINDEX");
+	struct ifreq tmp;
+	memset(&tmp, 0, sizeof(struct ifreq));
+	strncpy(tmp.ifr_name, ifName, IFNAMSIZ-1);
 
-	/* Get the MAC address of the interface to send on */
-	memset(if_mac, 0, sizeof(struct ifreq));
-	strncpy(if_mac->ifr_name, ifName, IFNAMSIZ-1);
-	if (ioctl(sockfd, SIOCGIFHWADDR, if_mac) < 0)
-	    perror("SIOCGIFHWADDR");
+	if (ioctl(sockfd, SIOCGIFINDEX, &tmp) < 0) perror("SIOCGIFINDEX");
+	*ifindex= tmp.ifr_ifindex;
+
+	if (ioctl(sockfd, SIOCGIFHWADDR, &tmp) < 0) perror("SIOCGIFHWADDR");
+	memcpy((void*)src_mac, (void*)(tmp.ifr_hwaddr.sa_data), ETH_ALEN);
 
 	return sockfd;
 }
@@ -147,53 +145,44 @@ int RX(int RXsockfd, struct ether_header *eh, char *buf, int *prev_sec, int *pre
 	return -1;
 }
 
-int TX(int sockfd, char *send_buffer, int num_bytes, struct ifreq *if_idx, struct ifreq *if_mac, struct ether_header *eh, int wait_for_rx){
-	printf("Transmitting %d data bytes\n", num_bytes);
+int TX(int sockfd, char *send_buffer, int num_bytes, int *ifindex, uint8_t *src_mac, uint8_t *dest_mac, struct ether_header *eh, int not_wait_for_rx, uint16_t iter_ct, int num_iters){
 	int tx_len=0;
 	
-	//set source host
-	eh->ether_shost[0] = ((uint8_t *)&(if_mac->ifr_hwaddr.sa_data))[0];
-	eh->ether_shost[1] = ((uint8_t *)&(if_mac->ifr_hwaddr.sa_data))[1];
-	eh->ether_shost[2] = ((uint8_t *)&(if_mac->ifr_hwaddr.sa_data))[2];
-	eh->ether_shost[3] = ((uint8_t *)&(if_mac->ifr_hwaddr.sa_data))[3];
-	eh->ether_shost[4] = ((uint8_t *)&(if_mac->ifr_hwaddr.sa_data))[4];
-	eh->ether_shost[5] = ((uint8_t *)&(if_mac->ifr_hwaddr.sa_data))[5];
+	//set source and dest host
+	memcpy((void*)(eh->ether_shost), (void*)src_mac, ETH_ALEN);
+	memcpy((void*)(eh->ether_dhost), (void*)dest_mac, ETH_ALEN);
+	eh->ether_type = htons(ETH_P_IP); //ethernet type
 
-	//set destination host
-	eh->ether_dhost[0] = MY_DEST_MAC0;
-	eh->ether_dhost[1] = MY_DEST_MAC1;
-	eh->ether_dhost[2] = MY_DEST_MAC2;
-	eh->ether_dhost[3] = MY_DEST_MAC3;
-	eh->ether_dhost[4] = MY_DEST_MAC4;
-	eh->ether_dhost[5] = MY_DEST_MAC5;
-
-	/* Ethertype field */
-	eh->ether_type = htons(ETH_P_IP);
 	tx_len += sizeof(struct ether_header);
+	if(not_wait_for_rx)  send_buffer[tx_len++]= 0;
+	else 		     send_buffer[tx_len++]= 1;
 
-	/*Packet Data -- ausfuhllen hier bitte*/
-	if(wait_for_rx)  send_buffer[tx_len++]= 1;
-	else 		 send_buffer[tx_len++]= 0;
+	//set done or not done with test
+	if(iter_ct == num_iters -1) send_buffer[tx_len++]= 1;
+	else			    send_buffer[tx_len++]= 0;
 
-	while(tx_len < (num_bytes + sizeof(struct ether_header) + 1) )
+	send_buffer[tx_len++]= (char)(iter_ct);
+	send_buffer[tx_len++]= (char)(iter_ct >> 8);
+	
+	printf("[%d] ",iter_ct);
+
+	if(not_wait_for_rx) printf("Transmitting %dB routing packet\n", num_bytes);
+	else 		    printf("Transmitting %dB data packet\n", num_bytes);
+
+	while(tx_len < (num_bytes + sizeof(struct ether_header)) )
 		send_buffer[tx_len++] = 2;
 	
-	struct sockaddr_ll socket_address;
-	socket_address.sll_ifindex = if_idx->ifr_ifindex; //device idx
-	socket_address.sll_halen = ETH_ALEN; //addr len
-	/* Destination MAC */
-	socket_address.sll_addr[0] = MY_DEST_MAC0;
-	socket_address.sll_addr[1] = MY_DEST_MAC1;
-	socket_address.sll_addr[2] = MY_DEST_MAC2;
-	socket_address.sll_addr[3] = MY_DEST_MAC3;
-	socket_address.sll_addr[4] = MY_DEST_MAC4;
-	socket_address.sll_addr[5] = MY_DEST_MAC5;
+	struct sockaddr_ll saddr;
+	saddr.sll_ifindex = *ifindex; 
+	saddr.sll_halen = ETH_ALEN; 
+
+	memcpy((void*)(saddr.sll_addr), (void*)dest_mac, ETH_ALEN);
 
 	/* Send packet */
-	if (sendto(sockfd, send_buffer, tx_len, 0, (struct sockaddr*)&socket_address, sizeof(struct sockaddr_ll)) < 0){
-	    printf("TX failure\n");
+	if(sendto(sockfd, send_buffer, tx_len, 0, 
+		(struct sockaddr*)&saddr, sizeof(struct sockaddr_ll)) < 0)
 	    return -1;
-	}
+	
 	return 0;
 }
 
@@ -211,9 +200,19 @@ int main(int argc, char *argv[]){
 	int tmp;
 
 	int TXsockfd;
-	struct ifreq if_idx;
-	struct ifreq if_mac;
-	TXsockfd= initTX(&if_idx, &if_mac, ifName);
+
+	int ifindex;
+	uint8_t src_mac[ETH_ALEN];
+	uint8_t dest_mac[ETH_ALEN];
+	dest_mac[0]= 0xdc;
+	dest_mac[1]= 0xa6;
+	dest_mac[2]= 0x32;
+	dest_mac[3]= 0xf7;
+	dest_mac[4]= 0xe7;
+	dest_mac[5]= 0x36;
+
+	TXsockfd= initTX(&ifindex, src_mac, ifName);
+
 	char send_buffer[BUF_SIZ];
 	memset(send_buffer, 0, BUF_SIZ);
 	struct ether_header *TXeh = (struct ether_header *) send_buffer;
@@ -228,10 +227,14 @@ int main(int argc, char *argv[]){
 	int c; 
 	int i=1;
 	char *filename= NULL;
-	while( (c=getopt(argc, argv, "f")) != -1){
+	int num_iters= NUM_ITERS;
+	while( (c=getopt(argc, argv, "fn")) != -1){
 		switch(c){
-			case 'f': //size in bytes
+			case 'f': 
 				filename= argv[i+1]; 
+				break;
+			case 'n': 
+				num_iters= atoi(argv[i+2]);
 				break;
 			default:
 				printf("Invalid Arg\n");
@@ -246,18 +249,18 @@ int main(int argc, char *argv[]){
 	}
 	FILE *file = fopen(filename, "r");
 
-	int wait_for_rx= 0;
+	int not_wait_for_rx= 0;
 	int sleepTime= 100;
 	int num_bytes= 10;
 
 	char csv_buf[400];
 	int iter_ct= 0;
-	while(fgets(csv_buf, sizeof(csv_buf), file) && iter_ct < NUM_ITERS) {
+	while(fgets(csv_buf, sizeof(csv_buf), file) && iter_ct < num_iters) {
 		const char delim[2] = ",";
 
 		char *data;
 		data= strtok(csv_buf, delim);
-		wait_for_rx= atoi(data);
+		not_wait_for_rx= atoi(data);
 
 		data= strtok(NULL, delim);
 		sleepTime= atoi(data);
@@ -265,24 +268,32 @@ int main(int argc, char *argv[]){
 		data= strtok(NULL, delim);
 		num_bytes= atoi(data);
 
+		/* For single RX/TX tests
+		num_bytes= 80;
+		not_wait_for_rx= 1;
+		sleepTime= 10; //ms
+		*/
+
 
 		GPIOWrite(GPIO_PIN, 1); //begin data collection
-		TX(TXsockfd, send_buffer, num_bytes, &if_idx, &if_mac, TXeh, wait_for_rx);
+		TX(TXsockfd, send_buffer, num_bytes, &ifindex, src_mac, dest_mac, TXeh, not_wait_for_rx, iter_ct, num_iters); 
 
 		GPIOWrite(GPIO_PIN, 0); //end data collection
-		if(wait_for_rx){
+		if(!not_wait_for_rx){
 			if((tmp= RX(RXsockfd, eh, buf, prev_sec, prev_usec)) < 0) 
 				printf("MAC-addr connection error\n");
 		}
 
-		usleep((sleepTime * 1000));
+		usleep(sleepTime);
 
-		printf("[%d]  %d  %d  %d\n ", iter_ct, wait_for_rx, sleepTime, num_bytes);
 		iter_ct++;
 
 	}
 
+	GPIOWrite(GPIO_PIN, 0); //end data collection
 	GPIOWrite(GPIO_PIN_DONE, 1); //finished parsing the csv
+	sleep(1);
+	GPIOWrite(GPIO_PIN_DONE, 0); //finished parsing the csv
 
 	GPIOUnexport(GPIO_PIN);
 	GPIOUnexport(GPIO_PIN_DONE);

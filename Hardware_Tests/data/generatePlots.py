@@ -32,13 +32,5 @@ total_data= total_data[:-1] #remove last "done" signal from data
 print(total_data)
 
 df= pd.DataFrame(total_data, columns = ["t (ms)", "P (mW)"])
-df.to_csv('aodv_tx.csv', ',', index=False);
+df.to_csv('dsdv_tx_power.csv', ',', index=False);
 
-'''
-plotting_data= df.to_numpy()
-t= plotting_data[:,0]
-P= plotting_data[:,1]
-
-plt.plot(t, P)
-plt.show()
-'''
