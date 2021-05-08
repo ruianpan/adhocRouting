@@ -30,26 +30,8 @@
 #include "gpioLib.h"
 #include "sockInit.h"
 
-#define DEST_MAC0	0xdc
-#define DEST_MAC1	0xa6
-#define DEST_MAC2	0x32
-#define DEST_MAC3	0xf7
-#define DEST_MAC4	0xe7 
-#define DEST_MAC5	0x36
-
-//other device I believe
-#define MY_DEST_MAC0	0xdc
-#define MY_DEST_MAC1	0xa6
-#define MY_DEST_MAC2	0x32
-#define MY_DEST_MAC3	0xf7
-#define MY_DEST_MAC4	0xde
-#define MY_DEST_MAC5	0x19
-
-#define ETHER_TYPE	ETH_P_IP
-
-#define DEFAULT_IF	"wlan0"
-#define BUF_SIZ		1024
-#define GPIO_DATA	17
+//GPIO pins for communicating with the Arduino
+#define GPIO_DATA   17
 #define GPIO_DONE   27
 
 /**@brief Receives frames from a SOCK_RAW socket differentiates routing and data packets, 
@@ -124,14 +106,14 @@ int TX(int sockfd, int num_bytes, int *ifindex, uint8_t *src_mac, uint8_t *dest_
 	if(!num_bytes)  printf("tx: ACK\n");
 	else		printf("tx: %dB data\n");
 
-	char send_buffer[BUF_SIZ];
-	memset(send_buffer, 0, BUF_SIZ);
+	char send_buffer[1518];
+	memset(send_buffer, 0, 1518);
 	struct ether_header *eh = (struct ether_header *) send_buffer;
 	
 	//set source and dest host
 	memcpy((void*)(eh->ether_shost), (void*)src_mac, ETH_ALEN);
 	memcpy((void*)(eh->ether_dhost), (void*)dest_mac, ETH_ALEN);
-	eh->ether_type= htons(ETHER_TYPE); 
+	eh->ether_type= htons(ETH_P_IP); 
 
 	//set payload bytes 
 	int tx_len=0;
