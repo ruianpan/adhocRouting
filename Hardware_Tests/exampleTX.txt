@@ -1,0 +1,4539 @@
+[0] tx: 0B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 1619666796544.000000 ms
+[1] tx: 70B routing packet
+[2] tx: 70B routing packet
+[3] tx: 70B routing packet
+[4] tx: 70B routing packet
+[5] tx: 70B routing packet
+[6] tx: 70B routing packet
+[7] tx: 70B routing packet
+[8] tx: 70B routing packet
+[9] tx: 70B routing packet
+[10] tx: 70B routing packet
+[11] tx: 70B routing packet
+[12] tx: 70B routing packet
+[13] tx: 70B routing packet
+[14] tx: 70B routing packet
+[15] tx: 70B routing packet
+[16] tx: 70B routing packet
+[17] tx: 70B routing packet
+[18] tx: 70B routing packet
+[19] tx: 70B routing packet
+[20] tx: 70B routing packet
+[21] tx: 70B routing packet
+[22] tx: 70B routing packet
+[23] tx: 70B routing packet
+[24] tx: 70B routing packet
+[25] tx: 70B routing packet
+[26] tx: 70B routing packet
+[27] tx: 70B routing packet
+[28] tx: 70B routing packet
+[29] tx: 70B routing packet
+[30] tx: 70B routing packet
+[31] tx: 70B routing packet
+[32] tx: 70B routing packet
+[33] tx: 70B routing packet
+[34] tx: 70B routing packet
+[35] tx: 70B routing packet
+[36] tx: 70B routing packet
+[37] tx: 70B routing packet
+[38] tx: 70B routing packet
+[39] tx: 70B routing packet
+[40] tx: 70B routing packet
+[41] tx: 70B routing packet
+[42] tx: 70B routing packet
+[43] tx: 70B routing packet
+[44] tx: 70B routing packet
+[45] tx: 70B routing packet
+[46] tx: 70B routing packet
+[47] tx: 70B routing packet
+[48] tx: 70B routing packet
+[49] tx: 70B routing packet
+[50] tx: 70B routing packet
+[51] tx: 70B routing packet
+[52] tx: 70B routing packet
+[53] tx: 70B routing packet
+[54] tx: 70B routing packet
+[55] tx: 70B routing packet
+[56] tx: 70B routing packet
+[57] tx: 70B routing packet
+[58] tx: 70B routing packet
+[59] tx: 70B routing packet
+[60] tx: 70B routing packet
+[61] tx: 70B routing packet
+[62] tx: 70B routing packet
+[63] tx: 70B routing packet
+[64] tx: 70B routing packet
+[65] tx: 70B routing packet
+[66] tx: 70B routing packet
+[67] tx: 70B routing packet
+[68] tx: 70B routing packet
+[69] tx: 70B routing packet
+[70] tx: 70B routing packet
+[71] tx: 70B routing packet
+[72] tx: 70B routing packet
+[73] tx: 70B routing packet
+[74] tx: 70B routing packet
+[75] tx: 70B routing packet
+[76] tx: 70B routing packet
+[77] tx: 70B routing packet
+[78] tx: 70B routing packet
+[79] tx: 70B routing packet
+[80] tx: 70B routing packet
+[81] tx: 70B routing packet
+[82] tx: 70B routing packet
+[83] tx: 70B routing packet
+[84] tx: 70B routing packet
+[85] tx: 70B routing packet
+[86] tx: 70B routing packet
+[87] tx: 70B routing packet
+[88] tx: 70B routing packet
+[89] tx: 70B routing packet
+[90] tx: 70B routing packet
+[91] tx: 70B routing packet
+[92] tx: 70B routing packet
+[93] tx: 70B routing packet
+[94] tx: 70B routing packet
+[95] tx: 70B routing packet
+[96] tx: 70B routing packet
+[97] tx: 70B routing packet
+[98] tx: 70B routing packet
+[99] tx: 70B routing packet
+[100] tx: 70B routing packet
+[101] tx: 70B routing packet
+[102] tx: 70B routing packet
+[103] tx: 70B routing packet
+[104] tx: 70B routing packet
+[105] tx: 70B routing packet
+[106] tx: 70B routing packet
+[107] tx: 70B routing packet
+[108] tx: 70B routing packet
+[109] tx: 70B routing packet
+[110] tx: 70B routing packet
+[111] tx: 70B routing packet
+[112] tx: 70B routing packet
+[113] tx: 70B routing packet
+[114] tx: 70B routing packet
+[115] tx: 70B routing packet
+[116] tx: 70B routing packet
+[117] tx: 70B routing packet
+[118] tx: 70B routing packet
+[119] tx: 70B routing packet
+[120] tx: 70B routing packet
+[121] tx: 70B routing packet
+[122] tx: 70B routing packet
+[123] tx: 70B routing packet
+[124] tx: 70B routing packet
+[125] tx: 70B routing packet
+[126] tx: 70B routing packet
+[127] tx: 70B routing packet
+[128] tx: 70B routing packet
+[129] tx: 70B routing packet
+[130] tx: 70B routing packet
+[131] tx: 70B routing packet
+[132] tx: 70B routing packet
+[133] tx: 70B routing packet
+[134] tx: 70B routing packet
+[135] tx: 70B routing packet
+[136] tx: 70B routing packet
+[137] tx: 70B routing packet
+[138] tx: 70B routing packet
+[139] tx: 70B routing packet
+[140] tx: 70B routing packet
+[141] tx: 70B routing packet
+[142] tx: 70B routing packet
+[143] tx: 70B routing packet
+[144] tx: 70B routing packet
+[145] tx: 70B routing packet
+[146] tx: 70B routing packet
+[147] tx: 70B routing packet
+[148] tx: 70B routing packet
+[149] tx: 70B routing packet
+[150] tx: 70B routing packet
+[151] tx: 70B routing packet
+[152] tx: 70B routing packet
+[153] tx: 70B routing packet
+[154] tx: 70B routing packet
+[155] tx: 70B routing packet
+[156] tx: 70B routing packet
+[157] tx: 70B routing packet
+[158] tx: 70B routing packet
+[159] tx: 70B routing packet
+[160] tx: 70B routing packet
+[161] tx: 70B routing packet
+[162] tx: 70B routing packet
+[163] tx: 70B routing packet
+[164] tx: 70B routing packet
+[165] tx: 70B routing packet
+[166] tx: 70B routing packet
+[167] tx: 70B routing packet
+[168] tx: 70B routing packet
+[169] tx: 70B routing packet
+[170] tx: 70B routing packet
+[171] tx: 70B routing packet
+[172] tx: 70B routing packet
+[173] tx: 70B routing packet
+[174] tx: 70B routing packet
+[175] tx: 70B routing packet
+[176] tx: 70B routing packet
+[177] tx: 70B routing packet
+[178] tx: 70B routing packet
+[179] tx: 70B routing packet
+[180] tx: 70B routing packet
+[181] tx: 70B routing packet
+[182] tx: 70B routing packet
+[183] tx: 70B routing packet
+[184] tx: 70B routing packet
+[185] tx: 70B routing packet
+[186] tx: 70B routing packet
+[187] tx: 70B routing packet
+[188] tx: 70B routing packet
+[189] tx: 70B routing packet
+[190] tx: 70B routing packet
+[191] tx: 70B routing packet
+[192] tx: 70B routing packet
+[193] tx: 70B routing packet
+[194] tx: 70B routing packet
+[195] tx: 70B routing packet
+[196] tx: 70B routing packet
+[197] tx: 70B routing packet
+[198] tx: 70B routing packet
+[199] tx: 70B routing packet
+[200] tx: 70B routing packet
+[201] tx: 70B routing packet
+[202] tx: 70B routing packet
+[203] tx: 70B routing packet
+[204] tx: 70B routing packet
+[205] tx: 70B routing packet
+[206] tx: 70B routing packet
+[207] tx: 70B routing packet
+[208] tx: 70B routing packet
+[209] tx: 70B routing packet
+[210] tx: 70B routing packet
+[211] tx: 70B routing packet
+[212] tx: 70B routing packet
+[213] tx: 70B routing packet
+[214] tx: 70B routing packet
+[215] tx: 70B routing packet
+[216] tx: 70B routing packet
+[217] tx: 70B routing packet
+[218] tx: 70B routing packet
+[219] tx: 70B routing packet
+[220] tx: 70B routing packet
+[221] tx: 70B routing packet
+[222] tx: 70B routing packet
+[223] tx: 70B routing packet
+[224] tx: 70B routing packet
+[225] tx: 70B routing packet
+[226] tx: 70B routing packet
+[227] tx: 70B routing packet
+[228] tx: 70B routing packet
+[229] tx: 70B routing packet
+[230] tx: 70B routing packet
+[231] tx: 70B routing packet
+[232] tx: 70B routing packet
+[233] tx: 70B routing packet
+[234] tx: 70B routing packet
+[235] tx: 70B routing packet
+[236] tx: 70B routing packet
+[237] tx: 70B routing packet
+[238] tx: 70B routing packet
+[239] tx: 70B routing packet
+[240] tx: 70B routing packet
+[241] tx: 70B routing packet
+[242] tx: 70B routing packet
+[243] tx: 70B routing packet
+[244] tx: 70B routing packet
+[245] tx: 70B routing packet
+[246] tx: 70B routing packet
+[247] tx: 70B routing packet
+[248] tx: 70B routing packet
+[249] tx: 70B routing packet
+[250] tx: 70B routing packet
+[251] tx: 70B routing packet
+[252] tx: 70B routing packet
+[253] tx: 70B routing packet
+[254] tx: 70B routing packet
+[255] tx: 70B routing packet
+[256] tx: 70B routing packet
+[257] tx: 70B routing packet
+[258] tx: 70B routing packet
+[259] tx: 70B routing packet
+[260] tx: 70B routing packet
+[261] tx: 70B routing packet
+[262] tx: 70B routing packet
+[263] tx: 70B routing packet
+[264] tx: 70B routing packet
+[265] tx: 70B routing packet
+[266] tx: 70B routing packet
+[267] tx: 70B routing packet
+[268] tx: 70B routing packet
+[269] tx: 70B routing packet
+[270] tx: 70B routing packet
+[271] tx: 70B routing packet
+[272] tx: 70B routing packet
+[273] tx: 70B routing packet
+[274] tx: 70B routing packet
+[275] tx: 70B routing packet
+[276] tx: 70B routing packet
+[277] tx: 70B routing packet
+[278] tx: 70B routing packet
+[279] tx: 70B routing packet
+[280] tx: 70B routing packet
+[281] tx: 70B routing packet
+[282] tx: 70B routing packet
+[283] tx: 70B routing packet
+[284] tx: 70B routing packet
+[285] tx: 70B routing packet
+[286] tx: 70B routing packet
+[287] tx: 70B routing packet
+[288] tx: 70B routing packet
+[289] tx: 70B routing packet
+[290] tx: 70B routing packet
+[291] tx: 70B routing packet
+[292] tx: 70B routing packet
+[293] tx: 70B routing packet
+[294] tx: 70B routing packet
+[295] tx: 70B routing packet
+[296] tx: 70B routing packet
+[297] tx: 70B routing packet
+[298] tx: 70B routing packet
+[299] tx: 70B routing packet
+[300] tx: 70B routing packet
+[301] tx: 70B routing packet
+[302] tx: 70B routing packet
+[303] tx: 70B routing packet
+[304] tx: 70B routing packet
+[305] tx: 70B routing packet
+[306] tx: 70B routing packet
+[307] tx: 70B routing packet
+[308] tx: 70B routing packet
+[309] tx: 70B routing packet
+[310] tx: 70B routing packet
+[311] tx: 70B routing packet
+[312] tx: 70B routing packet
+[313] tx: 70B routing packet
+[314] tx: 70B routing packet
+[315] tx: 70B routing packet
+[316] tx: 70B routing packet
+[317] tx: 70B routing packet
+[318] tx: 70B routing packet
+[319] tx: 70B routing packet
+[320] tx: 70B routing packet
+[321] tx: 70B routing packet
+[322] tx: 70B routing packet
+[323] tx: 70B routing packet
+[324] tx: 70B routing packet
+[325] tx: 70B routing packet
+[326] tx: 70B routing packet
+[327] tx: 70B routing packet
+[328] tx: 70B routing packet
+[329] tx: 70B routing packet
+[330] tx: 70B routing packet
+[331] tx: 70B routing packet
+[332] tx: 70B routing packet
+[333] tx: 70B routing packet
+[334] tx: 70B routing packet
+[335] tx: 70B routing packet
+[336] tx: 70B routing packet
+[337] tx: 70B routing packet
+[338] tx: 70B routing packet
+[339] tx: 70B routing packet
+[340] tx: 70B routing packet
+[341] tx: 70B routing packet
+[342] tx: 70B routing packet
+[343] tx: 70B routing packet
+[344] tx: 70B routing packet
+[345] tx: 70B routing packet
+[346] tx: 70B routing packet
+[347] tx: 70B routing packet
+[348] tx: 70B routing packet
+[349] tx: 70B routing packet
+[350] tx: 70B routing packet
+[351] tx: 70B routing packet
+[352] tx: 70B routing packet
+[353] tx: 70B routing packet
+[354] tx: 70B routing packet
+[355] tx: 70B routing packet
+[356] tx: 70B routing packet
+[357] tx: 70B routing packet
+[358] tx: 70B routing packet
+[359] tx: 70B routing packet
+[360] tx: 70B routing packet
+[361] tx: 70B routing packet
+[362] tx: 70B routing packet
+[363] tx: 70B routing packet
+[364] tx: 70B routing packet
+[365] tx: 70B routing packet
+[366] tx: 70B routing packet
+[367] tx: 70B routing packet
+[368] tx: 70B routing packet
+[369] tx: 70B routing packet
+[370] tx: 70B routing packet
+[371] tx: 70B routing packet
+[372] tx: 70B routing packet
+[373] tx: 70B routing packet
+[374] tx: 70B routing packet
+[375] tx: 70B routing packet
+[376] tx: 70B routing packet
+[377] tx: 70B routing packet
+[378] tx: 70B routing packet
+[379] tx: 70B routing packet
+[380] tx: 70B routing packet
+[381] tx: 70B routing packet
+[382] tx: 70B routing packet
+[383] tx: 70B routing packet
+[384] tx: 70B routing packet
+[385] tx: 70B routing packet
+[386] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 50294.843750 ms
+[387] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 158.242004 ms
+[388] tx: 74B routing packet
+[389] tx: 74B routing packet
+[390] tx: 74B routing packet
+[391] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 246.660004 ms
+[392] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 22.870001 ms
+[393] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 42.907001 ms
+[394] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 22.698000 ms
+[395] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 20.704000 ms
+[396] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 43.796001 ms
+[397] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 1838.629028 ms
+[398] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 52.634998 ms
+[399] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 44.277000 ms
+[400] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 161.391998 ms
+[401] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 30.131001 ms
+[402] tx: 70B routing packet
+[403] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 64.140999 ms
+[404] tx: 70B routing packet
+[405] tx: 70B routing packet
+[406] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 72.586998 ms
+[407] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 155.860001 ms
+[408] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 29.195999 ms
+[409] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 46.351002 ms
+[410] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 29.547001 ms
+[411] tx: 70B routing packet
+[412] tx: 70B routing packet
+[413] tx: 70B routing packet
+[414] tx: 70B routing packet
+[415] tx: 114B data packet
+Frame of 0 data bytes recv'd 
+Time since last packet recv'd: 198.195007 ms
+[416] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 25.969000 ms
+[417] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 1971.202026 ms
+[418] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 43.793999 ms
+[419] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 184.115005 ms
+[420] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 36.200001 ms
+[421] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 43.915001 ms
+[422] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 184.136993 ms
+[423] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 28.863001 ms
+[424] tx: 70B routing packet
+[425] tx: 70B routing packet
+[426] tx: 74B routing packet
+[427] tx: 74B routing packet
+[428] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 251.970001 ms
+[429] tx: 74B routing packet
+[430] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 56.967999 ms
+[431] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 39.570999 ms
+[432] tx: 70B routing packet
+[433] tx: 70B routing packet
+[434] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 1766.315918 ms
+[435] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 34.359001 ms
+[436] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 33.847000 ms
+[437] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 12.120000 ms
+[438] tx: 74B routing packet
+[439] tx: 74B routing packet
+[440] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 63.889000 ms
+[441] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 30.093000 ms
+[442] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 28.848000 ms
+[443] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 21.164000 ms
+[444] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 44.095001 ms
+[445] tx: 74B routing packet
+[446] tx: 74B routing packet
+[447] tx: 74B routing packet
+[448] tx: 74B routing packet
+[449] tx: 74B routing packet
+[450] tx: 74B routing packet
+[451] tx: 74B routing packet
+[452] tx: 74B routing packet
+[453] tx: 74B routing packet
+[454] tx: 74B routing packet
+[455] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 239.009003 ms
+[456] tx: 74B routing packet
+[457] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 42.356998 ms
+[458] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 32.553001 ms
+[459] tx: 74B routing packet
+[460] tx: 74B routing packet
+[461] tx: 74B routing packet
+[462] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 83.482002 ms
+[463] tx: 74B routing packet
+[464] tx: 74B routing packet
+[465] tx: 74B routing packet
+[466] tx: 74B routing packet
+[467] tx: 74B routing packet
+[468] tx: 74B routing packet
+[469] tx: 74B routing packet
+[470] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 204.162994 ms
+[471] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 1952.442017 ms
+[472] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 28.938999 ms
+[473] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 43.855999 ms
+[474] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 184.365997 ms
+[475] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 29.010000 ms
+[476] tx: 74B routing packet
+[477] tx: 74B routing packet
+[478] tx: 74B routing packet
+[479] tx: 74B routing packet
+[480] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 134.166000 ms
+[481] tx: 74B routing packet
+[482] tx: 74B routing packet
+[483] tx: 74B routing packet
+[484] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 218.901993 ms
+[485] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 28.025999 ms
+[486] tx: 52B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 38.368000 ms
+[487] tx: 52B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 30.094000 ms
+[488] tx: 74B routing packet
+[489] tx: 74B routing packet
+[490] tx: 74B routing packet
+[491] tx: 74B routing packet
+[492] tx: 74B routing packet
+[493] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 120.726997 ms
+[494] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 24.254999 ms
+[495] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 1829.586914 ms
+[496] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 32.792000 ms
+[497] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 33.415001 ms
+[498] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 25.358000 ms
+[499] tx: 52B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 42.053001 ms
+[500] tx: 52B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 27.069000 ms
+[501] tx: 74B routing packet
+[502] tx: 74B routing packet
+[503] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 65.917000 ms
+[504] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 29.683001 ms
+[505] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 31.613001 ms
+[506] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 19.311001 ms
+[507] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 27.920000 ms
+[508] tx: 52B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 16.646000 ms
+[509] tx: 52B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 13.212000 ms
+[510] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 34.881001 ms
+[511] tx: 52B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 40.393002 ms
+[512] tx: 52B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 13.843000 ms
+[513] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 38.466000 ms
+[514] tx: 74B routing packet
+[515] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 48.146999 ms
+[516] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 32.313000 ms
+[517] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 25.132999 ms
+[518] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 24.474001 ms
+[519] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 21.518999 ms
+[520] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 21.875000 ms
+[521] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 32.053001 ms
+[522] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 32.591999 ms
+[523] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 39.903999 ms
+[524] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 36.294998 ms
+[525] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 45.176998 ms
+[526] tx: 62B routing packet
+[527] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 54.432999 ms
+[528] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 1962.088013 ms
+[529] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 23.718000 ms
+[530] tx: 74B routing packet
+[531] tx: 74B routing packet
+[532] tx: 74B routing packet
+[533] tx: 74B routing packet
+[534] tx: 74B routing packet
+[535] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 167.337006 ms
+[536] tx: 74B routing packet
+[537] tx: 74B routing packet
+[538] tx: 62B routing packet
+[539] tx: 74B routing packet
+[540] tx: 74B routing packet
+[541] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 173.315002 ms
+[542] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 30.510000 ms
+[543] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 28.209000 ms
+[544] tx: 74B routing packet
+[545] tx: 74B routing packet
+[546] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 77.731003 ms
+[547] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 42.160999 ms
+[548] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 62.693001 ms
+[549] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 30.301001 ms
+[550] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 31.997000 ms
+[551] tx: 74B routing packet
+[552] tx: 74B routing packet
+[553] tx: 74B routing packet
+[554] tx: 74B routing packet
+[555] tx: 74B routing packet
+[556] tx: 74B routing packet
+[557] tx: 52B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 174.542999 ms
+[558] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 29.818001 ms
+[559] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 35.601002 ms
+[560] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 36.066002 ms
+[561] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 1956.192993 ms
+[562] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 184.102997 ms
+[563] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 28.735001 ms
+[564] tx: 74B routing packet
+[565] tx: 74B routing packet
+[566] tx: 74B routing packet
+[567] tx: 74B routing packet
+[568] tx: 74B routing packet
+[569] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 315.342010 ms
+[570] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 28.148001 ms
+[571] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 40.640999 ms
+[572] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 29.176001 ms
+[573] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 22.046000 ms
+[574] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 44.036999 ms
+[575] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 181.983002 ms
+[576] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 29.503000 ms
+[577] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 28.552999 ms
+[578] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 43.708000 ms
+[579] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 1962.380981 ms
+[580] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 39.525002 ms
+[581] tx: 52B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 35.070000 ms
+[582] tx: 52B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 26.686001 ms
+[583] tx: 74B routing packet
+[584] tx: 74B routing packet
+[585] tx: 74B routing packet
+[586] tx: 74B routing packet
+[587] tx: 74B routing packet
+[588] tx: 74B routing packet
+[589] tx: 74B routing packet
+[590] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 233.315002 ms
+[591] tx: 74B routing packet
+[592] tx: 74B routing packet
+[593] tx: 74B routing packet
+[594] tx: 74B routing packet
+[595] tx: 74B routing packet
+[596] tx: 74B routing packet
+[597] tx: 74B routing packet
+[598] tx: 74B routing packet
+[599] tx: 74B routing packet
+[600] tx: 74B routing packet
+[601] tx: 74B routing packet
+[602] tx: 74B routing packet
+[603] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 313.860992 ms
+[604] tx: 74B routing packet
+[605] tx: 74B routing packet
+[606] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 67.290001 ms
+[607] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 34.771000 ms
+[608] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 36.762001 ms
+[609] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 24.896999 ms
+[610] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 37.966999 ms
+[611] tx: 74B routing packet
+[612] tx: 74B routing packet
+[613] tx: 74B routing packet
+[614] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 96.954002 ms
+[615] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 1957.773926 ms
+[616] tx: 74B routing packet
+[617] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 34.897999 ms
+[618] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 30.330000 ms
+[619] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 24.129999 ms
+[620] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 40.471001 ms
+[621] tx: 74B routing packet
+[622] tx: 74B routing packet
+[623] tx: 74B routing packet
+[624] tx: 74B routing packet
+[625] tx: 74B routing packet
+[626] tx: 74B routing packet
+[627] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 151.981995 ms
+[628] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 167.904007 ms
+[629] tx: 74B routing packet
+[630] tx: 74B routing packet
+[631] tx: 74B routing packet
+[632] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 233.192001 ms
+[633] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 30.594000 ms
+[634] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 38.185001 ms
+[635] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 34.625999 ms
+[636] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 70.253998 ms
+[637] tx: 52B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 1820.362061 ms
+[638] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 28.309999 ms
+[639] tx: 52B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 22.900999 ms
+[640] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 23.549999 ms
+[641] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 40.312000 ms
+[642] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 18.299000 ms
+[643] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 24.289000 ms
+[644] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 31.289000 ms
+[645] tx: 74B routing packet
+[646] tx: 74B routing packet
+[647] tx: 74B routing packet
+[648] tx: 74B routing packet
+[649] tx: 74B routing packet
+[650] tx: 74B routing packet
+[651] tx: 74B routing packet
+[652] tx: 74B routing packet
+[653] tx: 74B routing packet
+[654] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 453.673004 ms
+[655] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 40.487000 ms
+[656] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 24.934999 ms
+[657] tx: 74B routing packet
+[658] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 38.643002 ms
+[659] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 36.980999 ms
+[660] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 30.733000 ms
+[661] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 27.959000 ms
+[662] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 14.237000 ms
+[663] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 19.754999 ms
+[664] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 24.670000 ms
+[665] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 37.337002 ms
+[666] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 1964.126953 ms
+[667] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 175.007004 ms
+[668] tx: 74B routing packet
+[669] tx: 74B routing packet
+[670] tx: 74B routing packet
+[671] tx: 74B routing packet
+[672] tx: 74B routing packet
+[673] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 249.410004 ms
+[674] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 97.612999 ms
+[675] tx: 74B routing packet
+[676] tx: 74B routing packet
+[677] tx: 74B routing packet
+[678] tx: 74B routing packet
+[679] tx: 74B routing packet
+[680] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 311.154999 ms
+[681] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 37.068001 ms
+[682] tx: 62B routing packet
+[683] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 1748.432983 ms
+[684] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 43.148998 ms
+[685] tx: 74B routing packet
+[686] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 256.631012 ms
+[687] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 24.850000 ms
+[688] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 25.243999 ms
+[689] tx: 74B routing packet
+[690] tx: 74B routing packet
+[691] tx: 74B routing packet
+[692] tx: 74B routing packet
+[693] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 129.404999 ms
+[694] tx: 74B routing packet
+[695] tx: 74B routing packet
+[696] tx: 74B routing packet
+[697] tx: 74B routing packet
+[698] tx: 74B routing packet
+[699] tx: 74B routing packet
+[700] tx: 74B routing packet
+[701] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 325.526001 ms
+[702] tx: 74B routing packet
+[703] tx: 74B routing packet
+[704] tx: 74B routing packet
+[705] tx: 74B routing packet
+[706] tx: 74B routing packet
+[707] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 1839.439941 ms
+[708] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 29.771000 ms
+[709] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 24.283001 ms
+[710] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 29.955999 ms
+[711] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 30.389000 ms
+[712] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 34.097000 ms
+[713] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 32.311001 ms
+[714] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 44.084000 ms
+[715] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 186.035004 ms
+[716] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 27.976000 ms
+[717] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 34.931000 ms
+[718] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 43.837002 ms
+[719] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 184.059998 ms
+[720] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 28.426001 ms
+[721] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 43.766998 ms
+[722] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 1815.875000 ms
+[723] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 28.521999 ms
+[724] tx: 70B routing packet
+[725] tx: 70B routing packet
+[726] tx: 70B routing packet
+[727] tx: 70B routing packet
+[728] tx: 70B routing packet
+[729] tx: 70B routing packet
+[730] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 323.153015 ms
+[731] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 30.521999 ms
+[732] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 33.685001 ms
+[733] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 44.403000 ms
+[734] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 184.574997 ms
+[735] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 32.625999 ms
+[736] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 43.866001 ms
+[737] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 184.061996 ms
+[738] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 1969.997070 ms
+[739] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 44.612999 ms
+[740] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 185.473999 ms
+[741] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 30.353001 ms
+[742] tx: 70B routing packet
+[743] tx: 70B routing packet
+[744] tx: 70B routing packet
+[745] tx: 70B routing packet
+[746] tx: 70B routing packet
+[747] tx: 86B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 289.631012 ms
+[748] tx: 70B routing packet
+[749] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 52.000999 ms
+[750] tx: 70B routing packet
+[751] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 40.544998 ms
+[752] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 41.021999 ms
+[753] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 18.834000 ms
+[754] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 28.594000 ms
+[755] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 27.150000 ms
+[756] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 37.402000 ms
+[757] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 27.184000 ms
+[758] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 45.250999 ms
+[759] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 38.252998 ms
+[760] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 27.089001 ms
+[761] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 1940.359009 ms
+[762] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 22.599001 ms
+[763] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 57.886002 ms
+[764] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 43.800999 ms
+[765] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 184.983002 ms
+[766] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 28.426001 ms
+[767] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 44.465000 ms
+[768] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 185.809006 ms
+[769] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 34.058998 ms
+[770] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 43.959000 ms
+[771] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 184.533997 ms
+[772] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 28.415001 ms
+[773] tx: 70B routing packet
+[774] tx: 70B routing packet
+[775] tx: 70B routing packet
+[776] tx: 70B routing packet
+[777] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 1745.004028 ms
+[778] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 22.902000 ms
+[779] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 28.879000 ms
+[780] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 45.095001 ms
+[781] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 184.056000 ms
+[782] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 40.066002 ms
+[783] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 45.335999 ms
+[784] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 184.113007 ms
+[785] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 31.627001 ms
+[786] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 44.261002 ms
+[787] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 184.076996 ms
+[788] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 28.459999 ms
+[789] tx: 70B routing packet
+[790] tx: 70B routing packet
+[791] tx: 70B routing packet
+[792] tx: 70B routing packet
+[793] tx: 70B routing packet
+[794] tx: 70B routing packet
+[795] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 1676.202026 ms
+[796] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 31.934999 ms
+[797] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 33.611000 ms
+[798] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 43.710999 ms
+[799] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 174.376007 ms
+[800] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 30.037001 ms
+[801] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 43.349998 ms
+[802] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 31.674000 ms
+[803] tx: 74B routing packet
+[804] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 38.824001 ms
+[805] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 19.250000 ms
+[806] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 35.145000 ms
+[807] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 17.299999 ms
+[808] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 29.212000 ms
+[809] tx: 74B routing packet
+[810] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 26.753000 ms
+[811] tx: 74B routing packet
+[812] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 67.778999 ms
+[813] tx: 74B routing packet
+[814] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 54.439999 ms
+[815] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 32.360001 ms
+[816] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 1979.046997 ms
+[817] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 24.379000 ms
+[818] tx: 52B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 26.320000 ms
+[819] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 21.245001 ms
+[820] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 29.968000 ms
+[821] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 10.963000 ms
+[822] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 39.381001 ms
+[823] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 184.403000 ms
+[824] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 29.117001 ms
+[825] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 24.539000 ms
+[826] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 27.264000 ms
+[827] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 43.750000 ms
+[828] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 184.274002 ms
+[829] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 22.796000 ms
+[830] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 39.307999 ms
+[831] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 32.358002 ms
+[832] tx: 70B routing packet
+[833] tx: 70B routing packet
+[834] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 241.117004 ms
+[835] tx: 74B routing packet
+[836] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 1951.563965 ms
+[837] tx: 52B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 37.819000 ms
+[838] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 37.594002 ms
+[839] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 20.236000 ms
+[840] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 23.330999 ms
+[841] tx: 52B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 38.076000 ms
+[842] tx: 52B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 11.674000 ms
+[843] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 36.313000 ms
+[844] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 28.385000 ms
+[845] tx: 52B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 30.804001 ms
+[846] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 30.434999 ms
+[847] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 34.089001 ms
+[848] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 186.656006 ms
+[849] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 31.806999 ms
+[850] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 23.372000 ms
+[851] tx: 70B routing packet
+[852] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 38.855999 ms
+[853] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 36.112000 ms
+[854] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 38.764000 ms
+[855] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 30.650000 ms
+[856] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 33.234001 ms
+[857] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 17.830000 ms
+[858] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 16.145000 ms
+[859] tx: 70B routing packet
+[860] tx: 70B routing packet
+[861] tx: 52B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 33.341999 ms
+[862] tx: 52B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 39.084000 ms
+[863] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 26.287001 ms
+[864] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 29.860001 ms
+[865] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 45.990002 ms
+[866] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 1815.890015 ms
+[867] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 31.143000 ms
+[868] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 44.000999 ms
+[869] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 184.110992 ms
+[870] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 28.684000 ms
+[871] tx: 70B routing packet
+[872] tx: 70B routing packet
+[873] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 237.132004 ms
+[874] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 34.271000 ms
+[875] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 35.824001 ms
+[876] tx: 70B routing packet
+[877] tx: 70B routing packet
+[878] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 75.190002 ms
+[879] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 36.995998 ms
+[880] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 35.175999 ms
+[881] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 35.402000 ms
+[882] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 20.480000 ms
+[883] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 1951.509033 ms
+[884] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 22.674999 ms
+[885] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 26.941000 ms
+[886] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 19.164000 ms
+[887] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 21.430000 ms
+[888] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 45.034000 ms
+[889] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 17.528000 ms
+[890] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 32.241001 ms
+[891] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 26.500000 ms
+[892] tx: 74B routing packet
+[893] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 53.261002 ms
+[894] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 116.757004 ms
+[895] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 39.418999 ms
+[896] tx: 52B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 26.523001 ms
+[897] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 36.228001 ms
+[898] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 38.903000 ms
+[899] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 21.740000 ms
+[900] tx: 52B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 17.832001 ms
+[901] tx: 70B routing packet
+[902] tx: 70B routing packet
+[903] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 52.210999 ms
+[904] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 25.632000 ms
+[905] tx: 74B routing packet
+[906] tx: 74B routing packet
+[907] tx: 74B routing packet
+[908] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 289.661987 ms
+[909] tx: 74B routing packet
+[910] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 1930.676025 ms
+[911] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 37.915001 ms
+[912] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 56.264999 ms
+[913] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 43.840000 ms
+[914] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 187.350998 ms
+[915] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 38.971001 ms
+[916] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 43.844002 ms
+[917] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 184.151001 ms
+[918] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 39.548000 ms
+[919] tx: 52B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 44.304001 ms
+[920] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 19.054001 ms
+[921] tx: 70B routing packet
+[922] tx: 70B routing packet
+[923] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 123.346001 ms
+[924] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 108.777000 ms
+[925] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 34.626999 ms
+[926] tx: 70B routing packet
+[927] tx: 70B routing packet
+[928] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 1756.726074 ms
+[929] tx: 70B routing packet
+[930] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 39.310001 ms
+[931] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 34.917999 ms
+[932] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 45.512001 ms
+[933] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 184.313995 ms
+[934] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 45.637001 ms
+[935] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 43.778999 ms
+[936] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 184.414001 ms
+[937] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 32.036999 ms
+[938] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 43.686001 ms
+[939] tx: 70B routing packet
+[940] tx: 70B routing packet
+[941] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 1860.651978 ms
+[942] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 26.362000 ms
+[943] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 8.851000 ms
+[944] tx: 86B routing packet
+[945] tx: 74B routing packet
+[946] tx: 74B routing packet
+[947] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 140.397995 ms
+[948] tx: 52B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 30.056999 ms
+[949] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 28.332001 ms
+[950] tx: 74B routing packet
+[951] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 69.566002 ms
+[952] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 29.921000 ms
+[953] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 39.011002 ms
+[954] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 43.925999 ms
+[955] tx: 70B routing packet
+[956] tx: 70B routing packet
+[957] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 249.716995 ms
+[958] tx: 74B routing packet
+[959] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 74.875999 ms
+[960] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 27.806999 ms
+[961] tx: 74B routing packet
+[962] tx: 74B routing packet
+[963] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 57.102001 ms
+[964] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 1833.059082 ms
+[965] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 31.695000 ms
+[966] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 45.563999 ms
+[967] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 184.410004 ms
+[968] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 29.277000 ms
+[969] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 32.817001 ms
+[970] tx: 52B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 26.896999 ms
+[971] tx: 74B routing packet
+[972] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 73.094002 ms
+[973] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 23.507000 ms
+[974] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 32.577999 ms
+[975] tx: 52B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 26.718000 ms
+[976] tx: 52B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 24.235001 ms
+[977] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 21.457001 ms
+[978] tx: 74B routing packet
+[979] tx: 74B routing packet
+[980] tx: 52B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 84.242996 ms
+[981] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 36.300999 ms
+[982] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 24.635000 ms
+[983] tx: 52B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 184.348007 ms
+[984] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 24.511000 ms
+[985] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 38.110001 ms
+[986] tx: 74B routing packet
+[987] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 1783.616943 ms
+[988] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 35.775002 ms
+[989] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 31.604000 ms
+[990] tx: 62B routing packet
+[991] tx: 74B routing packet
+[992] tx: 74B routing packet
+[993] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 99.846001 ms
+[994] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 27.408001 ms
+[995] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 18.462000 ms
+[996] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 23.745001 ms
+[997] tx: 62B routing packet
+[998] tx: 74B routing packet
+[999] tx: 74B routing packet
+[1000] tx: 74B routing packet
+[1001] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 121.775002 ms
+[1002] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 28.730000 ms
+[1003] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 23.327000 ms
+[1004] tx: 74B routing packet
+[1005] tx: 74B routing packet
+[1006] tx: 74B routing packet
+[1007] tx: 74B routing packet
+[1008] tx: 74B routing packet
+[1009] tx: 74B routing packet
+[1010] tx: 74B routing packet
+[1011] tx: 74B routing packet
+[1012] tx: 74B routing packet
+[1013] tx: 74B routing packet
+[1014] tx: 74B routing packet
+[1015] tx: 74B routing packet
+[1016] tx: 74B routing packet
+[1017] tx: 74B routing packet
+[1018] tx: 74B routing packet
+[1019] tx: 74B routing packet
+[1020] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 1571.556030 ms
+[1021] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 46.893002 ms
+[1022] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 29.594000 ms
+[1023] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 43.856998 ms
+[1024] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 110.585999 ms
+[1025] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 75.755997 ms
+[1026] tx: 52B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 38.231998 ms
+[1027] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 32.027000 ms
+[1028] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 23.719999 ms
+[1029] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 184.421997 ms
+[1030] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 37.240002 ms
+[1031] tx: 52B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 43.966000 ms
+[1032] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 177.906006 ms
+[1033] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 20.605000 ms
+[1034] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 28.525000 ms
+[1035] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 34.348000 ms
+[1036] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 19.761000 ms
+[1037] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 34.416000 ms
+[1038] tx: 70B routing packet
+[1039] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 1912.678955 ms
+[1040] tx: 74B routing packet
+[1041] tx: 52B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 36.791000 ms
+[1042] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 32.098999 ms
+[1043] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 26.914000 ms
+[1044] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 27.414000 ms
+[1045] tx: 74B routing packet
+[1046] tx: 74B routing packet
+[1047] tx: 74B routing packet
+[1048] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 98.283997 ms
+[1049] tx: 74B routing packet
+[1050] tx: 74B routing packet
+[1051] tx: 74B routing packet
+[1052] tx: 74B routing packet
+[1053] tx: 74B routing packet
+[1054] tx: 74B routing packet
+[1055] tx: 74B routing packet
+[1056] tx: 74B routing packet
+[1057] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 312.049988 ms
+[1058] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 26.841000 ms
+[1059] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 32.673000 ms
+[1060] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 13.543000 ms
+[1061] tx: 74B routing packet
+[1062] tx: 74B routing packet
+[1063] tx: 74B routing packet
+[1064] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 88.536003 ms
+[1065] tx: 52B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 23.184999 ms
+[1066] tx: 74B routing packet
+[1067] tx: 74B routing packet
+[1068] tx: 74B routing packet
+[1069] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 102.250999 ms
+[1070] tx: 74B routing packet
+[1071] tx: 74B routing packet
+[1072] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 93.195000 ms
+[1073] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 1961.767090 ms
+[1074] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 24.061001 ms
+[1075] tx: 74B routing packet
+[1076] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 69.778000 ms
+[1077] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 33.141998 ms
+[1078] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 93.422997 ms
+[1079] tx: 74B routing packet
+[1080] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 41.368999 ms
+[1081] tx: 74B routing packet
+[1082] tx: 74B routing packet
+[1083] tx: 74B routing packet
+[1084] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 104.665001 ms
+[1085] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 79.531998 ms
+[1086] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 33.009998 ms
+[1087] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 44.200001 ms
+[1088] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 184.139008 ms
+[1089] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 28.593000 ms
+[1090] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 43.764999 ms
+[1091] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 176.630005 ms
+[1092] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 1971.114990 ms
+[1093] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 33.862000 ms
+[1094] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 28.781000 ms
+[1095] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 43.729000 ms
+[1096] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 152.468002 ms
+[1097] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 34.109001 ms
+[1098] tx: 74B routing packet
+[1099] tx: 74B routing packet
+[1100] tx: 74B routing packet
+[1101] tx: 74B routing packet
+[1102] tx: 74B routing packet
+[1103] tx: 74B routing packet
+[1104] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 182.748993 ms
+[1105] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 28.874001 ms
+[1106] tx: 70B routing packet
+[1107] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 141.613007 ms
+[1108] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 86.595001 ms
+[1109] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 28.474001 ms
+[1110] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 44.658001 ms
+[1111] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 1815.945068 ms
+[1112] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 28.370001 ms
+[1113] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 43.750999 ms
+[1114] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 183.895996 ms
+[1115] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 34.138000 ms
+[1116] tx: 70B routing packet
+[1117] tx: 62B routing packet
+[1118] tx: 70B routing packet
+[1119] tx: 70B routing packet
+[1120] tx: 70B routing packet
+[1121] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 293.144012 ms
+[1122] tx: 70B routing packet
+[1123] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 32.717999 ms
+[1124] tx: 70B routing packet
+[1125] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 74.833000 ms
+[1126] tx: 74B routing packet
+[1127] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 65.257004 ms
+[1128] tx: 74B routing packet
+[1129] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 58.055000 ms
+[1130] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 26.162001 ms
+[1131] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 31.923000 ms
+[1132] tx: 74B routing packet
+[1133] tx: 74B routing packet
+[1134] tx: 74B routing packet
+[1135] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 104.660004 ms
+[1136] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 1828.990967 ms
+[1137] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 28.259001 ms
+[1138] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 43.785999 ms
+[1139] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 184.164993 ms
+[1140] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 29.625000 ms
+[1141] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 43.730000 ms
+[1142] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 184.024994 ms
+[1143] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 31.417000 ms
+[1144] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 43.583000 ms
+[1145] tx: 70B routing packet
+[1146] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 199.389008 ms
+[1147] tx: 70B routing packet
+[1148] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 1932.700928 ms
+[1149] tx: 70B routing packet
+[1150] tx: 70B routing packet
+[1151] tx: 70B routing packet
+[1152] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 81.376999 ms
+[1153] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 169.464996 ms
+[1154] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 28.177999 ms
+[1155] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 43.854000 ms
+[1156] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 184.070007 ms
+[1157] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 38.162998 ms
+[1158] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 43.713001 ms
+[1159] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 184.095001 ms
+[1160] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 28.865999 ms
+[1161] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 43.827000 ms
+[1162] tx: 70B routing packet
+[1163] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 1803.739014 ms
+[1164] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 23.231001 ms
+[1165] tx: 62B routing packet
+[1166] tx: 70B routing packet
+[1167] tx: 70B routing packet
+[1168] tx: 74B routing packet
+[1169] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 155.268997 ms
+[1170] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 35.431000 ms
+[1171] tx: 86B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 24.483000 ms
+[1172] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 35.062000 ms
+[1173] tx: 74B routing packet
+[1174] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 55.139999 ms
+[1175] tx: 74B routing packet
+[1176] tx: 74B routing packet
+[1177] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 80.500999 ms
+[1178] tx: 52B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 22.320000 ms
+[1179] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 16.344000 ms
+[1180] tx: 74B routing packet
+[1181] tx: 74B routing packet
+[1182] tx: 74B routing packet
+[1183] tx: 74B routing packet
+[1184] tx: 74B routing packet
+[1185] tx: 74B routing packet
+[1186] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 157.250000 ms
+[1187] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 28.162001 ms
+[1188] tx: 74B routing packet
+[1189] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 51.243000 ms
+[1190] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 25.188000 ms
+[1191] tx: 70B routing packet
+[1192] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 44.443001 ms
+[1193] tx: 52B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 24.879999 ms
+[1194] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 25.527000 ms
+[1195] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 24.072001 ms
+[1196] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 19.431000 ms
+[1197] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 1875.536011 ms
+[1198] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 31.181000 ms
+[1199] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 38.896999 ms
+[1200] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 30.663000 ms
+[1201] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 44.150002 ms
+[1202] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 184.164001 ms
+[1203] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 28.927999 ms
+[1204] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 43.826000 ms
+[1205] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 184.820007 ms
+[1206] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 28.476000 ms
+[1207] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 43.826000 ms
+[1208] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 184.117004 ms
+[1209] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 28.496000 ms
+[1210] tx: 70B routing packet
+[1211] tx: 70B routing packet
+[1212] tx: 70B routing packet
+[1213] tx: 62B routing packet
+[1214] tx: 70B routing packet
+[1215] tx: 70B routing packet
+[1216] tx: 70B routing packet
+[1217] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 1776.209961 ms
+[1218] tx: 74B routing packet
+[1219] tx: 74B routing packet
+[1220] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 59.862999 ms
+[1221] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 23.627001 ms
+[1222] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 43.959999 ms
+[1223] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 184.130005 ms
+[1224] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 30.270000 ms
+[1225] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 44.115002 ms
+[1226] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 184.766006 ms
+[1227] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 32.516998 ms
+[1228] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 44.123001 ms
+[1229] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 184.270004 ms
+[1230] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 29.197001 ms
+[1231] tx: 70B routing packet
+[1232] tx: 70B routing packet
+[1233] tx: 70B routing packet
+[1234] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 1887.271973 ms
+[1235] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 153.764008 ms
+[1236] tx: 70B routing packet
+[1237] tx: 70B routing packet
+[1238] tx: 70B routing packet
+[1239] tx: 70B routing packet
+[1240] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 91.997002 ms
+[1241] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 28.558001 ms
+[1242] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 18.174000 ms
+[1243] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 43.772999 ms
+[1244] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 184.113998 ms
+[1245] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 29.483000 ms
+[1246] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 43.854000 ms
+[1247] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 184.089005 ms
+[1248] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 29.412001 ms
+[1249] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 43.931999 ms
+[1250] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 1815.572021 ms
+[1251] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 28.410000 ms
+[1252] tx: 70B routing packet
+[1253] tx: 70B routing packet
+[1254] tx: 70B routing packet
+[1255] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 92.675003 ms
+[1256] tx: 70B routing packet
+[1257] tx: 70B routing packet
+[1258] tx: 70B routing packet
+[1259] tx: 70B routing packet
+[1260] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 253.983994 ms
+[1261] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 35.960999 ms
+[1262] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 43.793999 ms
+[1263] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 184.042999 ms
+[1264] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 31.832001 ms
+[1265] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 44.571999 ms
+[1266] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 1815.882080 ms
+[1267] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 31.898001 ms
+[1268] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 44.196999 ms
+[1269] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 184.207993 ms
+[1270] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 35.070999 ms
+[1271] tx: 70B routing packet
+[1272] tx: 70B routing packet
+[1273] tx: 70B routing packet
+[1274] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 109.311996 ms
+[1275] tx: 70B routing packet
+[1276] tx: 70B routing packet
+[1277] tx: 70B routing packet
+[1278] tx: 70B routing packet
+[1279] tx: 70B routing packet
+[1280] tx: 70B routing packet
+[1281] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 315.678986 ms
+[1282] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 26.180000 ms
+[1283] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 43.966999 ms
+[1284] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 1815.822021 ms
+[1285] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 37.220001 ms
+[1286] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 43.946999 ms
+[1287] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 184.162003 ms
+[1288] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 33.763000 ms
+[1289] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 44.005001 ms
+[1290] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 184.701996 ms
+[1291] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 50.703999 ms
+[1292] tx: 70B routing packet
+[1293] tx: 70B routing packet
+[1294] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 106.964996 ms
+[1295] tx: 70B routing packet
+[1296] tx: 70B routing packet
+[1297] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 217.824005 ms
+[1298] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 22.863001 ms
+[1299] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 44.266998 ms
+[1300] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 20.599001 ms
+[1301] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 1816.489014 ms
+[1302] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 31.089001 ms
+[1303] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 44.283001 ms
+[1304] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 184.330994 ms
+[1305] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 28.937000 ms
+[1306] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 43.830002 ms
+[1307] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 184.156998 ms
+[1308] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 28.684000 ms
+[1309] tx: 70B routing packet
+[1310] tx: 70B routing packet
+[1311] tx: 70B routing packet
+[1312] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 123.099998 ms
+[1313] tx: 70B routing packet
+[1314] tx: 70B routing packet
+[1315] tx: 70B routing packet
+[1316] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 1762.397949 ms
+[1317] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 19.468000 ms
+[1318] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 43.896000 ms
+[1319] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 185.052994 ms
+[1320] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 28.957001 ms
+[1321] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 44.000000 ms
+[1322] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 184.722000 ms
+[1323] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 30.115000 ms
+[1324] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 43.834999 ms
+[1325] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 184.417007 ms
+[1326] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 32.015999 ms
+[1327] tx: 70B routing packet
+[1328] tx: 70B routing packet
+[1329] tx: 70B routing packet
+[1330] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 112.989998 ms
+[1331] tx: 70B routing packet
+[1332] tx: 70B routing packet
+[1333] tx: 70B routing packet
+[1334] tx: 70B routing packet
+[1335] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 1758.104980 ms
+[1336] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 26.275000 ms
+[1337] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 44.261002 ms
+[1338] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 184.302994 ms
+[1339] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 28.429001 ms
+[1340] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 43.790001 ms
+[1341] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 184.363998 ms
+[1342] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 33.567001 ms
+[1343] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 43.862999 ms
+[1344] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 1815.584961 ms
+[1345] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 37.936001 ms
+[1346] tx: 70B routing packet
+[1347] tx: 70B routing packet
+[1348] tx: 70B routing packet
+[1349] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 103.463997 ms
+[1350] tx: 70B routing packet
+[1351] tx: 70B routing packet
+[1352] tx: 70B routing packet
+[1353] tx: 70B routing packet
+[1354] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 249.839005 ms
+[1355] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 31.365999 ms
+[1356] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 43.967999 ms
+[1357] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 184.358002 ms
+[1358] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 28.521999 ms
+[1359] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 43.759998 ms
+[1360] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 184.076004 ms
+[1361] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 28.658001 ms
+[1362] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 43.750000 ms
+[1363] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 1815.906006 ms
+[1364] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 28.921000 ms
+[1365] tx: 70B routing packet
+[1366] tx: 70B routing packet
+[1367] tx: 70B routing packet
+[1368] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 120.835999 ms
+[1369] tx: 70B routing packet
+[1370] tx: 70B routing packet
+[1371] tx: 70B routing packet
+[1372] tx: 70B routing packet
+[1373] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 253.725006 ms
+[1374] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 29.084000 ms
+[1375] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 46.290001 ms
+[1376] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 186.421005 ms
+[1377] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 28.653999 ms
+[1378] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 45.202000 ms
+[1379] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 1815.114014 ms
+[1380] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 35.748001 ms
+[1381] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 43.757999 ms
+[1382] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 185.018005 ms
+[1383] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 36.041000 ms
+[1384] tx: 70B routing packet
+[1385] tx: 70B routing packet
+[1386] tx: 70B routing packet
+[1387] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 107.668999 ms
+[1388] tx: 70B routing packet
+[1389] tx: 70B routing packet
+[1390] tx: 70B routing packet
+[1391] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 237.576004 ms
+[1392] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 25.653999 ms
+[1393] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 44.110001 ms
+[1394] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 1815.919922 ms
+[1395] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 35.654999 ms
+[1396] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 43.875999 ms
+[1397] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 184.072998 ms
+[1398] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 28.424000 ms
+[1399] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 44.375999 ms
+[1400] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 184.095001 ms
+[1401] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 35.339001 ms
+[1402] tx: 70B routing packet
+[1403] tx: 70B routing packet
+[1404] tx: 70B routing packet
+[1405] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 108.748001 ms
+[1406] tx: 70B routing packet
+[1407] tx: 70B routing packet
+[1408] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 204.048996 ms
+[1409] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 38.806999 ms
+[1410] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 43.820999 ms
+[1411] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 1813.530029 ms
+[1412] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 28.462000 ms
+[1413] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 44.442001 ms
+[1414] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 184.337997 ms
+[1415] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 29.570000 ms
+[1416] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 43.786999 ms
+[1417] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 184.093994 ms
+[1418] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 28.424999 ms
+[1419] tx: 70B routing packet
+[1420] tx: 70B routing packet
+[1421] tx: 70B routing packet
+[1422] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 126.836998 ms
+[1423] tx: 70B routing packet
+[1424] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 184.714996 ms
+[1425] tx: 70B routing packet
+[1426] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 1951.107910 ms
+[1427] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 24.615000 ms
+[1428] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 22.118999 ms
+[1429] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 43.879002 ms
+[1430] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 184.098007 ms
+[1431] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 36.448002 ms
+[1432] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 43.772999 ms
+[1433] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 184.076004 ms
+[1434] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 30.921000 ms
+[1435] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 43.806999 ms
+[1436] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 184.046997 ms
+[1437] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 40.521999 ms
+[1438] tx: 70B routing packet
+[1439] tx: 70B routing packet
+[1440] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 96.329002 ms
+[1441] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 1835.407959 ms
+[1442] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 24.806999 ms
+[1443] tx: 70B routing packet
+[1444] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 56.935001 ms
+[1445] tx: 74B routing packet
+[1446] tx: 74B routing packet
+[1447] tx: 74B routing packet
+[1448] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 105.291000 ms
+[1449] tx: 74B routing packet
+[1450] tx: 74B routing packet
+[1451] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 77.177002 ms
+[1452] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 23.433001 ms
+[1453] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 173.735992 ms
+[1454] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 26.766001 ms
+[1455] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 38.727001 ms
+[1456] tx: 74B routing packet
+[1457] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 34.460999 ms
+[1458] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 23.297001 ms
+[1459] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 30.461000 ms
+[1460] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 33.161999 ms
+[1461] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 43.759998 ms
+[1462] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 1815.364014 ms
+[1463] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 28.819000 ms
+[1464] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 44.266998 ms
+[1465] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 184.233002 ms
+[1466] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 28.443001 ms
+[1467] tx: 70B routing packet
+[1468] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 70.330002 ms
+[1469] tx: 62B routing packet
+[1470] tx: 74B routing packet
+[1471] tx: 74B routing packet
+[1472] tx: 70B routing packet
+[1473] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 267.858002 ms
+[1474] tx: 74B routing packet
+[1475] tx: 74B routing packet
+[1476] tx: 74B routing packet
+[1477] tx: 74B routing packet
+[1478] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 240.354996 ms
+[1479] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 30.354000 ms
+[1480] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 34.855000 ms
+[1481] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 18.514999 ms
+[1482] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 21.445999 ms
+[1483] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 1957.364014 ms
+[1484] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 28.899000 ms
+[1485] tx: 74B routing packet
+[1486] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 32.804001 ms
+[1487] tx: 74B routing packet
+[1488] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 38.557999 ms
+[1489] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 31.309000 ms
+[1490] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 44.172001 ms
+[1491] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 184.362000 ms
+[1492] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 28.973000 ms
+[1493] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 44.187000 ms
+[1494] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 184.520004 ms
+[1495] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 28.436001 ms
+[1496] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 43.893002 ms
+[1497] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 184.059006 ms
+[1498] tx: 70B routing packet
+[1499] tx: 74B routing packet
+[1500] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 71.097000 ms
+[1501] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 1970.593994 ms
+[1502] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 15.621000 ms
+[1503] tx: 74B routing packet
+[1504] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 25.886000 ms
+[1505] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 38.523998 ms
+[1506] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 31.535000 ms
+[1507] tx: 74B routing packet
+[1508] tx: 74B routing packet
+[1509] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 81.986000 ms
+[1510] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 29.068001 ms
+[1511] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 22.159000 ms
+[1512] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 26.767000 ms
+[1513] tx: 74B routing packet
+[1514] tx: 74B routing packet
+[1515] tx: 74B routing packet
+[1516] tx: 74B routing packet
+[1517] tx: 74B routing packet
+[1518] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 151.117996 ms
+[1519] tx: 74B routing packet
+[1520] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 55.372002 ms
+[1521] tx: 74B routing packet
+[1522] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 56.445999 ms
+[1523] tx: 74B routing packet
+[1524] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 55.973999 ms
+[1525] tx: 74B routing packet
+[1526] tx: 74B routing packet
+[1527] tx: 74B routing packet
+[1528] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 96.230003 ms
+[1529] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 27.368999 ms
+[1530] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 18.849001 ms
+[1531] tx: 74B routing packet
+[1532] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 42.631001 ms
+[1533] tx: 74B routing packet
+[1534] tx: 74B routing packet
+[1535] tx: 74B routing packet
+[1536] tx: 74B routing packet
+[1537] tx: 74B routing packet
+[1538] tx: 74B routing packet
+[1539] tx: 74B routing packet
+[1540] tx: 74B routing packet
+[1541] tx: 74B routing packet
+[1542] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 215.910004 ms
+[1543] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 1968.982910 ms
+[1544] tx: 74B routing packet
+[1545] tx: 74B routing packet
+[1546] tx: 74B routing packet
+[1547] tx: 74B routing packet
+[1548] tx: 74B routing packet
+[1549] tx: 74B routing packet
+[1550] tx: 74B routing packet
+[1551] tx: 74B routing packet
+[1552] tx: 74B routing packet
+[1553] tx: 74B routing packet
+[1554] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 257.513000 ms
+[1555] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 37.344002 ms
+[1556] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 36.074001 ms
+[1557] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 44.129002 ms
+[1558] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 184.712006 ms
+[1559] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 30.340000 ms
+[1560] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 43.772999 ms
+[1561] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 184.300995 ms
+[1562] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 28.423000 ms
+[1563] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 43.834000 ms
+[1564] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 1815.642090 ms
+[1565] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 33.202999 ms
+[1566] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 44.171001 ms
+[1567] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 22.660000 ms
+[1568] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 37.886002 ms
+[1569] tx: 74B routing packet
+[1570] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 39.778000 ms
+[1571] tx: 74B routing packet
+[1572] tx: 74B routing packet
+[1573] tx: 74B routing packet
+[1574] tx: 70B routing packet
+[1575] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 84.343002 ms
+[1576] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 32.901001 ms
+[1577] tx: 74B routing packet
+[1578] tx: 74B routing packet
+[1579] tx: 74B routing packet
+[1580] tx: 74B routing packet
+[1581] tx: 74B routing packet
+[1582] tx: 74B routing packet
+[1583] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 171.494995 ms
+[1584] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 18.271000 ms
+[1585] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 38.596001 ms
+[1586] tx: 74B routing packet
+[1587] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 80.598999 ms
+[1588] tx: 74B routing packet
+[1589] tx: 74B routing packet
+[1590] tx: 74B routing packet
+[1591] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 71.581001 ms
+[1592] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 42.028999 ms
+[1593] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 1815.864990 ms
+[1594] tx: 74B routing packet
+[1595] tx: 74B routing packet
+[1596] tx: 74B routing packet
+[1597] tx: 74B routing packet
+[1598] tx: 74B routing packet
+[1599] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 271.279999 ms
+[1600] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 56.415001 ms
+[1601] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 70.216003 ms
+[1602] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 184.214005 ms
+[1603] tx: 70B routing packet
+[1604] tx: 74B routing packet
+[1605] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 221.822998 ms
+[1606] tx: 74B routing packet
+[1607] tx: 74B routing packet
+[1608] tx: 78B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 69.611000 ms
+[1609] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 31.278000 ms
+[1610] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 10.501000 ms
+[1611] tx: 74B routing packet
+[1612] tx: 74B routing packet
+[1613] tx: 74B routing packet
+[1614] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 59.821999 ms
+[1615] tx: 74B routing packet
+[1616] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 1965.790039 ms
+[1617] tx: 74B routing packet
+[1618] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 43.473000 ms
+[1619] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 34.689999 ms
+[1620] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 25.157000 ms
+[1621] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 17.688999 ms
+[1622] tx: 74B routing packet
+[1623] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 45.683998 ms
+[1624] tx: 74B routing packet
+[1625] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 49.146000 ms
+[1626] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 29.886999 ms
+[1627] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 29.478001 ms
+[1628] tx: 74B routing packet
+[1629] tx: 74B routing packet
+[1630] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 82.074997 ms
+[1631] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 36.233002 ms
+[1632] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 29.415001 ms
+[1633] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 26.923000 ms
+[1634] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 27.256001 ms
+[1635] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 17.996000 ms
+[1636] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 28.169001 ms
+[1637] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 40.821999 ms
+[1638] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 27.500000 ms
+[1639] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 21.511999 ms
+[1640] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 24.250000 ms
+[1641] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 25.381001 ms
+[1642] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 21.927000 ms
+[1643] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 24.271999 ms
+[1644] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 23.951000 ms
+[1645] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 32.256001 ms
+[1646] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 35.417000 ms
+[1647] tx: 74B routing packet
+[1648] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 28.348000 ms
+[1649] tx: 74B routing packet
+[1650] tx: 74B routing packet
+[1651] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 56.785999 ms
+[1652] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 15.100000 ms
+[1653] tx: 52B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 30.924000 ms
+[1654] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 31.923000 ms
+[1655] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 1964.674072 ms
+[1656] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 28.806000 ms
+[1657] tx: 52B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 19.771000 ms
+[1658] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 25.365000 ms
+[1659] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 26.851999 ms
+[1660] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 22.353001 ms
+[1661] tx: 74B routing packet
+[1662] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 67.321999 ms
+[1663] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 35.643002 ms
+[1664] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 41.283001 ms
+[1665] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 29.735001 ms
+[1666] tx: 74B routing packet
+[1667] tx: 74B routing packet
+[1668] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 62.529999 ms
+[1669] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 30.857000 ms
+[1670] tx: 74B routing packet
+[1671] tx: 74B routing packet
+[1672] tx: 74B routing packet
+[1673] tx: 74B routing packet
+[1674] tx: 74B routing packet
+[1675] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 99.179001 ms
+[1676] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 164.781006 ms
+[1677] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 32.049000 ms
+[1678] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 43.799000 ms
+[1679] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 184.078003 ms
+[1680] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 44.032001 ms
+[1681] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 1956.084961 ms
+[1682] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 184.100006 ms
+[1683] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 30.212999 ms
+[1684] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 43.755001 ms
+[1685] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 127.271004 ms
+[1686] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 30.614000 ms
+[1687] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 36.518002 ms
+[1688] tx: 70B routing packet
+[1689] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 45.155998 ms
+[1690] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 20.323999 ms
+[1691] tx: 70B routing packet
+[1692] tx: 70B routing packet
+[1693] tx: 70B routing packet
+[1694] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 128.716003 ms
+[1695] tx: 70B routing packet
+[1696] tx: 70B routing packet
+[1697] tx: 74B routing packet
+[1698] tx: 74B routing packet
+[1699] tx: 74B routing packet
+[1700] tx: 74B routing packet
+[1701] tx: 74B routing packet
+[1702] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 178.735992 ms
+[1703] tx: 74B routing packet
+[1704] tx: 74B routing packet
+[1705] tx: 74B routing packet
+[1706] tx: 74B routing packet
+[1707] tx: 74B routing packet
+[1708] tx: 74B routing packet
+[1709] tx: 74B routing packet
+[1710] tx: 74B routing packet
+[1711] tx: 74B routing packet
+[1712] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 1763.019043 ms
+[1713] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 23.775000 ms
+[1714] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 28.936001 ms
+[1715] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 43.675999 ms
+[1716] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 181.121002 ms
+[1717] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 24.021999 ms
+[1718] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 39.429001 ms
+[1719] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 21.815001 ms
+[1720] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 31.336000 ms
+[1721] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 38.377998 ms
+[1722] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 16.945000 ms
+[1723] tx: 74B routing packet
+[1724] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 37.151001 ms
+[1725] tx: 52B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 38.242001 ms
+[1726] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 31.107000 ms
+[1727] tx: 74B routing packet
+[1728] tx: 52B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 53.339001 ms
+[1729] tx: 74B routing packet
+[1730] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 55.155998 ms
+[1731] tx: 52B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 35.098000 ms
+[1732] tx: 74B routing packet
+[1733] tx: 74B routing packet
+[1734] tx: 74B routing packet
+[1735] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 105.948997 ms
+[1736] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 29.275000 ms
+[1737] tx: 74B routing packet
+[1738] tx: 74B routing packet
+[1739] tx: 74B routing packet
+[1740] tx: 74B routing packet
+[1741] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 1896.900024 ms
+[1742] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 131.847000 ms
+[1743] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 29.011999 ms
+[1744] tx: 74B routing packet
+[1745] tx: 74B routing packet
+[1746] tx: 74B routing packet
+[1747] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 219.828003 ms
+[1748] tx: 74B routing packet
+[1749] tx: 74B routing packet
+[1750] tx: 74B routing packet
+[1751] tx: 74B routing packet
+[1752] tx: 74B routing packet
+[1753] tx: 74B routing packet
+[1754] tx: 74B routing packet
+[1755] tx: 74B routing packet
+[1756] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 263.545013 ms
+[1757] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 33.272999 ms
+[1758] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 43.735001 ms
+[1759] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 84.358002 ms
+[1760] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 102.262001 ms
+[1761] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 40.265999 ms
+[1762] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 1956.199951 ms
+[1763] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 184.156006 ms
+[1764] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 28.927999 ms
+[1765] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 51.192001 ms
+[1766] tx: 74B routing packet
+[1767] tx: 74B routing packet
+[1768] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 216.987000 ms
+[1769] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 22.143000 ms
+[1770] tx: 74B routing packet
+[1771] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 45.040001 ms
+[1772] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 36.387001 ms
+[1773] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 24.631001 ms
+[1774] tx: 52B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 25.843000 ms
+[1775] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 36.549000 ms
+[1776] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 34.383999 ms
+[1777] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 24.493999 ms
+[1778] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 17.636000 ms
+[1779] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 30.257999 ms
+[1780] tx: 52B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 31.271000 ms
+[1781] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 15.597000 ms
+[1782] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 24.285999 ms
+[1783] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 27.548000 ms
+[1784] tx: 52B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 16.554001 ms
+[1785] tx: 74B routing packet
+[1786] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 35.687000 ms
+[1787] tx: 74B routing packet
+[1788] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 1926.133057 ms
+[1789] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 18.598000 ms
+[1790] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 34.130001 ms
+[1791] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 33.754002 ms
+[1792] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 26.000000 ms
+[1793] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 25.362000 ms
+[1794] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 40.844002 ms
+[1795] tx: 70B routing packet
+[1796] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 210.610992 ms
+[1797] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 28.006001 ms
+[1798] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 43.827999 ms
+[1799] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 184.742004 ms
+[1800] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 28.791000 ms
+[1801] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 43.797001 ms
+[1802] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 184.246994 ms
+[1803] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 28.525000 ms
+[1804] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 32.869999 ms
+[1805] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 1974.405029 ms
+[1806] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 39.619999 ms
+[1807] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 65.555000 ms
+[1808] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 64.132004 ms
+[1809] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 22.134001 ms
+[1810] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 31.700001 ms
+[1811] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 29.886999 ms
+[1812] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 30.334000 ms
+[1813] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 26.518000 ms
+[1814] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 23.257000 ms
+[1815] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 30.959999 ms
+[1816] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 26.566999 ms
+[1817] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 39.516998 ms
+[1818] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 27.534000 ms
+[1819] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 30.347000 ms
+[1820] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 15.424000 ms
+[1821] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 30.080999 ms
+[1822] tx: 74B routing packet
+[1823] tx: 52B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 45.048000 ms
+[1824] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 34.286999 ms
+[1825] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 36.183998 ms
+[1826] tx: 74B routing packet
+[1827] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 32.910999 ms
+[1828] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 26.507000 ms
+[1829] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 33.515999 ms
+[1830] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 31.848000 ms
+[1831] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 29.945000 ms
+[1832] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 24.598000 ms
+[1833] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 22.900000 ms
+[1834] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 25.136000 ms
+[1835] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 7.667000 ms
+[1836] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 23.485001 ms
+[1837] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 31.509001 ms
+[1838] tx: 52B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 24.742001 ms
+[1839] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 26.737000 ms
+[1840] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 1965.786011 ms
+[1841] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 28.711000 ms
+[1842] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 40.301998 ms
+[1843] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 35.868999 ms
+[1844] tx: 74B routing packet
+[1845] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 22.731001 ms
+[1846] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 17.555000 ms
+[1847] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 26.139000 ms
+[1848] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 36.543999 ms
+[1849] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 24.879999 ms
+[1850] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 25.579000 ms
+[1851] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 31.559999 ms
+[1852] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 12.592000 ms
+[1853] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 24.240999 ms
+[1854] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 32.021999 ms
+[1855] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 30.961000 ms
+[1856] tx: 70B routing packet
+[1857] tx: 70B routing packet
+[1858] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 64.595001 ms
+[1859] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 18.347000 ms
+[1860] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 35.924000 ms
+[1861] tx: 74B routing packet
+[1862] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 37.771000 ms
+[1863] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 34.735001 ms
+[1864] tx: 74B routing packet
+[1865] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 65.810997 ms
+[1866] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 31.532000 ms
+[1867] tx: 74B routing packet
+[1868] tx: 52B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 76.747002 ms
+[1869] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 18.615999 ms
+[1870] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 31.973000 ms
+[1871] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 36.751999 ms
+[1872] tx: 74B routing packet
+[1873] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 64.530998 ms
+[1874] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 35.234001 ms
+[1875] tx: 52B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 1965.012939 ms
+[1876] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 44.652000 ms
+[1877] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 27.201000 ms
+[1878] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 36.574001 ms
+[1879] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 32.679001 ms
+[1880] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 44.289001 ms
+[1881] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 40.445999 ms
+[1882] tx: 52B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 34.178001 ms
+[1883] tx: 52B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 26.410999 ms
+[1884] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 17.358999 ms
+[1885] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 46.117001 ms
+[1886] tx: 52B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 22.096001 ms
+[1887] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 33.935001 ms
+[1888] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 39.355999 ms
+[1889] tx: 52B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 29.972000 ms
+[1890] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 20.531000 ms
+[1891] tx: 52B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 21.978001 ms
+[1892] tx: 74B routing packet
+[1893] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 30.968000 ms
+[1894] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 19.306999 ms
+[1895] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 36.787998 ms
+[1896] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 32.951000 ms
+[1897] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 40.305000 ms
+[1898] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 27.461000 ms
+[1899] tx: 52B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 28.610001 ms
+[1900] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 19.615000 ms
+[1901] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 47.962002 ms
+[1902] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 35.380001 ms
+[1903] tx: 74B routing packet
+[1904] tx: 74B routing packet
+[1905] tx: 74B routing packet
+[1906] tx: 74B routing packet
+[1907] tx: 74B routing packet
+[1908] tx: 74B routing packet
+[1909] tx: 74B routing packet
+[1910] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 1788.263916 ms
+[1911] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 39.645000 ms
+[1912] tx: 70B routing packet
+[1913] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 53.796001 ms
+[1914] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 28.447001 ms
+[1915] tx: 74B routing packet
+[1916] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 62.075001 ms
+[1917] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 28.169001 ms
+[1918] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 33.431000 ms
+[1919] tx: 74B routing packet
+[1920] tx: 74B routing packet
+[1921] tx: 74B routing packet
+[1922] tx: 74B routing packet
+[1923] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 122.307999 ms
+[1924] tx: 74B routing packet
+[1925] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 183.005997 ms
+[1926] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 30.624001 ms
+[1927] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 36.049999 ms
+[1928] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 43.826000 ms
+[1929] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 171.322006 ms
+[1930] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 29.695000 ms
+[1931] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 28.886999 ms
+[1932] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 43.825001 ms
+[1933] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 1872.755005 ms
+[1934] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 18.292000 ms
+[1935] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 22.563000 ms
+[1936] tx: 52B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 33.231998 ms
+[1937] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 31.645000 ms
+[1938] tx: 52B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 31.955999 ms
+[1939] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 20.636999 ms
+[1940] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 31.157000 ms
+[1941] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 16.316000 ms
+[1942] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 23.194000 ms
+[1943] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 23.993999 ms
+[1944] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 25.011000 ms
+[1945] tx: 74B routing packet
+[1946] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 49.075001 ms
+[1947] tx: 74B routing packet
+[1948] tx: 74B routing packet
+[1949] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 69.109001 ms
+[1950] tx: 74B routing packet
+[1951] tx: 74B routing packet
+[1952] tx: 74B routing packet
+[1953] tx: 74B routing packet
+[1954] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 135.201004 ms
+[1955] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 30.445999 ms
+[1956] tx: 52B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 24.350000 ms
+[1957] tx: 74B routing packet
+[1958] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 43.780998 ms
+[1959] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 26.374001 ms
+[1960] tx: 74B routing packet
+[1961] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 41.877998 ms
+[1962] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 37.411999 ms
+[1963] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 28.056000 ms
+[1964] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 23.997000 ms
+[1965] tx: 74B routing packet
+[1966] tx: 74B routing packet
+[1967] tx: 52B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 53.736000 ms
+[1968] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 34.834000 ms
+[1969] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 1977.791992 ms
+[1970] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 28.841000 ms
+[1971] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 29.551001 ms
+[1972] tx: 52B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 43.692001 ms
+[1973] tx: 52B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 40.341000 ms
+[1974] tx: 52B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 19.243000 ms
+[1975] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 25.591999 ms
+[1976] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 132.100998 ms
+[1977] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 30.955000 ms
+[1978] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 29.028000 ms
+[1979] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 43.787998 ms
+[1980] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 171.238007 ms
+[1981] tx: 62B routing packet
+[1982] tx: 74B routing packet
+[1983] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 65.135002 ms
+[1984] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 23.799999 ms
+[1985] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 21.052000 ms
+[1986] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 27.650000 ms
+[1987] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 36.536999 ms
+[1988] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 16.775000 ms
+[1989] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 20.937000 ms
+[1990] tx: 74B routing packet
+[1991] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 36.616001 ms
+[1992] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 26.732000 ms
+[1993] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 24.608999 ms
+[1994] tx: 52B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 37.856998 ms
+[1995] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 27.915001 ms
+[1996] tx: 74B routing packet
+[1997] tx: 74B routing packet
+[1998] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 1970.681030 ms
+[1999] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 15.749000 ms
+[2000] tx: 74B routing packet
+[2001] tx: 52B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 59.507000 ms
+[2002] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 27.624001 ms
+[2003] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 18.520000 ms
+[2004] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 28.025999 ms
+[2005] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 16.039000 ms
+[2006] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 20.191999 ms
+[2007] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 20.806000 ms
+[2008] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 25.962000 ms
+[2009] tx: 52B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 39.199001 ms
+[2010] tx: 74B routing packet
+[2011] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 50.165001 ms
+[2012] tx: 74B routing packet
+[2013] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 35.918999 ms
+[2014] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 26.132999 ms
+[2015] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 33.458000 ms
+[2016] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 43.122002 ms
+[2017] tx: 74B routing packet
+[2018] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 33.612000 ms
+[2019] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 20.886999 ms
+[2020] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 16.922001 ms
+[2021] tx: 52B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 27.856001 ms
+[2022] tx: 52B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 16.296000 ms
+[2023] tx: 52B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 18.524000 ms
+[2024] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 30.266001 ms
+[2025] tx: 52B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 17.236000 ms
+[2026] tx: 52B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 37.375000 ms
+[2027] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 14.826000 ms
+[2028] tx: 52B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 21.249001 ms
+[2029] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 30.152000 ms
+[2030] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 21.171000 ms
+[2031] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 27.346001 ms
+[2032] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 34.182999 ms
+[2033] tx: 74B routing packet
+[2034] tx: 74B routing packet
+[2035] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 59.096001 ms
+[2036] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 41.719002 ms
+[2037] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 1873.867920 ms
+[2038] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 38.076000 ms
+[2039] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 30.014999 ms
+[2040] tx: 70B routing packet
+[2041] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 191.158997 ms
+[2042] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 18.537001 ms
+[2043] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 23.659000 ms
+[2044] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 28.566999 ms
+[2045] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 28.975000 ms
+[2046] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 44.556999 ms
+[2047] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 171.425995 ms
+[2048] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 18.909000 ms
+[2049] tx: 62B routing packet
+[2050] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 53.188999 ms
+[2051] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 19.631001 ms
+[2052] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 33.174000 ms
+[2053] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 21.974001 ms
+[2054] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 26.427999 ms
+[2055] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 24.739000 ms
+[2056] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 39.981998 ms
+[2057] tx: 62B routing packet
+[2058] tx: 74B routing packet
+[2059] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 1789.740967 ms
+[2060] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 29.799999 ms
+[2061] tx: 62B routing packet
+[2062] tx: 74B routing packet
+[2063] tx: 74B routing packet
+[2064] tx: 74B routing packet
+[2065] tx: 74B routing packet
+[2066] tx: 74B routing packet
+[2067] tx: 74B routing packet
+[2068] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 169.356995 ms
+[2069] tx: 62B routing packet
+[2070] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 31.688000 ms
+[2071] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 23.131001 ms
+[2072] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 29.108000 ms
+[2073] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 47.229000 ms
+[2074] tx: 74B routing packet
+[2075] tx: 74B routing packet
+[2076] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 212.455002 ms
+[2077] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 32.113998 ms
+[2078] tx: 74B routing packet
+[2079] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 58.341000 ms
+[2080] tx: 52B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 36.237000 ms
+[2081] tx: 74B routing packet
+[2082] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 34.620998 ms
+[2083] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 17.893000 ms
+[2084] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 40.980999 ms
+[2085] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 15.284000 ms
+[2086] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 44.300999 ms
+[2087] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 1827.463013 ms
+[2088] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 16.660000 ms
+[2089] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 26.216999 ms
+[2090] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 35.872002 ms
+[2091] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 43.744999 ms
+[2092] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 171.205002 ms
+[2093] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 23.655001 ms
+[2094] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 30.650999 ms
+[2095] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 44.745998 ms
+[2096] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 171.190994 ms
+[2097] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 23.790001 ms
+[2098] tx: 70B routing packet
+[2099] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 60.310001 ms
+[2100] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 32.905998 ms
+[2101] tx: 70B routing packet
+[2102] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 71.264999 ms
+[2103] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 29.010000 ms
+[2104] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 24.091000 ms
+[2105] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 40.389999 ms
+[2106] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 1841.468994 ms
+[2107] tx: 70B routing packet
+[2108] tx: 70B routing packet
+[2109] tx: 70B routing packet
+[2110] tx: 70B routing packet
+[2111] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 126.350998 ms
+[2112] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 54.793999 ms
+[2113] tx: 70B routing packet
+[2114] tx: 70B routing packet
+[2115] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 222.759995 ms
+[2116] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 23.400000 ms
+[2117] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 32.077000 ms
+[2118] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 47.992001 ms
+[2119] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 43.751999 ms
+[2120] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 171.481995 ms
+[2121] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 55.689999 ms
+[2122] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 32.465000 ms
+[2123] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 43.752998 ms
+[2124] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 1828.573975 ms
+[2125] tx: 70B routing packet
+[2126] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 33.557999 ms
+[2127] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 37.130001 ms
+[2128] tx: 70B routing packet
+[2129] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 65.389999 ms
+[2130] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 171.565002 ms
+[2131] tx: 70B routing packet
+[2132] tx: 70B routing packet
+[2133] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 69.955002 ms
+[2134] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 21.219000 ms
+[2135] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 43.930000 ms
+[2136] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 171.882004 ms
+[2137] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 30.990000 ms
+[2138] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 20.100000 ms
+[2139] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 33.716000 ms
+[2140] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 25.608000 ms
+[2141] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 13.582000 ms
+[2142] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 30.493999 ms
+[2143] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 38.236000 ms
+[2144] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 34.914001 ms
+[2145] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 22.575001 ms
+[2146] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 1956.092041 ms
+[2147] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 184.126007 ms
+[2148] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 28.589001 ms
+[2149] tx: 74B routing packet
+[2150] tx: 74B routing packet
+[2151] tx: 74B routing packet
+[2152] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 162.169006 ms
+[2153] tx: 70B routing packet
+[2154] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 138.186005 ms
+[2155] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 32.766998 ms
+[2156] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 47.831001 ms
+[2157] tx: 70B routing packet
+[2158] tx: 70B routing packet
+[2159] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 236.057999 ms
+[2160] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 37.973999 ms
+[2161] tx: 78B routing packet
+[2162] tx: 62B routing packet
+[2163] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 1771.415039 ms
+[2164] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 34.155998 ms
+[2165] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 32.084999 ms
+[2166] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 22.907000 ms
+[2167] tx: 62B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 26.398001 ms
+[2168] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 19.822001 ms
+[2169] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 25.003000 ms
+[2170] tx: 70B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 43.729000 ms
+[2171] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 95.144997 ms
+[2172] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 91.113998 ms
+[2173] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 35.130001 ms
+[2174] tx: 70B routing packet
+[2175] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 125.803001 ms
+[2176] tx: 70B routing packet
+[2177] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 124.719002 ms
+[2178] tx: 114B data packet
+Frame of 0 data bytes recv'd
+Time since last packet recv'd: 29.125999 ms

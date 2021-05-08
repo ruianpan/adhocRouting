@@ -1,9 +1,7 @@
-/* blink.c
- *
- * Raspberry Pi GPIO example using sysfs interface.
- * Guillermo A. Amaral B. <g@maral.me>
- *
- * This file blinks GPIO 4 (P1-07) while reading GPIO 24 (P1_18).
+/* 
+ * @brief Raspberry Pi GPIO example using sysfs interface.
+ *   	  source: https://elinux.org/RPi_GPIO_Code_Samples
+ * Author Guillermo A. Amaral B. <g@maral.me>
  */
 
 #include <sys/stat.h>

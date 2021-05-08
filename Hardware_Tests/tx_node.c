@@ -25,6 +25,7 @@
 #include <fcntl.h>
 #include <unistd.h>
 #include <sys/time.h>
+#include <errno.h>
 
 #include "gpioLib.h"
 #include "sockInit.h"
@@ -61,7 +62,7 @@ int RX_ACK(int sockfd, char *src_mac, int *prev_sec, int *prev_usec){
 
 	ssize_t ether_len= 1518;
 	uint8_t buf[ether_len];
-	memset(send_buffer, 0, ether_len);
+	memset(buf, 0, ether_len);
 	struct ether_header *eh = (struct ether_header *) buf;
 
 	int numbytes;
@@ -222,11 +223,11 @@ int main(int argc, char *argv[]){
 		/* For single RX/TX tests manually set the num_bytes, sleepTime, and is_routing */
 
 		GPIOWrite(GPIO_DATA, 1); //begin data collection
-		TX(sockfd, num_bytes, &ifindex, src_mac, dest_mac, not_wait_for_rx, iter_ct, num_iters); 
+		TX(TXsockfd, num_bytes, &ifindex, src_mac, dest_mac, is_routing, iter_ct, num_iters); 
 
 		GPIOWrite(GPIO_DATA, 0); //end data collection
-		if(!not_wait_for_rx){
-			if(RX_ACK(sockfd, src_mac, prev_sec, prev_usec) < 0) 
+		if(!is_routing){
+			if(RX_ACK(RXsockfd, src_mac, prev_sec, prev_usec) < 0) 
 				printf("MAC-addr connection error\n");
 		}
 

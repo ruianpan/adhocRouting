@@ -1,0 +1,3359 @@
+[0] Frame of 4 data bytes recv'd +1619666796544.000000 ms
+tx: ACK
+[1] Frame of 70 data bytes recv'd +28.065001 ms
+[2] Frame of 70 data bytes recv'd +18.100000 ms
+[3] Frame of 70 data bytes recv'd +29.806000 ms
+[4] Frame of 70 data bytes recv'd +31.843000 ms
+[5] Frame of 70 data bytes recv'd +14.544000 ms
+[6] Frame of 70 data bytes recv'd +37.651001 ms
+[7] Frame of 70 data bytes recv'd +33.320999 ms
+[8] Frame of 70 data bytes recv'd +19.316999 ms
+[9] Frame of 70 data bytes recv'd +18.681000 ms
+[10] Frame of 70 data bytes recv'd +1234.293945 ms
+[11] Frame of 70 data bytes recv'd +32.063999 ms
+[12] Frame of 70 data bytes recv'd +15.461000 ms
+[13] Frame of 70 data bytes recv'd +27.431000 ms
+[14] Frame of 70 data bytes recv'd +10.726000 ms
+[15] Frame of 70 data bytes recv'd +16.000000 ms
+[16] Frame of 70 data bytes recv'd +18.867001 ms
+[17] Frame of 70 data bytes recv'd +27.360001 ms
+[18] Frame of 70 data bytes recv'd +29.622999 ms
+[19] Frame of 70 data bytes recv'd +1166.625977 ms
+[20] Frame of 70 data bytes recv'd +32.390999 ms
+[21] Frame of 70 data bytes recv'd +26.493999 ms
+[22] Frame of 70 data bytes recv'd +36.289001 ms
+[23] Frame of 70 data bytes recv'd +34.367001 ms
+[24] Frame of 70 data bytes recv'd +16.885000 ms
+[25] Frame of 70 data bytes recv'd +39.481998 ms
+[26] Frame of 70 data bytes recv'd +23.862000 ms
+[27] Frame of 70 data bytes recv'd +1206.187012 ms
+[28] Frame of 70 data bytes recv'd +27.271999 ms
+[29] Frame of 70 data bytes recv'd +22.559999 ms
+[30] Frame of 70 data bytes recv'd +33.716000 ms
+[31] Frame of 70 data bytes recv'd +13.816000 ms
+[32] Frame of 70 data bytes recv'd +19.516001 ms
+[33] Frame of 70 data bytes recv'd +1121.358032 ms
+[34] Frame of 70 data bytes recv'd +29.379000 ms
+[35] Frame of 70 data bytes recv'd +22.855000 ms
+[36] Frame of 70 data bytes recv'd +11.163000 ms
+[37] Frame of 70 data bytes recv'd +13.587000 ms
+[38] Frame of 70 data bytes recv'd +17.132000 ms
+[39] Frame of 70 data bytes recv'd +12.299000 ms
+[40] Frame of 70 data bytes recv'd +27.131001 ms
+[41] Frame of 70 data bytes recv'd +1120.973999 ms
+[42] Frame of 70 data bytes recv'd +24.292000 ms
+[43] Frame of 70 data bytes recv'd +25.541000 ms
+[44] Frame of 70 data bytes recv'd +30.282000 ms
+[45] Frame of 70 data bytes recv'd +10.782000 ms
+[46] Frame of 70 data bytes recv'd +28.757999 ms
+[47] Frame of 70 data bytes recv'd +1121.991943 ms
+[48] Frame of 70 data bytes recv'd +32.412998 ms
+[49] Frame of 70 data bytes recv'd +13.459000 ms
+[50] Frame of 70 data bytes recv'd +29.174000 ms
+[51] Frame of 70 data bytes recv'd +25.763000 ms
+[52] Frame of 70 data bytes recv'd +19.687000 ms
+[53] Frame of 70 data bytes recv'd +23.965000 ms
+[54] Frame of 70 data bytes recv'd +38.409000 ms
+[55] Frame of 70 data bytes recv'd +1181.374023 ms
+[56] Frame of 70 data bytes recv'd +32.243000 ms
+[57] Frame of 70 data bytes recv'd +12.231000 ms
+[58] Frame of 70 data bytes recv'd +27.511000 ms
+[59] Frame of 70 data bytes recv'd +8.121000 ms
+[60] Frame of 70 data bytes recv'd +44.004002 ms
+[61] Frame of 70 data bytes recv'd +17.957001 ms
+[62] Frame of 70 data bytes recv'd +19.230000 ms
+[63] Frame of 70 data bytes recv'd +34.469002 ms
+[64] Frame of 70 data bytes recv'd +1189.734985 ms
+[65] Frame of 70 data bytes recv'd +25.280001 ms
+[66] Frame of 70 data bytes recv'd +28.855000 ms
+[67] Frame of 70 data bytes recv'd +26.760000 ms
+[68] Frame of 70 data bytes recv'd +17.016001 ms
+[69] Frame of 70 data bytes recv'd +33.875000 ms
+[70] Frame of 70 data bytes recv'd +11.659000 ms
+[71] Frame of 70 data bytes recv'd +14.903000 ms
+[72] Frame of 70 data bytes recv'd +16.528999 ms
+[73] Frame of 70 data bytes recv'd +1167.634033 ms
+[74] Frame of 70 data bytes recv'd +31.287001 ms
+[75] Frame of 70 data bytes recv'd +28.523001 ms
+[76] Frame of 70 data bytes recv'd +26.125999 ms
+[77] Frame of 70 data bytes recv'd +12.748000 ms
+[78] Frame of 70 data bytes recv'd +38.217999 ms
+[79] Frame of 70 data bytes recv'd +27.252001 ms
+[80] Frame of 70 data bytes recv'd +1166.134033 ms
+[81] Frame of 70 data bytes recv'd +27.285000 ms
+[82] Frame of 70 data bytes recv'd +29.375999 ms
+[83] Frame of 70 data bytes recv'd +15.476000 ms
+[84] Frame of 70 data bytes recv'd +23.943001 ms
+[85] Frame of 70 data bytes recv'd +24.625999 ms
+[86] Frame of 70 data bytes recv'd +29.910000 ms
+[87] Frame of 70 data bytes recv'd +51.874001 ms
+[88] Frame of 70 data bytes recv'd +1191.063965 ms
+[89] Frame of 70 data bytes recv'd +22.301001 ms
+[90] Frame of 70 data bytes recv'd +46.698002 ms
+[91] Frame of 70 data bytes recv'd +26.270000 ms
+[92] Frame of 70 data bytes recv'd +26.927999 ms
+[93] Frame of 70 data bytes recv'd +31.889000 ms
+[94] Frame of 70 data bytes recv'd +36.658001 ms
+[95] Frame of 70 data bytes recv'd +24.889000 ms
+[96] Frame of 70 data bytes recv'd +1220.947021 ms
+[97] Frame of 70 data bytes recv'd +27.073000 ms
+[98] Frame of 70 data bytes recv'd +23.889999 ms
+[99] Frame of 70 data bytes recv'd +32.768002 ms
+[100] Frame of 70 data bytes recv'd +20.487000 ms
+[101] Frame of 70 data bytes recv'd +33.637001 ms
+[102] Frame of 70 data bytes recv'd +1131.395996 ms
+[103] Frame of 70 data bytes recv'd +30.197001 ms
+[104] Frame of 70 data bytes recv'd +32.368999 ms
+[105] Frame of 70 data bytes recv'd +17.818001 ms
+[106] Frame of 70 data bytes recv'd +22.263000 ms
+[107] Frame of 70 data bytes recv'd +26.749001 ms
+[108] Frame of 70 data bytes recv'd +26.434999 ms
+[109] Frame of 70 data bytes recv'd +13.830000 ms
+[110] Frame of 70 data bytes recv'd +28.356001 ms
+[111] Frame of 70 data bytes recv'd +1192.765015 ms
+[112] Frame of 70 data bytes recv'd +23.318001 ms
+[113] Frame of 70 data bytes recv'd +33.800999 ms
+[114] Frame of 70 data bytes recv'd +16.033001 ms
+[115] Frame of 70 data bytes recv'd +11.659000 ms
+[116] Frame of 70 data bytes recv'd +12.542000 ms
+[117] Frame of 70 data bytes recv'd +31.760000 ms
+[118] Frame of 70 data bytes recv'd +27.542000 ms
+[119] Frame of 70 data bytes recv'd +12.258000 ms
+[120] Frame of 70 data bytes recv'd +1167.813965 ms
+[121] Frame of 70 data bytes recv'd +28.306000 ms
+[122] Frame of 70 data bytes recv'd +27.764999 ms
+[123] Frame of 70 data bytes recv'd +14.895000 ms
+[124] Frame of 70 data bytes recv'd +18.358999 ms
+[125] Frame of 70 data bytes recv'd +25.365999 ms
+[126] Frame of 70 data bytes recv'd +1109.218018 ms
+[127] Frame of 70 data bytes recv'd +44.432999 ms
+[128] Frame of 70 data bytes recv'd +87.899002 ms
+[129] Frame of 70 data bytes recv'd +20.235001 ms
+[130] Frame of 70 data bytes recv'd +35.259998 ms
+[131] Frame of 70 data bytes recv'd +28.440001 ms
+[132] Frame of 70 data bytes recv'd +12.724000 ms
+[133] Frame of 70 data bytes recv'd +20.367001 ms
+[134] Frame of 70 data bytes recv'd +1246.688965 ms
+[135] Frame of 70 data bytes recv'd +26.250999 ms
+[136] Frame of 70 data bytes recv'd +25.073999 ms
+[137] Frame of 70 data bytes recv'd +32.807999 ms
+[138] Frame of 70 data bytes recv'd +35.145000 ms
+[139] Frame of 70 data bytes recv'd +9.731000 ms
+[140] Frame of 70 data bytes recv'd +32.387001 ms
+[141] Frame of 70 data bytes recv'd +13.939000 ms
+[142] Frame of 70 data bytes recv'd +23.209999 ms
+[143] Frame of 70 data bytes recv'd +1193.536011 ms
+[144] Frame of 70 data bytes recv'd +35.362000 ms
+[145] Frame of 70 data bytes recv'd +24.084999 ms
+[146] Frame of 70 data bytes recv'd +14.627000 ms
+[147] Frame of 70 data bytes recv'd +28.615999 ms
+[148] Frame of 70 data bytes recv'd +11.464000 ms
+[149] Frame of 70 data bytes recv'd +17.650999 ms
+[150] Frame of 70 data bytes recv'd +1126.386963 ms
+[151] Frame of 70 data bytes recv'd +29.264000 ms
+[152] Frame of 70 data bytes recv'd +21.659000 ms
+[153] Frame of 70 data bytes recv'd +16.131001 ms
+[154] Frame of 70 data bytes recv'd +32.146999 ms
+[155] Frame of 70 data bytes recv'd +10.918000 ms
+[156] Frame of 70 data bytes recv'd +9.432000 ms
+[157] Frame of 70 data bytes recv'd +1119.854980 ms
+[158] Frame of 70 data bytes recv'd +22.221001 ms
+[159] Frame of 70 data bytes recv'd +22.034000 ms
+[160] Frame of 70 data bytes recv'd +17.532000 ms
+[161] Frame of 70 data bytes recv'd +26.705999 ms
+[162] Frame of 70 data bytes recv'd +25.693001 ms
+[163] Frame of 70 data bytes recv'd +1110.605957 ms
+[164] Frame of 70 data bytes recv'd +39.390999 ms
+[165] Frame of 70 data bytes recv'd +24.069000 ms
+[166] Frame of 70 data bytes recv'd +8.661000 ms
+[167] Frame of 70 data bytes recv'd +20.796000 ms
+[168] Frame of 70 data bytes recv'd +22.500999 ms
+[169] Frame of 70 data bytes recv'd +12.157000 ms
+[170] Frame of 70 data bytes recv'd +1122.427979 ms
+[171] Frame of 70 data bytes recv'd +23.268999 ms
+[172] Frame of 70 data bytes recv'd +21.745001 ms
+[173] Frame of 70 data bytes recv'd +19.003000 ms
+[174] Frame of 70 data bytes recv'd +20.385000 ms
+[175] Frame of 70 data bytes recv'd +9.299000 ms
+[176] Frame of 70 data bytes recv'd +12.289000 ms
+[177] Frame of 70 data bytes recv'd +24.416000 ms
+[178] Frame of 70 data bytes recv'd +1129.744995 ms
+[179] Frame of 70 data bytes recv'd +31.247999 ms
+[180] Frame of 70 data bytes recv'd +25.339001 ms
+[181] Frame of 70 data bytes recv'd +12.919000 ms
+[182] Frame of 70 data bytes recv'd +23.480000 ms
+[183] Frame of 70 data bytes recv'd +5.609000 ms
+[184] Frame of 70 data bytes recv'd +25.466000 ms
+[185] Frame of 70 data bytes recv'd +22.101000 ms
+[186] Frame of 70 data bytes recv'd +1144.990967 ms
+[187] Frame of 70 data bytes recv'd +28.075001 ms
+[188] Frame of 70 data bytes recv'd +21.737000 ms
+[189] Frame of 70 data bytes recv'd +20.926001 ms
+[190] Frame of 70 data bytes recv'd +22.181000 ms
+[191] Frame of 70 data bytes recv'd +30.562000 ms
+[192] Frame of 70 data bytes recv'd +16.625000 ms
+[193] Frame of 70 data bytes recv'd +1131.092041 ms
+[194] Frame of 70 data bytes recv'd +34.502998 ms
+[195] Frame of 70 data bytes recv'd +22.308001 ms
+[196] Frame of 70 data bytes recv'd +25.083000 ms
+[197] Frame of 70 data bytes recv'd +33.456001 ms
+[198] Frame of 70 data bytes recv'd +28.881001 ms
+[199] Frame of 70 data bytes recv'd +1121.428955 ms
+[200] Frame of 70 data bytes recv'd +31.014999 ms
+[201] Frame of 70 data bytes recv'd +17.788000 ms
+[202] Frame of 70 data bytes recv'd +22.552000 ms
+[203] Frame of 70 data bytes recv'd +21.511000 ms
+[204] Frame of 70 data bytes recv'd +31.159000 ms
+[205] Frame of 70 data bytes recv'd +11.456000 ms
+[206] Frame of 70 data bytes recv'd +1158.417969 ms
+[207] Frame of 70 data bytes recv'd +25.297001 ms
+[208] Frame of 70 data bytes recv'd +25.160000 ms
+[209] Frame of 70 data bytes recv'd +35.938000 ms
+[210] Frame of 70 data bytes recv'd +30.254000 ms
+[211] Frame of 70 data bytes recv'd +36.963001 ms
+[212] Frame of 70 data bytes recv'd +1146.902954 ms
+[213] Frame of 70 data bytes recv'd +34.493999 ms
+[214] Frame of 70 data bytes recv'd +22.542999 ms
+[215] Frame of 70 data bytes recv'd +23.476999 ms
+[216] Frame of 70 data bytes recv'd +25.084999 ms
+[217] Frame of 70 data bytes recv'd +21.159000 ms
+[218] Frame of 70 data bytes recv'd +14.819000 ms
+[219] Frame of 70 data bytes recv'd +16.542999 ms
+[220] Frame of 70 data bytes recv'd +19.341999 ms
+[221] Frame of 70 data bytes recv'd +1174.474976 ms
+[222] Frame of 70 data bytes recv'd +28.472000 ms
+[223] Frame of 70 data bytes recv'd +29.643999 ms
+[224] Frame of 70 data bytes recv'd +12.379000 ms
+[225] Frame of 70 data bytes recv'd +36.936001 ms
+[226] Frame of 70 data bytes recv'd +17.881001 ms
+[227] Frame of 70 data bytes recv'd +12.888000 ms
+[228] Frame of 70 data bytes recv'd +26.273001 ms
+[229] Frame of 70 data bytes recv'd +16.954000 ms
+[230] Frame of 70 data bytes recv'd +1181.427002 ms
+[231] Frame of 70 data bytes recv'd +27.657000 ms
+[232] Frame of 70 data bytes recv'd +27.416000 ms
+[233] Frame of 70 data bytes recv'd +19.153000 ms
+[234] Frame of 70 data bytes recv'd +27.775999 ms
+[235] Frame of 70 data bytes recv'd +26.952999 ms
+[236] Frame of 70 data bytes recv'd +35.909000 ms
+[237] Frame of 70 data bytes recv'd +1159.671997 ms
+[238] Frame of 70 data bytes recv'd +30.289000 ms
+[239] Frame of 70 data bytes recv'd +13.684000 ms
+[240] Frame of 70 data bytes recv'd +22.208000 ms
+[241] Frame of 70 data bytes recv'd +17.136999 ms
+[242] Frame of 70 data bytes recv'd +26.004000 ms
+[243] Frame of 70 data bytes recv'd +11.583000 ms
+[244] Frame of 70 data bytes recv'd +29.164000 ms
+[245] Frame of 70 data bytes recv'd +24.622999 ms
+[246] Frame of 70 data bytes recv'd +1164.789062 ms
+[247] Frame of 70 data bytes recv'd +23.294001 ms
+[248] Frame of 70 data bytes recv'd +22.912001 ms
+[249] Frame of 70 data bytes recv'd +31.684999 ms
+[250] Frame of 70 data bytes recv'd +21.705000 ms
+[251] Frame of 70 data bytes recv'd +29.417000 ms
+[252] Frame of 70 data bytes recv'd +29.865000 ms
+[253] Frame of 70 data bytes recv'd +12.103000 ms
+[254] Frame of 70 data bytes recv'd +1167.431030 ms
+[255] Frame of 70 data bytes recv'd +24.618999 ms
+[256] Frame of 70 data bytes recv'd +18.108000 ms
+[257] Frame of 70 data bytes recv'd +19.801001 ms
+[258] Frame of 70 data bytes recv'd +25.424000 ms
+[259] Frame of 70 data bytes recv'd +17.478001 ms
+[260] Frame of 70 data bytes recv'd +25.472000 ms
+[261] Frame of 70 data bytes recv'd +20.118999 ms
+[262] Frame of 70 data bytes recv'd +1153.563965 ms
+[263] Frame of 70 data bytes recv'd +30.721001 ms
+[264] Frame of 70 data bytes recv'd +28.466999 ms
+[265] Frame of 70 data bytes recv'd +10.073000 ms
+[266] Frame of 70 data bytes recv'd +24.278000 ms
+[267] Frame of 70 data bytes recv'd +21.378000 ms
+[268] Frame of 70 data bytes recv'd +13.424000 ms
+[269] Frame of 70 data bytes recv'd +1123.095947 ms
+[270] Frame of 70 data bytes recv'd +24.257999 ms
+[271] Frame of 70 data bytes recv'd +24.638000 ms
+[272] Frame of 70 data bytes recv'd +25.033001 ms
+[273] Frame of 70 data bytes recv'd +26.920000 ms
+[274] Frame of 70 data bytes recv'd +12.512000 ms
+[275] Frame of 70 data bytes recv'd +26.032000 ms
+[276] Frame of 70 data bytes recv'd +30.802999 ms
+[277] Frame of 70 data bytes recv'd +1163.531006 ms
+[278] Frame of 70 data bytes recv'd +29.055000 ms
+[279] Frame of 70 data bytes recv'd +29.667999 ms
+[280] Frame of 70 data bytes recv'd +22.052999 ms
+[281] Frame of 70 data bytes recv'd +17.862000 ms
+[282] Frame of 70 data bytes recv'd +18.705999 ms
+[283] Frame of 70 data bytes recv'd +23.809999 ms
+[284] Frame of 70 data bytes recv'd +26.082001 ms
+[285] Frame of 70 data bytes recv'd +35.269001 ms
+[286] Frame of 70 data bytes recv'd +1201.239990 ms
+[287] Frame of 70 data bytes recv'd +23.157000 ms
+[288] Frame of 70 data bytes recv'd +16.475000 ms
+[289] Frame of 70 data bytes recv'd +20.375000 ms
+[290] Frame of 70 data bytes recv'd +42.719002 ms
+[291] Frame of 70 data bytes recv'd +27.474001 ms
+[292] Frame of 70 data bytes recv'd +27.659000 ms
+[293] Frame of 70 data bytes recv'd +30.679001 ms
+[294] Frame of 70 data bytes recv'd +17.889000 ms
+[295] Frame of 70 data bytes recv'd +1203.640015 ms
+[296] Frame of 70 data bytes recv'd +31.412001 ms
+[297] Frame of 70 data bytes recv'd +17.863001 ms
+[298] Frame of 70 data bytes recv'd +28.163000 ms
+[299] Frame of 70 data bytes recv'd +53.459999 ms
+[300] Frame of 70 data bytes recv'd +19.612000 ms
+[301] Frame of 70 data bytes recv'd +24.608999 ms
+[302] Frame of 70 data bytes recv'd +1177.088013 ms
+[303] Frame of 70 data bytes recv'd +43.867001 ms
+[304] Frame of 70 data bytes recv'd +31.441000 ms
+[305] Frame of 70 data bytes recv'd +15.869000 ms
+[306] Frame of 70 data bytes recv'd +30.191999 ms
+[307] Frame of 70 data bytes recv'd +24.096001 ms
+[308] Frame of 70 data bytes recv'd +19.454000 ms
+[309] Frame of 70 data bytes recv'd +1161.796021 ms
+[310] Frame of 70 data bytes recv'd +32.365002 ms
+[311] Frame of 70 data bytes recv'd +28.625000 ms
+[312] Frame of 70 data bytes recv'd +31.514000 ms
+[313] Frame of 70 data bytes recv'd +20.301001 ms
+[314] Frame of 70 data bytes recv'd +24.820999 ms
+[315] Frame of 70 data bytes recv'd +18.059999 ms
+[316] Frame of 70 data bytes recv'd +1150.396973 ms
+[317] Frame of 70 data bytes recv'd +31.361000 ms
+[318] Frame of 70 data bytes recv'd +20.990000 ms
+[319] Frame of 70 data bytes recv'd +24.650999 ms
+[320] Frame of 70 data bytes recv'd +15.380000 ms
+[321] Frame of 70 data bytes recv'd +37.410999 ms
+[322] Frame of 70 data bytes recv'd +26.240000 ms
+[323] Frame of 70 data bytes recv'd +28.221001 ms
+[324] Frame of 70 data bytes recv'd +1182.270020 ms
+[325] Frame of 70 data bytes recv'd +30.635000 ms
+[326] Frame of 70 data bytes recv'd +24.427999 ms
+[327] Frame of 70 data bytes recv'd +19.965000 ms
+[328] Frame of 70 data bytes recv'd +12.094000 ms
+[329] Frame of 70 data bytes recv'd +23.243000 ms
+[330] Frame of 70 data bytes recv'd +23.976999 ms
+[331] Frame of 70 data bytes recv'd +28.658001 ms
+[332] Frame of 70 data bytes recv'd +1159.146973 ms
+[333] Frame of 70 data bytes recv'd +32.661999 ms
+[334] Frame of 70 data bytes recv'd +27.045000 ms
+[335] Frame of 70 data bytes recv'd +31.872000 ms
+[336] Frame of 70 data bytes recv'd +22.646000 ms
+[337] Frame of 70 data bytes recv'd +32.506001 ms
+[338] Frame of 70 data bytes recv'd +28.139999 ms
+[339] Frame of 70 data bytes recv'd +1172.843018 ms
+[340] Frame of 70 data bytes recv'd +40.848999 ms
+[341] Frame of 70 data bytes recv'd +31.443001 ms
+[342] Frame of 70 data bytes recv'd +28.631001 ms
+[343] Frame of 70 data bytes recv'd +23.941000 ms
+[344] Frame of 70 data bytes recv'd +37.353001 ms
+[345] Frame of 70 data bytes recv'd +1155.749023 ms
+[346] Frame of 70 data bytes recv'd +26.965000 ms
+[347] Frame of 70 data bytes recv'd +28.007000 ms
+[348] Frame of 70 data bytes recv'd +26.982000 ms
+[349] Frame of 70 data bytes recv'd +35.395000 ms
+[350] Frame of 70 data bytes recv'd +34.547001 ms
+[351] Frame of 70 data bytes recv'd +32.111000 ms
+[352] Frame of 70 data bytes recv'd +1184.296021 ms
+[353] Frame of 70 data bytes recv'd +34.344002 ms
+[354] Frame of 70 data bytes recv'd +13.658000 ms
+[355] Frame of 70 data bytes recv'd +18.184000 ms
+[356] Frame of 70 data bytes recv'd +30.202000 ms
+[357] Frame of 70 data bytes recv'd +21.476999 ms
+[358] Frame of 70 data bytes recv'd +30.679001 ms
+[359] Frame of 70 data bytes recv'd +21.683001 ms
+[360] Frame of 70 data bytes recv'd +22.829000 ms
+[361] Frame of 70 data bytes recv'd +1186.036987 ms
+[362] Frame of 70 data bytes recv'd +28.259001 ms
+[363] Frame of 70 data bytes recv'd +25.596001 ms
+[364] Frame of 70 data bytes recv'd +23.108999 ms
+[365] Frame of 70 data bytes recv'd +16.607000 ms
+[366] Frame of 70 data bytes recv'd +20.540001 ms
+[367] Frame of 70 data bytes recv'd +1104.379028 ms
+[368] Frame of 70 data bytes recv'd +24.247999 ms
+[369] Frame of 70 data bytes recv'd +34.629002 ms
+[370] Frame of 70 data bytes recv'd +26.761000 ms
+[371] Frame of 70 data bytes recv'd +26.205999 ms
+[372] Frame of 70 data bytes recv'd +27.164000 ms
+[373] Frame of 70 data bytes recv'd +23.566999 ms
+[374] Frame of 70 data bytes recv'd +32.386002 ms
+[375] Frame of 70 data bytes recv'd +1201.509033 ms
+[376] Frame of 70 data bytes recv'd +39.443001 ms
+[377] Frame of 70 data bytes recv'd +25.080000 ms
+[378] Frame of 70 data bytes recv'd +14.712000 ms
+[379] Frame of 70 data bytes recv'd +16.399000 ms
+[380] Frame of 70 data bytes recv'd +14.900000 ms
+[381] Frame of 70 data bytes recv'd +19.209999 ms
+[382] Frame of 70 data bytes recv'd +1118.223022 ms
+[383] Frame of 70 data bytes recv'd +34.338001 ms
+[384] Frame of 70 data bytes recv'd +26.724001 ms
+[385] Frame of 70 data bytes recv'd +40.785000 ms
+[386] Frame of 114 data bytes recv'd +22.302000 ms
+tx: ACK
+[387] Frame of 114 data bytes recv'd +158.735001 ms
+tx: ACK
+[388] Frame of 74 data bytes recv'd +44.808998 ms
+[389] Frame of 74 data bytes recv'd +163.932007 ms
+[390] Frame of 74 data bytes recv'd +16.559999 ms
+[391] Frame of 70 data bytes recv'd +21.289000 ms
+tx: ACK
+[392] Frame of 70 data bytes recv'd +21.576000 ms
+tx: ACK
+[393] Frame of 114 data bytes recv'd +1955.813965 ms
+tx: ACK
+[394] Frame of 114 data bytes recv'd +22.247999 ms
+tx: ACK
+[395] Frame of 114 data bytes recv'd +20.722000 ms
+tx: ACK
+[396] Frame of 114 data bytes recv'd +44.330002 ms
+tx: ACK
+[397] Frame of 114 data bytes recv'd +161.298004 ms
+tx: ACK
+[398] Frame of 114 data bytes recv'd +52.688000 ms
+tx: ACK
+[399] Frame of 114 data bytes recv'd +43.832001 ms
+tx: ACK
+[400] Frame of 114 data bytes recv'd +161.837006 ms
+tx: ACK
+[401] Frame of 114 data bytes recv'd +30.148001 ms
+tx: ACK
+[402] Frame of 70 data bytes recv'd +31.451000 ms
+[403] Frame of 114 data bytes recv'd +32.694000 ms
+tx: ACK
+[404] Frame of 70 data bytes recv'd +33.762001 ms
+[405] Frame of 70 data bytes recv'd +27.832001 ms
+[406] Frame of 114 data bytes recv'd +10.738000 ms
+tx: ACK
+[407] Frame of 114 data bytes recv'd +155.235001 ms
+tx: ACK
+[408] Frame of 114 data bytes recv'd +29.282000 ms
+tx: ACK
+[409] Frame of 70 data bytes recv'd +47.179001 ms
+tx: ACK
+[410] Frame of 70 data bytes recv'd +27.662001 ms
+tx: ACK
+[411] Frame of 70 data bytes recv'd +26.202000 ms
+[412] Frame of 70 data bytes recv'd +1860.332031 ms
+[413] Frame of 70 data bytes recv'd +7.846000 ms
+[414] Frame of 70 data bytes recv'd +16.611000 ms
+[415] Frame of 114 data bytes recv'd +9.699000 ms
+tx: ACK
+[416] Frame of 114 data bytes recv'd +25.613001 ms
+tx: ACK
+[417] Frame of 114 data bytes recv'd +29.129000 ms
+tx: ACK
+[418] Frame of 114 data bytes recv'd +43.820999 ms
+tx: ACK
+[419] Frame of 114 data bytes recv'd +184.095993 ms
+tx: ACK
+[420] Frame of 114 data bytes recv'd +36.226002 ms
+tx: ACK
+[421] Frame of 114 data bytes recv'd +43.775002 ms
+tx: ACK
+[422] Frame of 114 data bytes recv'd +184.261002 ms
+tx: ACK
+[423] Frame of 114 data bytes recv'd +28.445000 ms
+tx: ACK
+[424] Frame of 70 data bytes recv'd +44.139000 ms
+[425] Frame of 70 data bytes recv'd +29.511999 ms
+[426] Frame of 74 data bytes recv'd +20.906000 ms
+[427] Frame of 74 data bytes recv'd +128.985001 ms
+[428] Frame of 114 data bytes recv'd +28.823999 ms
+tx: ACK
+[429] Frame of 74 data bytes recv'd +1973.148926 ms
+[430] Frame of 114 data bytes recv'd +30.028999 ms
+tx: ACK
+[431] Frame of 114 data bytes recv'd +39.679001 ms
+tx: ACK
+[432] Frame of 70 data bytes recv'd +43.771999 ms
+[433] Frame of 70 data bytes recv'd +165.690994 ms
+[434] Frame of 70 data bytes recv'd +23.809999 ms
+tx: ACK
+[435] Frame of 70 data bytes recv'd +28.434000 ms
+tx: ACK
+[436] Frame of 70 data bytes recv'd +20.225000 ms
+tx: ACK
+[437] Frame of 70 data bytes recv'd +23.156000 ms
+tx: ACK
+[438] Frame of 74 data bytes recv'd +17.740000 ms
+[439] Frame of 74 data bytes recv'd +16.110001 ms
+[440] Frame of 70 data bytes recv'd +32.702000 ms
+tx: ACK
+[441] Frame of 114 data bytes recv'd +36.354000 ms
+tx: ACK
+[442] Frame of 114 data bytes recv'd +28.844000 ms
+tx: ACK
+[443] Frame of 114 data bytes recv'd +20.971001 ms
+tx: ACK
+[444] Frame of 70 data bytes recv'd +43.935001 ms
+tx: ACK
+[445] Frame of 74 data bytes recv'd +32.481998 ms
+[446] Frame of 74 data bytes recv'd +33.326000 ms
+[447] Frame of 74 data bytes recv'd +36.480000 ms
+[448] Frame of 74 data bytes recv'd +13.358000 ms
+[449] Frame of 74 data bytes recv'd +16.509001 ms
+[450] Frame of 74 data bytes recv'd +22.231001 ms
+[451] Frame of 74 data bytes recv'd +20.799999 ms
+[452] Frame of 74 data bytes recv'd +16.730000 ms
+[453] Frame of 74 data bytes recv'd +15.945000 ms
+[454] Frame of 74 data bytes recv'd +16.584999 ms
+[455] Frame of 70 data bytes recv'd +14.774000 ms
+tx: ACK
+[456] Frame of 74 data bytes recv'd +25.993999 ms
+[457] Frame of 70 data bytes recv'd +16.518000 ms
+tx: ACK
+[458] Frame of 70 data bytes recv'd +18.559999 ms
+tx: ACK
+[459] Frame of 74 data bytes recv'd +31.795000 ms
+[460] Frame of 74 data bytes recv'd +12.454000 ms
+[461] Frame of 74 data bytes recv'd +15.219000 ms
+[462] Frame of 70 data bytes recv'd +37.862000 ms
+tx: ACK
+[463] Frame of 74 data bytes recv'd +1967.737061 ms
+[464] Frame of 74 data bytes recv'd +31.207001 ms
+[465] Frame of 74 data bytes recv'd +29.558001 ms
+[466] Frame of 74 data bytes recv'd +32.355000 ms
+[467] Frame of 74 data bytes recv'd +12.115000 ms
+[468] Frame of 74 data bytes recv'd +11.979000 ms
+[469] Frame of 74 data bytes recv'd +22.033001 ms
+[470] Frame of 114 data bytes recv'd +32.305000 ms
+tx: ACK
+[471] Frame of 114 data bytes recv'd +48.042000 ms
+tx: ACK
+[472] Frame of 114 data bytes recv'd +28.517000 ms
+tx: ACK
+[473] Frame of 114 data bytes recv'd +44.271000 ms
+tx: ACK
+[474] Frame of 114 data bytes recv'd +184.162003 ms
+tx: ACK
+[475] Frame of 114 data bytes recv'd +28.698999 ms
+tx: ACK
+[476] Frame of 74 data bytes recv'd +44.304001 ms
+[477] Frame of 74 data bytes recv'd +38.143002 ms
+[478] Frame of 74 data bytes recv'd +28.056000 ms
+[479] Frame of 74 data bytes recv'd +9.301000 ms
+[480] Frame of 114 data bytes recv'd +14.760000 ms
+tx: ACK
+[481] Frame of 74 data bytes recv'd +137.292007 ms
+[482] Frame of 74 data bytes recv'd +28.406000 ms
+[483] Frame of 74 data bytes recv'd +28.483999 ms
+[484] Frame of 114 data bytes recv'd +24.712000 ms
+tx: ACK
+[485] Frame of 114 data bytes recv'd +27.618999 ms
+tx: ACK
+[486] Frame of 52 data bytes recv'd +29.929001 ms
+tx: ACK
+[487] Frame of 52 data bytes recv'd +14.159000 ms
+tx: ACK
+[488] Frame of 74 data bytes recv'd +28.052000 ms
+[489] Frame of 74 data bytes recv'd +1964.682983 ms
+[490] Frame of 74 data bytes recv'd +32.105999 ms
+[491] Frame of 74 data bytes recv'd +16.372999 ms
+[492] Frame of 74 data bytes recv'd +14.826000 ms
+[493] Frame of 114 data bytes recv'd +18.882999 ms
+tx: ACK
+[494] Frame of 70 data bytes recv'd +24.200001 ms
+tx: ACK
+[495] Frame of 70 data bytes recv'd +170.462997 ms
+tx: ACK
+[496] Frame of 70 data bytes recv'd +28.035000 ms
+tx: ACK
+[497] Frame of 70 data bytes recv'd +23.607000 ms
+tx: ACK
+[498] Frame of 70 data bytes recv'd +25.878000 ms
+tx: ACK
+[499] Frame of 52 data bytes recv'd +20.968000 ms
+tx: ACK
+[500] Frame of 52 data bytes recv'd +41.653000 ms
+tx: ACK
+[501] Frame of 74 data bytes recv'd +31.712000 ms
+[502] Frame of 74 data bytes recv'd +25.973000 ms
+[503] Frame of 114 data bytes recv'd +28.774000 ms
+tx: ACK
+[504] Frame of 70 data bytes recv'd +26.184999 ms
+tx: ACK
+[505] Frame of 70 data bytes recv'd +35.207001 ms
+tx: ACK
+[506] Frame of 70 data bytes recv'd +10.899000 ms
+tx: ACK
+[507] Frame of 70 data bytes recv'd +31.709000 ms
+tx: ACK
+[508] Frame of 52 data bytes recv'd +16.867001 ms
+tx: ACK
+[509] Frame of 52 data bytes recv'd +17.059999 ms
+tx: ACK
+[510] Frame of 70 data bytes recv'd +35.396999 ms
+tx: ACK
+[511] Frame of 52 data bytes recv'd +18.441999 ms
+tx: ACK
+[512] Frame of 52 data bytes recv'd +24.476999 ms
+tx: ACK
+[513] Frame of 70 data bytes recv'd +24.924999 ms
+tx: ACK
+[514] Frame of 74 data bytes recv'd +29.856001 ms
+[515] Frame of 70 data bytes recv'd +42.803001 ms
+tx: ACK
+[516] Frame of 70 data bytes recv'd +17.804001 ms
+tx: ACK
+[517] Frame of 62 data bytes recv'd +31.011999 ms
+tx: ACK
+[518] Frame of 114 data bytes recv'd +33.084999 ms
+tx: ACK
+[519] Frame of 70 data bytes recv'd +16.532000 ms
+tx: ACK
+[520] Frame of 62 data bytes recv'd +16.879999 ms
+tx: ACK
+[521] Frame of 62 data bytes recv'd +42.451000 ms
+tx: ACK
+[522] Frame of 62 data bytes recv'd +1967.408936 ms
+tx: ACK
+[523] Frame of 114 data bytes recv'd +39.810001 ms
+tx: ACK
+[524] Frame of 70 data bytes recv'd +32.956001 ms
+tx: ACK
+[525] Frame of 70 data bytes recv'd +33.130001 ms
+tx: ACK
+[526] Frame of 62 data bytes recv'd +51.966999 ms
+[527] Frame of 70 data bytes recv'd +17.854000 ms
+tx: ACK
+[528] Frame of 70 data bytes recv'd +37.639000 ms
+tx: ACK
+[529] Frame of 70 data bytes recv'd +24.087999 ms
+tx: ACK
+[530] Frame of 74 data bytes recv'd +24.316999 ms
+[531] Frame of 74 data bytes recv'd +30.291000 ms
+[532] Frame of 74 data bytes recv'd +45.662998 ms
+[533] Frame of 74 data bytes recv'd +29.750000 ms
+[534] Frame of 74 data bytes recv'd +22.304001 ms
+[535] Frame of 70 data bytes recv'd +14.873000 ms
+tx: ACK
+[536] Frame of 74 data bytes recv'd +38.508999 ms
+[537] Frame of 74 data bytes recv'd +37.889000 ms
+[538] Frame of 62 data bytes recv'd +9.364000 ms
+[539] Frame of 74 data bytes recv'd +27.377001 ms
+[540] Frame of 74 data bytes recv'd +18.906000 ms
+[541] Frame of 70 data bytes recv'd +41.297001 ms
+tx: ACK
+[542] Frame of 70 data bytes recv'd +29.794001 ms
+tx: ACK
+[543] Frame of 70 data bytes recv'd +29.024000 ms
+tx: ACK
+[544] Frame of 74 data bytes recv'd +38.362000 ms
+[545] Frame of 74 data bytes recv'd +27.732000 ms
+[546] Frame of 62 data bytes recv'd +10.660000 ms
+tx: ACK
+[547] Frame of 70 data bytes recv'd +40.813000 ms
+tx: ACK
+[548] Frame of 70 data bytes recv'd +65.013000 ms
+tx: ACK
+[549] Frame of 114 data bytes recv'd +29.711000 ms
+tx: ACK
+[550] Frame of 70 data bytes recv'd +32.509998 ms
+tx: ACK
+[551] Frame of 74 data bytes recv'd +35.034000 ms
+[552] Frame of 74 data bytes recv'd +20.496000 ms
+[553] Frame of 74 data bytes recv'd +15.149000 ms
+[554] Frame of 74 data bytes recv'd +1964.032959 ms
+[555] Frame of 74 data bytes recv'd +24.115999 ms
+[556] Frame of 74 data bytes recv'd +15.287000 ms
+[557] Frame of 52 data bytes recv'd +28.474001 ms
+tx: ACK
+[558] Frame of 70 data bytes recv'd +29.913000 ms
+tx: ACK
+[559] Frame of 114 data bytes recv'd +35.192001 ms
+tx: ACK
+[560] Frame of 114 data bytes recv'd +36.486000 ms
+tx: ACK
+[561] Frame of 114 data bytes recv'd +43.754002 ms
+tx: ACK
+[562] Frame of 114 data bytes recv'd +184.112000 ms
+tx: ACK
+[563] Frame of 114 data bytes recv'd +28.767000 ms
+tx: ACK
+[564] Frame of 74 data bytes recv'd +44.278999 ms
+[565] Frame of 74 data bytes recv'd +180.929001 ms
+[566] Frame of 74 data bytes recv'd +24.903000 ms
+[567] Frame of 74 data bytes recv'd +18.504999 ms
+[568] Frame of 74 data bytes recv'd +27.513000 ms
+[569] Frame of 70 data bytes recv'd +19.124001 ms
+tx: ACK
+[570] Frame of 114 data bytes recv'd +28.080999 ms
+tx: ACK
+[571] Frame of 114 data bytes recv'd +25.285000 ms
+tx: ACK
+[572] Frame of 114 data bytes recv'd +30.188000 ms
+tx: ACK
+[573] Frame of 114 data bytes recv'd +30.143999 ms
+tx: ACK
+[574] Frame of 70 data bytes recv'd +50.433998 ms
+tx: ACK
+[575] Frame of 114 data bytes recv'd +1818.442993 ms
+tx: ACK
+[576] Frame of 114 data bytes recv'd +27.740000 ms
+tx: ACK
+[577] Frame of 114 data bytes recv'd +30.733999 ms
+tx: ACK
+[578] Frame of 62 data bytes recv'd +43.716999 ms
+tx: ACK
+[579] Frame of 62 data bytes recv'd +26.294001 ms
+tx: ACK
+[580] Frame of 70 data bytes recv'd +42.262001 ms
+tx: ACK
+[581] Frame of 52 data bytes recv'd +28.757000 ms
+tx: ACK
+[582] Frame of 52 data bytes recv'd +21.940001 ms
+tx: ACK
+[583] Frame of 74 data bytes recv'd +22.586000 ms
+[584] Frame of 74 data bytes recv'd +76.898003 ms
+[585] Frame of 74 data bytes recv'd +32.506001 ms
+[586] Frame of 74 data bytes recv'd +29.563000 ms
+[587] Frame of 74 data bytes recv'd +19.379999 ms
+[588] Frame of 74 data bytes recv'd +24.912001 ms
+[589] Frame of 74 data bytes recv'd +29.438000 ms
+[590] Frame of 62 data bytes recv'd +17.575001 ms
+tx: ACK
+[591] Frame of 74 data bytes recv'd +12.023000 ms
+[592] Frame of 74 data bytes recv'd +27.077999 ms
+[593] Frame of 74 data bytes recv'd +36.901001 ms
+[594] Frame of 74 data bytes recv'd +15.419000 ms
+[595] Frame of 74 data bytes recv'd +18.150000 ms
+[596] Frame of 74 data bytes recv'd +34.370998 ms
+[597] Frame of 74 data bytes recv'd +27.805000 ms
+[598] Frame of 74 data bytes recv'd +17.191000 ms
+[599] Frame of 74 data bytes recv'd +21.233000 ms
+[600] Frame of 74 data bytes recv'd +25.179001 ms
+[601] Frame of 74 data bytes recv'd +18.056999 ms
+[602] Frame of 74 data bytes recv'd +28.482000 ms
+[603] Frame of 62 data bytes recv'd +31.910999 ms
+tx: ACK
+[604] Frame of 74 data bytes recv'd +30.621000 ms
+[605] Frame of 74 data bytes recv'd +23.719999 ms
+[606] Frame of 62 data bytes recv'd +12.459000 ms
+tx: ACK
+[607] Frame of 62 data bytes recv'd +35.389999 ms
+tx: ACK
+[608] Frame of 70 data bytes recv'd +1976.394043 ms
+tx: ACK
+[609] Frame of 70 data bytes recv'd +37.949001 ms
+tx: ACK
+[610] Frame of 70 data bytes recv'd +22.049999 ms
+tx: ACK
+[611] Frame of 74 data bytes recv'd +24.238001 ms
+[612] Frame of 74 data bytes recv'd +15.747000 ms
+[613] Frame of 74 data bytes recv'd +28.448999 ms
+[614] Frame of 114 data bytes recv'd +44.567001 ms
+tx: ACK
+[615] Frame of 70 data bytes recv'd +42.108002 ms
+tx: ACK
+[616] Frame of 74 data bytes recv'd +18.028000 ms
+[617] Frame of 70 data bytes recv'd +16.993000 ms
+tx: ACK
+[618] Frame of 70 data bytes recv'd +22.356001 ms
+tx: ACK
+[619] Frame of 70 data bytes recv'd +32.083000 ms
+tx: ACK
+[620] Frame of 70 data bytes recv'd +40.402000 ms
+tx: ACK
+[621] Frame of 74 data bytes recv'd +25.434000 ms
+[622] Frame of 74 data bytes recv'd +27.450001 ms
+[623] Frame of 74 data bytes recv'd +21.729000 ms
+[624] Frame of 74 data bytes recv'd +13.196000 ms
+[625] Frame of 74 data bytes recv'd +32.175999 ms
+[626] Frame of 74 data bytes recv'd +22.447001 ms
+[627] Frame of 114 data bytes recv'd +8.656000 ms
+tx: ACK
+[628] Frame of 62 data bytes recv'd +167.651001 ms
+tx: ACK
+[629] Frame of 74 data bytes recv'd +88.143997 ms
+[630] Frame of 74 data bytes recv'd +95.223000 ms
+[631] Frame of 74 data bytes recv'd +21.952000 ms
+[632] Frame of 114 data bytes recv'd +28.363001 ms
+tx: ACK
+[633] Frame of 114 data bytes recv'd +31.127001 ms
+tx: ACK
+[634] Frame of 114 data bytes recv'd +38.299999 ms
+tx: ACK
+[635] Frame of 114 data bytes recv'd +1966.642090 ms
+tx: ACK
+[636] Frame of 70 data bytes recv'd +71.620003 ms
+tx: ACK
+[637] Frame of 52 data bytes recv'd +179.608994 ms
+tx: ACK
+[638] Frame of 70 data bytes recv'd +27.981001 ms
+tx: ACK
+[639] Frame of 52 data bytes recv'd +22.900999 ms
+tx: ACK
+[640] Frame of 70 data bytes recv'd +22.500000 ms
+tx: ACK
+[641] Frame of 70 data bytes recv'd +26.247000 ms
+tx: ACK
+[642] Frame of 62 data bytes recv'd +25.879999 ms
+tx: ACK
+[643] Frame of 114 data bytes recv'd +28.339001 ms
+tx: ACK
+[644] Frame of 114 data bytes recv'd +27.108999 ms
+tx: ACK
+[645] Frame of 74 data bytes recv'd +75.378998 ms
+[646] Frame of 74 data bytes recv'd +171.809006 ms
+[647] Frame of 74 data bytes recv'd +21.489000 ms
+[648] Frame of 74 data bytes recv'd +36.023998 ms
+[649] Frame of 74 data bytes recv'd +16.172001 ms
+[650] Frame of 74 data bytes recv'd +34.046001 ms
+[651] Frame of 74 data bytes recv'd +21.358000 ms
+[652] Frame of 74 data bytes recv'd +17.549999 ms
+[653] Frame of 74 data bytes recv'd +40.355000 ms
+[654] Frame of 70 data bytes recv'd +27.112000 ms
+tx: ACK
+[655] Frame of 70 data bytes recv'd +16.837000 ms
+tx: ACK
+[656] Frame of 114 data bytes recv'd +31.563999 ms
+tx: ACK
+[657] Frame of 74 data bytes recv'd +28.636000 ms
+[658] Frame of 70 data bytes recv'd +1972.940918 ms
+tx: ACK
+[659] Frame of 114 data bytes recv'd +37.249001 ms
+tx: ACK
+[660] Frame of 62 data bytes recv'd +16.195000 ms
+tx: ACK
+[661] Frame of 70 data bytes recv'd +19.962999 ms
+tx: ACK
+[662] Frame of 70 data bytes recv'd +26.969999 ms
+tx: ACK
+[663] Frame of 70 data bytes recv'd +29.631001 ms
+tx: ACK
+[664] Frame of 114 data bytes recv'd +20.037001 ms
+tx: ACK
+[665] Frame of 70 data bytes recv'd +41.706001 ms
+tx: ACK
+[666] Frame of 114 data bytes recv'd +11.326000 ms
+tx: ACK
+[667] Frame of 114 data bytes recv'd +199.811996 ms
+tx: ACK
+[668] Frame of 74 data bytes recv'd +72.396004 ms
+[669] Frame of 74 data bytes recv'd +74.632004 ms
+[670] Frame of 74 data bytes recv'd +31.108000 ms
+[671] Frame of 74 data bytes recv'd +20.270000 ms
+[672] Frame of 74 data bytes recv'd +15.019000 ms
+[673] Frame of 114 data bytes recv'd +35.359001 ms
+tx: ACK
+[674] Frame of 114 data bytes recv'd +98.254997 ms
+tx: ACK
+[675] Frame of 74 data bytes recv'd +70.169998 ms
+[676] Frame of 74 data bytes recv'd +148.647995 ms
+[677] Frame of 74 data bytes recv'd +1976.126953 ms
+[678] Frame of 74 data bytes recv'd +17.916000 ms
+[679] Frame of 74 data bytes recv'd +25.823000 ms
+[680] Frame of 114 data bytes recv'd +24.318001 ms
+tx: ACK
+[681] Frame of 114 data bytes recv'd +37.471001 ms
+tx: ACK
+[682] Frame of 62 data bytes recv'd +70.320000 ms
+[683] Frame of 114 data bytes recv'd +181.044006 ms
+tx: ACK
+[684] Frame of 114 data bytes recv'd +17.631001 ms
+tx: ACK
+[685] Frame of 74 data bytes recv'd +97.495003 ms
+[686] Frame of 70 data bytes recv'd +184.651001 ms
+tx: ACK
+[687] Frame of 70 data bytes recv'd +25.055000 ms
+tx: ACK
+[688] Frame of 114 data bytes recv'd +25.247999 ms
+tx: ACK
+[689] Frame of 74 data bytes recv'd +26.802999 ms
+[690] Frame of 74 data bytes recv'd +34.917999 ms
+[691] Frame of 74 data bytes recv'd +15.300000 ms
+[692] Frame of 74 data bytes recv'd +30.299000 ms
+[693] Frame of 114 data bytes recv'd +21.934999 ms
+tx: ACK
+[694] Frame of 74 data bytes recv'd +59.828999 ms
+[695] Frame of 74 data bytes recv'd +1871.672974 ms
+[696] Frame of 74 data bytes recv'd +23.989000 ms
+[697] Frame of 74 data bytes recv'd +29.261999 ms
+[698] Frame of 74 data bytes recv'd +27.921000 ms
+[699] Frame of 74 data bytes recv'd +13.455000 ms
+[700] Frame of 74 data bytes recv'd +24.105000 ms
+[701] Frame of 70 data bytes recv'd +18.624001 ms
+tx: ACK
+[702] Frame of 74 data bytes recv'd +33.094002 ms
+[703] Frame of 74 data bytes recv'd +32.605999 ms
+[704] Frame of 74 data bytes recv'd +20.607000 ms
+[705] Frame of 74 data bytes recv'd +32.897999 ms
+[706] Frame of 74 data bytes recv'd +5.874000 ms
+[707] Frame of 114 data bytes recv'd +33.680000 ms
+tx: ACK
+[708] Frame of 70 data bytes recv'd +31.402000 ms
+tx: ACK
+[709] Frame of 70 data bytes recv'd +23.624001 ms
+tx: ACK
+[710] Frame of 70 data bytes recv'd +11.962000 ms
+tx: ACK
+[711] Frame of 70 data bytes recv'd +24.229000 ms
+tx: ACK
+[712] Frame of 114 data bytes recv'd +32.296001 ms
+tx: ACK
+[713] Frame of 114 data bytes recv'd +45.903999 ms
+tx: ACK
+[714] Frame of 114 data bytes recv'd +57.172001 ms
+tx: ACK
+[715] Frame of 114 data bytes recv'd +186.270996 ms
+tx: ACK
+[716] Frame of 114 data bytes recv'd +27.674000 ms
+tx: ACK
+[717] Frame of 114 data bytes recv'd +35.255001 ms
+tx: ACK
+[718] Frame of 114 data bytes recv'd +43.834000 ms
+tx: ACK
+[719] Frame of 114 data bytes recv'd +1815.952026 ms
+tx: ACK
+[720] Frame of 114 data bytes recv'd +28.436001 ms
+tx: ACK
+[721] Frame of 114 data bytes recv'd +43.764000 ms
+tx: ACK
+[722] Frame of 114 data bytes recv'd +184.102997 ms
+tx: ACK
+[723] Frame of 114 data bytes recv'd +28.459000 ms
+tx: ACK
+[724] Frame of 70 data bytes recv'd +43.792999 ms
+[725] Frame of 70 data bytes recv'd +125.874001 ms
+[726] Frame of 70 data bytes recv'd +43.955002 ms
+[727] Frame of 70 data bytes recv'd +27.493000 ms
+[728] Frame of 70 data bytes recv'd +35.226002 ms
+[729] Frame of 70 data bytes recv'd +21.410000 ms
+[730] Frame of 114 data bytes recv'd +25.084000 ms
+tx: ACK
+[731] Frame of 114 data bytes recv'd +24.603001 ms
+tx: ACK
+[732] Frame of 114 data bytes recv'd +34.855000 ms
+tx: ACK
+[733] Frame of 114 data bytes recv'd +48.915001 ms
+tx: ACK
+[734] Frame of 114 data bytes recv'd +184.682007 ms
+tx: ACK
+[735] Frame of 114 data bytes recv'd +28.948000 ms
+tx: ACK
+[736] Frame of 114 data bytes recv'd +1952.028076 ms
+tx: ACK
+[737] Frame of 114 data bytes recv'd +184.156998 ms
+tx: ACK
+[738] Frame of 114 data bytes recv'd +28.429001 ms
+tx: ACK
+[739] Frame of 114 data bytes recv'd +45.339001 ms
+tx: ACK
+[740] Frame of 114 data bytes recv'd +184.923996 ms
+tx: ACK
+[741] Frame of 114 data bytes recv'd +31.632999 ms
+tx: ACK
+[742] Frame of 70 data bytes recv'd +43.861000 ms
+[743] Frame of 70 data bytes recv'd +123.794998 ms
+[744] Frame of 70 data bytes recv'd +46.365002 ms
+[745] Frame of 70 data bytes recv'd +13.111000 ms
+[746] Frame of 70 data bytes recv'd +30.087000 ms
+[747] Frame of 86 data bytes recv'd +32.426998 ms
+tx: ACK
+[748] Frame of 70 data bytes recv'd +27.316000 ms
+[749] Frame of 70 data bytes recv'd +24.423000 ms
+tx: ACK
+[750] Frame of 70 data bytes recv'd +24.893000 ms
+[751] Frame of 114 data bytes recv'd +15.942000 ms
+tx: ACK
+[752] Frame of 114 data bytes recv'd +37.487999 ms
+tx: ACK
+[753] Frame of 114 data bytes recv'd +21.295000 ms
+tx: ACK
+[754] Frame of 114 data bytes recv'd +18.112000 ms
+tx: ACK
+[755] Frame of 114 data bytes recv'd +38.779999 ms
+tx: ACK
+[756] Frame of 114 data bytes recv'd +1969.948975 ms
+tx: ACK
+[757] Frame of 114 data bytes recv'd +28.927000 ms
+tx: ACK
+[758] Frame of 114 data bytes recv'd +32.733002 ms
+tx: ACK
+[759] Frame of 114 data bytes recv'd +20.716999 ms
+tx: ACK
+[760] Frame of 114 data bytes recv'd +45.213001 ms
+tx: ACK
+[761] Frame of 114 data bytes recv'd +53.120998 ms
+tx: ACK
+[762] Frame of 114 data bytes recv'd +29.021999 ms
+tx: ACK
+[763] Frame of 114 data bytes recv'd +33.308998 ms
+tx: ACK
+[764] Frame of 114 data bytes recv'd +85.981003 ms
+tx: ACK
+[765] Frame of 114 data bytes recv'd +184.102005 ms
+tx: ACK
+[766] Frame of 114 data bytes recv'd +29.333000 ms
+tx: ACK
+[767] Frame of 114 data bytes recv'd +43.763000 ms
+tx: ACK
+[768] Frame of 114 data bytes recv'd +184.837997 ms
+tx: ACK
+[769] Frame of 114 data bytes recv'd +35.736000 ms
+tx: ACK
+[770] Frame of 114 data bytes recv'd +43.734001 ms
+tx: ACK
+[771] Frame of 114 data bytes recv'd +1815.697998 ms
+tx: ACK
+[772] Frame of 114 data bytes recv'd +28.875000 ms
+tx: ACK
+[773] Frame of 70 data bytes recv'd +43.692001 ms
+[774] Frame of 70 data bytes recv'd +124.873001 ms
+[775] Frame of 70 data bytes recv'd +46.431000 ms
+[776] Frame of 70 data bytes recv'd +10.971000 ms
+[777] Frame of 114 data bytes recv'd +29.009001 ms
+tx: ACK
+[778] Frame of 114 data bytes recv'd +22.476000 ms
+tx: ACK
+[779] Frame of 114 data bytes recv'd +28.854000 ms
+tx: ACK
+[780] Frame of 114 data bytes recv'd +44.226002 ms
+tx: ACK
+[781] Frame of 114 data bytes recv'd +185.389008 ms
+tx: ACK
+[782] Frame of 114 data bytes recv'd +40.063999 ms
+tx: ACK
+[783] Frame of 114 data bytes recv'd +43.769001 ms
+tx: ACK
+[784] Frame of 114 data bytes recv'd +185.662994 ms
+tx: ACK
+[785] Frame of 114 data bytes recv'd +28.431000 ms
+tx: ACK
+[786] Frame of 114 data bytes recv'd +47.167000 ms
+tx: ACK
+[787] Frame of 114 data bytes recv'd +1815.614014 ms
+tx: ACK
+[788] Frame of 114 data bytes recv'd +28.452000 ms
+tx: ACK
+[789] Frame of 70 data bytes recv'd +43.988998 ms
+[790] Frame of 70 data bytes recv'd +132.237000 ms
+[791] Frame of 70 data bytes recv'd +39.833000 ms
+[792] Frame of 70 data bytes recv'd +12.290000 ms
+[793] Frame of 70 data bytes recv'd +31.514999 ms
+[794] Frame of 70 data bytes recv'd +31.547001 ms
+[795] Frame of 114 data bytes recv'd +32.122002 ms
+tx: ACK
+[796] Frame of 114 data bytes recv'd +22.750999 ms
+tx: ACK
+[797] Frame of 114 data bytes recv'd +37.984001 ms
+tx: ACK
+[798] Frame of 70 data bytes recv'd +48.771000 ms
+tx: ACK
+[799] Frame of 70 data bytes recv'd +174.393997 ms
+tx: ACK
+[800] Frame of 70 data bytes recv'd +30.025999 ms
+tx: ACK
+[801] Frame of 70 data bytes recv'd +43.002998 ms
+tx: ACK
+[802] Frame of 70 data bytes recv'd +30.808001 ms
+tx: ACK
+[803] Frame of 74 data bytes recv'd +22.705999 ms
+[804] Frame of 70 data bytes recv'd +17.341999 ms
+tx: ACK
+[805] Frame of 114 data bytes recv'd +19.017000 ms
+tx: ACK
+[806] Frame of 70 data bytes recv'd +29.075001 ms
+tx: ACK
+[807] Frame of 70 data bytes recv'd +23.358999 ms
+tx: ACK
+[808] Frame of 70 data bytes recv'd +1979.416016 ms
+tx: ACK
+[809] Frame of 74 data bytes recv'd +13.977000 ms
+[810] Frame of 70 data bytes recv'd +19.665001 ms
+tx: ACK
+[811] Frame of 74 data bytes recv'd +31.150999 ms
+[812] Frame of 70 data bytes recv'd +38.526001 ms
+tx: ACK
+[813] Frame of 74 data bytes recv'd +19.197001 ms
+[814] Frame of 70 data bytes recv'd +35.237000 ms
+tx: ACK
+[815] Frame of 70 data bytes recv'd +30.374001 ms
+tx: ACK
+[816] Frame of 114 data bytes recv'd +20.138000 ms
+tx: ACK
+[817] Frame of 114 data bytes recv'd +20.003000 ms
+tx: ACK
+[818] Frame of 52 data bytes recv'd +13.877000 ms
+tx: ACK
+[819] Frame of 114 data bytes recv'd +23.634001 ms
+tx: ACK
+[820] Frame of 114 data bytes recv'd +35.668999 ms
+tx: ACK
+[821] Frame of 114 data bytes recv'd +14.274000 ms
+tx: ACK
+[822] Frame of 114 data bytes recv'd +46.958000 ms
+tx: ACK
+[823] Frame of 114 data bytes recv'd +184.779007 ms
+tx: ACK
+[824] Frame of 114 data bytes recv'd +20.004999 ms
+tx: ACK
+[825] Frame of 114 data bytes recv'd +18.954000 ms
+tx: ACK
+[826] Frame of 114 data bytes recv'd +41.902000 ms
+tx: ACK
+[827] Frame of 114 data bytes recv'd +44.160000 ms
+tx: ACK
+[828] Frame of 114 data bytes recv'd +184.061005 ms
+tx: ACK
+[829] Frame of 114 data bytes recv'd +23.000000 ms
+tx: ACK
+[830] Frame of 114 data bytes recv'd +20.847000 ms
+tx: ACK
+[831] Frame of 114 data bytes recv'd +45.321999 ms
+tx: ACK
+[832] Frame of 70 data bytes recv'd +1950.760010 ms
+[833] Frame of 70 data bytes recv'd +173.985001 ms
+[834] Frame of 114 data bytes recv'd +23.388000 ms
+tx: ACK
+[835] Frame of 74 data bytes recv'd +14.543000 ms
+[836] Frame of 70 data bytes recv'd +33.598999 ms
+tx: ACK
+[837] Frame of 52 data bytes recv'd +37.854000 ms
+tx: ACK
+[838] Frame of 70 data bytes recv'd +24.125000 ms
+tx: ACK
+[839] Frame of 70 data bytes recv'd +32.911999 ms
+tx: ACK
+[840] Frame of 70 data bytes recv'd +24.082001 ms
+tx: ACK
+[841] Frame of 52 data bytes recv'd +30.354000 ms
+tx: ACK
+[842] Frame of 52 data bytes recv'd +19.705000 ms
+tx: ACK
+[843] Frame of 70 data bytes recv'd +35.852001 ms
+tx: ACK
+[844] Frame of 70 data bytes recv'd +28.839001 ms
+tx: ACK
+[845] Frame of 52 data bytes recv'd +23.152000 ms
+tx: ACK
+[846] Frame of 114 data bytes recv'd +29.238001 ms
+tx: ACK
+[847] Frame of 70 data bytes recv'd +27.697001 ms
+tx: ACK
+[848] Frame of 70 data bytes recv'd +201.904007 ms
+tx: ACK
+[849] Frame of 114 data bytes recv'd +29.379000 ms
+tx: ACK
+[850] Frame of 70 data bytes recv'd +17.933001 ms
+tx: ACK
+[851] Frame of 70 data bytes recv'd +10.887000 ms
+[852] Frame of 70 data bytes recv'd +35.737999 ms
+tx: ACK
+[853] Frame of 70 data bytes recv'd +36.189999 ms
+tx: ACK
+[854] Frame of 70 data bytes recv'd +31.260000 ms
+tx: ACK
+[855] Frame of 70 data bytes recv'd +15.185000 ms
+tx: ACK
+[856] Frame of 70 data bytes recv'd +27.201000 ms
+tx: ACK
+[857] Frame of 70 data bytes recv'd +33.638000 ms
+tx: ACK
+[858] Frame of 70 data bytes recv'd +1983.460938 ms
+tx: ACK
+[859] Frame of 70 data bytes recv'd +15.379000 ms
+[860] Frame of 70 data bytes recv'd +13.807000 ms
+[861] Frame of 52 data bytes recv'd +16.610001 ms
+tx: ACK
+[862] Frame of 52 data bytes recv'd +24.971001 ms
+tx: ACK
+[863] Frame of 114 data bytes recv'd +26.056999 ms
+tx: ACK
+[864] Frame of 114 data bytes recv'd +30.277000 ms
+tx: ACK
+[865] Frame of 114 data bytes recv'd +58.068001 ms
+tx: ACK
+[866] Frame of 114 data bytes recv'd +186.268005 ms
+tx: ACK
+[867] Frame of 114 data bytes recv'd +30.886000 ms
+tx: ACK
+[868] Frame of 114 data bytes recv'd +44.077000 ms
+tx: ACK
+[869] Frame of 114 data bytes recv'd +184.319000 ms
+tx: ACK
+[870] Frame of 114 data bytes recv'd +28.424000 ms
+tx: ACK
+[871] Frame of 70 data bytes recv'd +44.018002 ms
+[872] Frame of 70 data bytes recv'd +170.470001 ms
+[873] Frame of 114 data bytes recv'd +22.603001 ms
+tx: ACK
+[874] Frame of 114 data bytes recv'd +34.368000 ms
+tx: ACK
+[875] Frame of 62 data bytes recv'd +28.542999 ms
+tx: ACK
+[876] Frame of 70 data bytes recv'd +1964.738037 ms
+[877] Frame of 70 data bytes recv'd +14.465000 ms
+[878] Frame of 62 data bytes recv'd +32.655998 ms
+tx: ACK
+[879] Frame of 62 data bytes recv'd +37.201000 ms
+tx: ACK
+[880] Frame of 62 data bytes recv'd +35.271000 ms
+tx: ACK
+[881] Frame of 62 data bytes recv'd +17.778000 ms
+tx: ACK
+[882] Frame of 62 data bytes recv'd +37.463001 ms
+tx: ACK
+[883] Frame of 62 data bytes recv'd +24.202999 ms
+tx: ACK
+[884] Frame of 62 data bytes recv'd +33.313000 ms
+tx: ACK
+[885] Frame of 62 data bytes recv'd +25.462999 ms
+tx: ACK
+[886] Frame of 62 data bytes recv'd +24.289000 ms
+tx: ACK
+[887] Frame of 62 data bytes recv'd +31.804001 ms
+tx: ACK
+[888] Frame of 114 data bytes recv'd +22.552999 ms
+tx: ACK
+[889] Frame of 114 data bytes recv'd +30.698999 ms
+tx: ACK
+[890] Frame of 62 data bytes recv'd +29.000000 ms
+tx: ACK
+[891] Frame of 62 data bytes recv'd +39.313999 ms
+tx: ACK
+[892] Frame of 74 data bytes recv'd +23.712999 ms
+[893] Frame of 70 data bytes recv'd +29.559000 ms
+tx: ACK
+[894] Frame of 114 data bytes recv'd +116.456001 ms
+tx: ACK
+[895] Frame of 70 data bytes recv'd +17.914000 ms
+tx: ACK
+[896] Frame of 52 data bytes recv'd +27.570000 ms
+tx: ACK
+[897] Frame of 70 data bytes recv'd +23.413000 ms
+tx: ACK
+[898] Frame of 70 data bytes recv'd +38.411999 ms
+tx: ACK
+[899] Frame of 62 data bytes recv'd +36.984001 ms
+tx: ACK
+[900] Frame of 52 data bytes recv'd +23.565001 ms
+tx: ACK
+[901] Frame of 70 data bytes recv'd +16.087999 ms
+[902] Frame of 70 data bytes recv'd +9.345000 ms
+[903] Frame of 114 data bytes recv'd +39.771999 ms
+tx: ACK
+[904] Frame of 114 data bytes recv'd +23.214001 ms
+tx: ACK
+[905] Frame of 74 data bytes recv'd +47.278999 ms
+[906] Frame of 74 data bytes recv'd +1817.997070 ms
+[907] Frame of 74 data bytes recv'd +42.273998 ms
+[908] Frame of 114 data bytes recv'd +20.436001 ms
+tx: ACK
+[909] Frame of 74 data bytes recv'd +41.720001 ms
+[910] Frame of 114 data bytes recv'd +27.594999 ms
+tx: ACK
+[911] Frame of 114 data bytes recv'd +37.737000 ms
+tx: ACK
+[912] Frame of 114 data bytes recv'd +49.264000 ms
+tx: ACK
+[913] Frame of 114 data bytes recv'd +51.154999 ms
+tx: ACK
+[914] Frame of 114 data bytes recv'd +187.145996 ms
+tx: ACK
+[915] Frame of 114 data bytes recv'd +28.676001 ms
+tx: ACK
+[916] Frame of 114 data bytes recv'd +54.363998 ms
+tx: ACK
+[917] Frame of 114 data bytes recv'd +184.147995 ms
+tx: ACK
+[918] Frame of 70 data bytes recv'd +28.375999 ms
+tx: ACK
+[919] Frame of 52 data bytes recv'd +25.850000 ms
+tx: ACK
+[920] Frame of 114 data bytes recv'd +32.382000 ms
+tx: ACK
+[921] Frame of 70 data bytes recv'd +56.313999 ms
+[922] Frame of 70 data bytes recv'd +1935.817993 ms
+[923] Frame of 114 data bytes recv'd +18.777000 ms
+tx: ACK
+[924] Frame of 114 data bytes recv'd +108.607002 ms
+tx: ACK
+[925] Frame of 114 data bytes recv'd +35.174000 ms
+tx: ACK
+[926] Frame of 70 data bytes recv'd +43.757000 ms
+[927] Frame of 70 data bytes recv'd +183.033005 ms
+[928] Frame of 114 data bytes recv'd +16.472000 ms
+tx: ACK
+[929] Frame of 70 data bytes recv'd +17.393999 ms
+[930] Frame of 114 data bytes recv'd +19.469999 ms
+tx: ACK
+[931] Frame of 114 data bytes recv'd +19.705000 ms
+tx: ACK
+[932] Frame of 114 data bytes recv'd +61.448002 ms
+tx: ACK
+[933] Frame of 114 data bytes recv'd +185.837006 ms
+tx: ACK
+[934] Frame of 114 data bytes recv'd +35.905998 ms
+tx: ACK
+[935] Frame of 114 data bytes recv'd +53.724998 ms
+tx: ACK
+[936] Frame of 114 data bytes recv'd +1815.901001 ms
+tx: ACK
+[937] Frame of 114 data bytes recv'd +31.747000 ms
+tx: ACK
+[938] Frame of 62 data bytes recv'd +44.292999 ms
+tx: ACK
+[939] Frame of 70 data bytes recv'd +68.297997 ms
+[940] Frame of 70 data bytes recv'd +31.202000 ms
+[941] Frame of 62 data bytes recv'd +39.285000 ms
+tx: ACK
+[942] Frame of 62 data bytes recv'd +10.075000 ms
+tx: ACK
+[943] Frame of 62 data bytes recv'd +24.808001 ms
+tx: ACK
+[944] Frame of 86 data bytes recv'd +28.160000 ms
+[945] Frame of 74 data bytes recv'd +33.931999 ms
+[946] Frame of 74 data bytes recv'd +47.512001 ms
+[947] Frame of 70 data bytes recv'd +30.677000 ms
+tx: ACK
+[948] Frame of 52 data bytes recv'd +25.540001 ms
+tx: ACK
+[949] Frame of 70 data bytes recv'd +33.547001 ms
+tx: ACK
+[950] Frame of 74 data bytes recv'd +32.891998 ms
+[951] Frame of 114 data bytes recv'd +36.500000 ms
+tx: ACK
+[952] Frame of 114 data bytes recv'd +23.145000 ms
+tx: ACK
+[953] Frame of 114 data bytes recv'd +25.743999 ms
+tx: ACK
+[954] Frame of 114 data bytes recv'd +64.452003 ms
+tx: ACK
+[955] Frame of 70 data bytes recv'd +184.029007 ms
+[956] Frame of 70 data bytes recv'd +31.914000 ms
+[957] Frame of 114 data bytes recv'd +33.473000 ms
+tx: ACK
+[958] Frame of 74 data bytes recv'd +42.410999 ms
+[959] Frame of 70 data bytes recv'd +32.754002 ms
+tx: ACK
+[960] Frame of 114 data bytes recv'd +1972.239990 ms
+tx: ACK
+[961] Frame of 74 data bytes recv'd +19.169001 ms
+[962] Frame of 74 data bytes recv'd +15.864000 ms
+[963] Frame of 114 data bytes recv'd +21.983999 ms
+tx: ACK
+[964] Frame of 114 data bytes recv'd +166.968002 ms
+tx: ACK
+[965] Frame of 114 data bytes recv'd +28.528999 ms
+tx: ACK
+[966] Frame of 114 data bytes recv'd +47.055000 ms
+tx: ACK
+[967] Frame of 114 data bytes recv'd +185.854996 ms
+tx: ACK
+[968] Frame of 70 data bytes recv'd +28.677000 ms
+tx: ACK
+[969] Frame of 62 data bytes recv'd +33.750000 ms
+tx: ACK
+[970] Frame of 52 data bytes recv'd +23.322001 ms
+tx: ACK
+[971] Frame of 74 data bytes recv'd +43.837002 ms
+[972] Frame of 70 data bytes recv'd +32.694000 ms
+tx: ACK
+[973] Frame of 70 data bytes recv'd +13.195000 ms
+tx: ACK
+[974] Frame of 70 data bytes recv'd +22.691999 ms
+tx: ACK
+[975] Frame of 52 data bytes recv'd +24.627001 ms
+tx: ACK
+[976] Frame of 52 data bytes recv'd +41.626999 ms
+tx: ACK
+[977] Frame of 70 data bytes recv'd +26.495001 ms
+tx: ACK
+[978] Frame of 74 data bytes recv'd +18.565001 ms
+[979] Frame of 74 data bytes recv'd +23.909000 ms
+[980] Frame of 52 data bytes recv'd +41.375000 ms
+tx: ACK
+[981] Frame of 114 data bytes recv'd +19.382000 ms
+tx: ACK
+[982] Frame of 114 data bytes recv'd +34.271000 ms
+tx: ACK
+[983] Frame of 52 data bytes recv'd +1808.221924 ms
+tx: ACK
+[984] Frame of 114 data bytes recv'd +20.399000 ms
+tx: ACK
+[985] Frame of 114 data bytes recv'd +35.805000 ms
+tx: ACK
+[986] Frame of 74 data bytes recv'd +50.459999 ms
+[987] Frame of 70 data bytes recv'd +172.505005 ms
+tx: ACK
+[988] Frame of 62 data bytes recv'd +34.688999 ms
+tx: ACK
+[989] Frame of 70 data bytes recv'd +32.451000 ms
+tx: ACK
+[990] Frame of 62 data bytes recv'd +26.424000 ms
+[991] Frame of 74 data bytes recv'd +26.639000 ms
+[992] Frame of 74 data bytes recv'd +27.459000 ms
+[993] Frame of 70 data bytes recv'd +19.541000 ms
+tx: ACK
+[994] Frame of 70 data bytes recv'd +23.943001 ms
+tx: ACK
+[995] Frame of 70 data bytes recv'd +22.040001 ms
+tx: ACK
+[996] Frame of 114 data bytes recv'd +19.487000 ms
+tx: ACK
+[997] Frame of 62 data bytes recv'd +18.025999 ms
+[998] Frame of 74 data bytes recv'd +37.841000 ms
+[999] Frame of 74 data bytes recv'd +18.207001 ms
+[1000] Frame of 74 data bytes recv'd +43.393002 ms
+[1001] Frame of 62 data bytes recv'd +8.162000 ms
+tx: ACK
+[1002] Frame of 62 data bytes recv'd +28.674999 ms
+tx: ACK
+[1003] Frame of 114 data bytes recv'd +12.217000 ms
+tx: ACK
+[1004] Frame of 74 data bytes recv'd +38.089001 ms
+[1005] Frame of 74 data bytes recv'd +34.007999 ms
+[1006] Frame of 74 data bytes recv'd +25.792999 ms
+[1007] Frame of 74 data bytes recv'd +26.304001 ms
+[1008] Frame of 74 data bytes recv'd +16.271999 ms
+[1009] Frame of 74 data bytes recv'd +16.104000 ms
+[1010] Frame of 74 data bytes recv'd +35.606998 ms
+[1011] Frame of 74 data bytes recv'd +16.322001 ms
+[1012] Frame of 74 data bytes recv'd +1978.939941 ms
+[1013] Frame of 74 data bytes recv'd +36.311001 ms
+[1014] Frame of 74 data bytes recv'd +40.669998 ms
+[1015] Frame of 74 data bytes recv'd +23.537001 ms
+[1016] Frame of 74 data bytes recv'd +13.510000 ms
+[1017] Frame of 74 data bytes recv'd +9.811000 ms
+[1018] Frame of 74 data bytes recv'd +34.625999 ms
+[1019] Frame of 74 data bytes recv'd +29.414000 ms
+[1020] Frame of 114 data bytes recv'd +22.341000 ms
+tx: ACK
+[1021] Frame of 114 data bytes recv'd +46.618999 ms
+tx: ACK
+[1022] Frame of 114 data bytes recv'd +30.094999 ms
+tx: ACK
+[1023] Frame of 114 data bytes recv'd +43.840000 ms
+tx: ACK
+[1024] Frame of 114 data bytes recv'd +110.575996 ms
+tx: ACK
+[1025] Frame of 114 data bytes recv'd +75.787003 ms
+tx: ACK
+[1026] Frame of 52 data bytes recv'd +30.105000 ms
+tx: ACK
+[1027] Frame of 114 data bytes recv'd +40.143002 ms
+tx: ACK
+[1028] Frame of 114 data bytes recv'd +23.725000 ms
+tx: ACK
+[1029] Frame of 114 data bytes recv'd +184.203003 ms
+tx: ACK
+[1030] Frame of 114 data bytes recv'd +31.719999 ms
+tx: ACK
+[1031] Frame of 52 data bytes recv'd +49.580002 ms
+tx: ACK
+[1032] Frame of 114 data bytes recv'd +1822.907959 ms
+tx: ACK
+[1033] Frame of 114 data bytes recv'd +13.498000 ms
+tx: ACK
+[1034] Frame of 62 data bytes recv'd +36.438999 ms
+tx: ACK
+[1035] Frame of 62 data bytes recv'd +33.756001 ms
+tx: ACK
+[1036] Frame of 62 data bytes recv'd +17.768999 ms
+tx: ACK
+[1037] Frame of 114 data bytes recv'd +36.960999 ms
+tx: ACK
+[1038] Frame of 70 data bytes recv'd +36.589001 ms
+[1039] Frame of 62 data bytes recv'd +50.660000 ms
+tx: ACK
+[1040] Frame of 74 data bytes recv'd +25.426001 ms
+[1041] Frame of 52 data bytes recv'd +11.557000 ms
+tx: ACK
+[1042] Frame of 62 data bytes recv'd +27.426001 ms
+tx: ACK
+[1043] Frame of 62 data bytes recv'd +26.709000 ms
+tx: ACK
+[1044] Frame of 62 data bytes recv'd +32.339001 ms
+tx: ACK
+[1045] Frame of 74 data bytes recv'd +14.662000 ms
+[1046] Frame of 74 data bytes recv'd +17.712000 ms
+[1047] Frame of 74 data bytes recv'd +31.202000 ms
+[1048] Frame of 62 data bytes recv'd +34.609001 ms
+tx: ACK
+[1049] Frame of 74 data bytes recv'd +38.997002 ms
+[1050] Frame of 74 data bytes recv'd +78.875000 ms
+[1051] Frame of 74 data bytes recv'd +15.467000 ms
+[1052] Frame of 74 data bytes recv'd +34.453999 ms
+[1053] Frame of 74 data bytes recv'd +48.716999 ms
+[1054] Frame of 74 data bytes recv'd +32.546001 ms
+[1055] Frame of 74 data bytes recv'd +21.570000 ms
+[1056] Frame of 74 data bytes recv'd +25.069000 ms
+[1057] Frame of 70 data bytes recv'd +16.337999 ms
+tx: ACK
+[1058] Frame of 70 data bytes recv'd +10.774000 ms
+tx: ACK
+[1059] Frame of 70 data bytes recv'd +27.069000 ms
+tx: ACK
+[1060] Frame of 114 data bytes recv'd +28.837000 ms
+tx: ACK
+[1061] Frame of 74 data bytes recv'd +29.919001 ms
+[1062] Frame of 74 data bytes recv'd +12.968000 ms
+[1063] Frame of 74 data bytes recv'd +29.160000 ms
+[1064] Frame of 70 data bytes recv'd +22.898001 ms
+tx: ACK
+[1065] Frame of 52 data bytes recv'd +1977.757080 ms
+tx: ACK
+[1066] Frame of 74 data bytes recv'd +21.311001 ms
+[1067] Frame of 74 data bytes recv'd +26.334999 ms
+[1068] Frame of 74 data bytes recv'd +18.525999 ms
+[1069] Frame of 70 data bytes recv'd +37.002998 ms
+tx: ACK
+[1070] Frame of 74 data bytes recv'd +37.055000 ms
+[1071] Frame of 74 data bytes recv'd +37.541000 ms
+[1072] Frame of 114 data bytes recv'd +18.587000 ms
+tx: ACK
+[1073] Frame of 70 data bytes recv'd +38.230000 ms
+tx: ACK
+[1074] Frame of 70 data bytes recv'd +24.181999 ms
+tx: ACK
+[1075] Frame of 74 data bytes recv'd +23.903999 ms
+[1076] Frame of 114 data bytes recv'd +45.749001 ms
+tx: ACK
+[1077] Frame of 70 data bytes recv'd +33.252998 ms
+tx: ACK
+[1078] Frame of 70 data bytes recv'd +93.401001 ms
+tx: ACK
+[1079] Frame of 74 data bytes recv'd +10.682000 ms
+[1080] Frame of 70 data bytes recv'd +30.629000 ms
+tx: ACK
+[1081] Frame of 74 data bytes recv'd +18.570000 ms
+[1082] Frame of 74 data bytes recv'd +23.551001 ms
+[1083] Frame of 74 data bytes recv'd +33.002998 ms
+[1084] Frame of 114 data bytes recv'd +29.520000 ms
+tx: ACK
+[1085] Frame of 114 data bytes recv'd +79.385002 ms
+tx: ACK
+[1086] Frame of 114 data bytes recv'd +33.201000 ms
+tx: ACK
+[1087] Frame of 114 data bytes recv'd +43.904999 ms
+tx: ACK
+[1088] Frame of 114 data bytes recv'd +184.485001 ms
+tx: ACK
+[1089] Frame of 114 data bytes recv'd +28.479000 ms
+tx: ACK
+[1090] Frame of 70 data bytes recv'd +1956.124023 ms
+tx: ACK
+[1091] Frame of 70 data bytes recv'd +176.059006 ms
+tx: ACK
+[1092] Frame of 114 data bytes recv'd +29.121000 ms
+tx: ACK
+[1093] Frame of 114 data bytes recv'd +34.208000 ms
+tx: ACK
+[1094] Frame of 114 data bytes recv'd +28.476999 ms
+tx: ACK
+[1095] Frame of 62 data bytes recv'd +44.023998 ms
+tx: ACK
+[1096] Frame of 70 data bytes recv'd +152.330002 ms
+tx: ACK
+[1097] Frame of 114 data bytes recv'd +32.520000 ms
+tx: ACK
+[1098] Frame of 74 data bytes recv'd +31.615000 ms
+[1099] Frame of 74 data bytes recv'd +22.488001 ms
+[1100] Frame of 74 data bytes recv'd +25.827000 ms
+[1101] Frame of 74 data bytes recv'd +30.926001 ms
+[1102] Frame of 74 data bytes recv'd +28.261000 ms
+[1103] Frame of 74 data bytes recv'd +23.283001 ms
+[1104] Frame of 114 data bytes recv'd +21.549000 ms
+tx: ACK
+[1105] Frame of 114 data bytes recv'd +29.393999 ms
+tx: ACK
+[1106] Frame of 70 data bytes recv'd +43.786999 ms
+[1107] Frame of 114 data bytes recv'd +97.821999 ms
+tx: ACK
+[1108] Frame of 114 data bytes recv'd +86.611000 ms
+tx: ACK
+[1109] Frame of 114 data bytes recv'd +28.473000 ms
+tx: ACK
+[1110] Frame of 114 data bytes recv'd +1955.356934 ms
+tx: ACK
+[1111] Frame of 114 data bytes recv'd +184.080994 ms
+tx: ACK
+[1112] Frame of 114 data bytes recv'd +28.408001 ms
+tx: ACK
+[1113] Frame of 114 data bytes recv'd +43.761002 ms
+tx: ACK
+[1114] Frame of 114 data bytes recv'd +183.921997 ms
+tx: ACK
+[1115] Frame of 114 data bytes recv'd +28.247000 ms
+tx: ACK
+[1116] Frame of 70 data bytes recv'd +49.387001 ms
+[1117] Frame of 62 data bytes recv'd +175.932007 ms
+[1118] Frame of 70 data bytes recv'd +9.274000 ms
+[1119] Frame of 70 data bytes recv'd +27.177999 ms
+[1120] Frame of 70 data bytes recv'd +8.722000 ms
+[1121] Frame of 62 data bytes recv'd +28.507999 ms
+tx: ACK
+[1122] Frame of 70 data bytes recv'd +24.299000 ms
+[1123] Frame of 114 data bytes recv'd +6.237000 ms
+tx: ACK
+[1124] Frame of 70 data bytes recv'd +44.118999 ms
+[1125] Frame of 114 data bytes recv'd +32.910000 ms
+tx: ACK
+[1126] Frame of 74 data bytes recv'd +19.302000 ms
+[1127] Frame of 70 data bytes recv'd +46.016998 ms
+tx: ACK
+[1128] Frame of 74 data bytes recv'd +1961.505981 ms
+[1129] Frame of 70 data bytes recv'd +19.496000 ms
+tx: ACK
+[1130] Frame of 70 data bytes recv'd +20.558001 ms
+tx: ACK
+[1131] Frame of 114 data bytes recv'd +37.574001 ms
+tx: ACK
+[1132] Frame of 74 data bytes recv'd +22.941999 ms
+[1133] Frame of 74 data bytes recv'd +25.509001 ms
+[1134] Frame of 74 data bytes recv'd +31.320000 ms
+[1135] Frame of 114 data bytes recv'd +24.679001 ms
+tx: ACK
+[1136] Frame of 114 data bytes recv'd +170.912994 ms
+tx: ACK
+[1137] Frame of 114 data bytes recv'd +28.528999 ms
+tx: ACK
+[1138] Frame of 114 data bytes recv'd +43.801998 ms
+tx: ACK
+[1139] Frame of 114 data bytes recv'd +183.901993 ms
+tx: ACK
+[1140] Frame of 114 data bytes recv'd +28.518000 ms
+tx: ACK
+[1141] Frame of 114 data bytes recv'd +44.870998 ms
+tx: ACK
+[1142] Frame of 114 data bytes recv'd +184.123993 ms
+tx: ACK
+[1143] Frame of 114 data bytes recv'd +31.358000 ms
+tx: ACK
+[1144] Frame of 114 data bytes recv'd +43.790001 ms
+tx: ACK
+[1145] Frame of 70 data bytes recv'd +1816.250000 ms
+[1146] Frame of 114 data bytes recv'd +15.279000 ms
+tx: ACK
+[1147] Frame of 70 data bytes recv'd +32.710999 ms
+[1148] Frame of 114 data bytes recv'd +34.952000 ms
+tx: ACK
+[1149] Frame of 70 data bytes recv'd +21.216000 ms
+[1150] Frame of 70 data bytes recv'd +16.033001 ms
+[1151] Frame of 70 data bytes recv'd +24.492001 ms
+[1152] Frame of 114 data bytes recv'd +19.605000 ms
+tx: ACK
+[1153] Frame of 114 data bytes recv'd +169.468994 ms
+tx: ACK
+[1154] Frame of 114 data bytes recv'd +28.143999 ms
+tx: ACK
+[1155] Frame of 114 data bytes recv'd +43.493000 ms
+tx: ACK
+[1156] Frame of 114 data bytes recv'd +184.294998 ms
+tx: ACK
+[1157] Frame of 114 data bytes recv'd +38.256001 ms
+tx: ACK
+[1158] Frame of 114 data bytes recv'd +43.716999 ms
+tx: ACK
+[1159] Frame of 114 data bytes recv'd +184.063004 ms
+tx: ACK
+[1160] Frame of 114 data bytes recv'd +1971.520996 ms
+tx: ACK
+[1161] Frame of 114 data bytes recv'd +44.205002 ms
+tx: ACK
+[1162] Frame of 70 data bytes recv'd +184.076004 ms
+[1163] Frame of 114 data bytes recv'd +12.180000 ms
+tx: ACK
+[1164] Frame of 114 data bytes recv'd +21.065001 ms
+tx: ACK
+[1165] Frame of 62 data bytes recv'd +45.931999 ms
+[1166] Frame of 70 data bytes recv'd +18.490999 ms
+[1167] Frame of 70 data bytes recv'd +27.983999 ms
+[1168] Frame of 74 data bytes recv'd +34.118999 ms
+[1169] Frame of 62 data bytes recv'd +30.756001 ms
+tx: ACK
+[1170] Frame of 70 data bytes recv'd +35.223000 ms
+tx: ACK
+[1171] Frame of 86 data bytes recv'd +24.858999 ms
+tx: ACK
+[1172] Frame of 62 data bytes recv'd +35.054001 ms
+tx: ACK
+[1173] Frame of 74 data bytes recv'd +29.735001 ms
+[1174] Frame of 70 data bytes recv'd +25.062000 ms
+tx: ACK
+[1175] Frame of 74 data bytes recv'd +18.146000 ms
+[1176] Frame of 74 data bytes recv'd +34.583000 ms
+[1177] Frame of 70 data bytes recv'd +28.020000 ms
+tx: ACK
+[1178] Frame of 52 data bytes recv'd +11.602000 ms
+tx: ACK
+[1179] Frame of 62 data bytes recv'd +26.408001 ms
+tx: ACK
+[1180] Frame of 74 data bytes recv'd +30.250999 ms
+[1181] Frame of 74 data bytes recv'd +27.163000 ms
+[1182] Frame of 74 data bytes recv'd +16.556999 ms
+[1183] Frame of 74 data bytes recv'd +19.615999 ms
+[1184] Frame of 74 data bytes recv'd +22.347000 ms
+[1185] Frame of 74 data bytes recv'd +13.571000 ms
+[1186] Frame of 70 data bytes recv'd +27.941999 ms
+tx: ACK
+[1187] Frame of 70 data bytes recv'd +18.754999 ms
+tx: ACK
+[1188] Frame of 74 data bytes recv'd +25.743000 ms
+[1189] Frame of 70 data bytes recv'd +35.373001 ms
+tx: ACK
+[1190] Frame of 62 data bytes recv'd +22.021000 ms
+tx: ACK
+[1191] Frame of 70 data bytes recv'd +1969.818970 ms
+[1192] Frame of 70 data bytes recv'd +17.004000 ms
+tx: ACK
+[1193] Frame of 52 data bytes recv'd +25.386000 ms
+tx: ACK
+[1194] Frame of 62 data bytes recv'd +16.316000 ms
+tx: ACK
+[1195] Frame of 70 data bytes recv'd +25.228001 ms
+tx: ACK
+[1196] Frame of 70 data bytes recv'd +13.566000 ms
+tx: ACK
+[1197] Frame of 70 data bytes recv'd +138.365997 ms
+tx: ACK
+[1198] Frame of 114 data bytes recv'd +31.198000 ms
+tx: ACK
+[1199] Frame of 114 data bytes recv'd +33.341000 ms
+tx: ACK
+[1200] Frame of 114 data bytes recv'd +34.826000 ms
+tx: ACK
+[1201] Frame of 114 data bytes recv'd +45.247002 ms
+tx: ACK
+[1202] Frame of 114 data bytes recv'd +184.416000 ms
+tx: ACK
+[1203] Frame of 114 data bytes recv'd +28.546000 ms
+tx: ACK
+[1204] Frame of 114 data bytes recv'd +44.247002 ms
+tx: ACK
+[1205] Frame of 114 data bytes recv'd +184.149994 ms
+tx: ACK
+[1206] Frame of 114 data bytes recv'd +29.146999 ms
+tx: ACK
+[1207] Frame of 114 data bytes recv'd +43.834000 ms
+tx: ACK
+[1208] Frame of 114 data bytes recv'd +1815.905029 ms
+tx: ACK
+[1209] Frame of 114 data bytes recv'd +28.504000 ms
+tx: ACK
+[1210] Frame of 70 data bytes recv'd +43.757000 ms
+[1211] Frame of 70 data bytes recv'd +21.177000 ms
+[1212] Frame of 70 data bytes recv'd +13.335000 ms
+[1213] Frame of 62 data bytes recv'd +17.423000 ms
+[1214] Frame of 70 data bytes recv'd +30.540001 ms
+[1215] Frame of 70 data bytes recv'd +33.032001 ms
+[1216] Frame of 70 data bytes recv'd +49.354000 ms
+[1217] Frame of 114 data bytes recv'd +15.155000 ms
+tx: ACK
+[1218] Frame of 74 data bytes recv'd +22.594999 ms
+[1219] Frame of 74 data bytes recv'd +16.940001 ms
+[1220] Frame of 114 data bytes recv'd +20.070999 ms
+tx: ACK
+[1221] Frame of 114 data bytes recv'd +12.571000 ms
+tx: ACK
+[1222] Frame of 114 data bytes recv'd +55.180000 ms
+tx: ACK
+[1223] Frame of 114 data bytes recv'd +184.233994 ms
+tx: ACK
+[1224] Frame of 114 data bytes recv'd +28.487000 ms
+tx: ACK
+[1225] Frame of 114 data bytes recv'd +45.618999 ms
+tx: ACK
+[1226] Frame of 114 data bytes recv'd +184.432007 ms
+tx: ACK
+[1227] Frame of 114 data bytes recv'd +29.101999 ms
+tx: ACK
+[1228] Frame of 114 data bytes recv'd +47.888000 ms
+tx: ACK
+[1229] Frame of 114 data bytes recv'd +1815.614014 ms
+tx: ACK
+[1230] Frame of 114 data bytes recv'd +28.631001 ms
+tx: ACK
+[1231] Frame of 70 data bytes recv'd +44.257999 ms
+[1232] Frame of 70 data bytes recv'd +12.692000 ms
+[1233] Frame of 70 data bytes recv'd +38.001999 ms
+[1234] Frame of 62 data bytes recv'd +18.414000 ms
+tx: ACK
+[1235] Frame of 114 data bytes recv'd +153.738998 ms
+tx: ACK
+[1236] Frame of 70 data bytes recv'd +22.539000 ms
+[1237] Frame of 70 data bytes recv'd +13.103000 ms
+[1238] Frame of 70 data bytes recv'd +15.275000 ms
+[1239] Frame of 70 data bytes recv'd +28.531000 ms
+[1240] Frame of 62 data bytes recv'd +12.560000 ms
+tx: ACK
+[1241] Frame of 114 data bytes recv'd +23.820999 ms
+tx: ACK
+[1242] Frame of 114 data bytes recv'd +16.909000 ms
+tx: ACK
+[1243] Frame of 114 data bytes recv'd +49.853001 ms
+tx: ACK
+[1244] Frame of 114 data bytes recv'd +184.106995 ms
+tx: ACK
+[1245] Frame of 114 data bytes recv'd +29.475000 ms
+tx: ACK
+[1246] Frame of 114 data bytes recv'd +43.880001 ms
+tx: ACK
+[1247] Frame of 114 data bytes recv'd +1815.916992 ms
+tx: ACK
+[1248] Frame of 114 data bytes recv'd +28.436001 ms
+tx: ACK
+[1249] Frame of 114 data bytes recv'd +44.901001 ms
+tx: ACK
+[1250] Frame of 114 data bytes recv'd +184.113998 ms
+tx: ACK
+[1251] Frame of 114 data bytes recv'd +28.743000 ms
+tx: ACK
+[1252] Frame of 70 data bytes recv'd +43.691002 ms
+[1253] Frame of 70 data bytes recv'd +19.795000 ms
+[1254] Frame of 70 data bytes recv'd +14.880000 ms
+[1255] Frame of 114 data bytes recv'd +14.275000 ms
+tx: ACK
+[1256] Frame of 70 data bytes recv'd +163.054001 ms
+[1257] Frame of 70 data bytes recv'd +26.879000 ms
+[1258] Frame of 70 data bytes recv'd +15.385000 ms
+[1259] Frame of 70 data bytes recv'd +20.490000 ms
+[1260] Frame of 114 data bytes recv'd +27.847000 ms
+tx: ACK
+[1261] Frame of 114 data bytes recv'd +24.282000 ms
+tx: ACK
+[1262] Frame of 114 data bytes recv'd +55.827000 ms
+tx: ACK
+[1263] Frame of 114 data bytes recv'd +184.046997 ms
+tx: ACK
+[1264] Frame of 114 data bytes recv'd +1968.175049 ms
+tx: ACK
+[1265] Frame of 114 data bytes recv'd +43.980999 ms
+tx: ACK
+[1266] Frame of 114 data bytes recv'd +184.647995 ms
+tx: ACK
+[1267] Frame of 114 data bytes recv'd +31.936001 ms
+tx: ACK
+[1268] Frame of 114 data bytes recv'd +43.910000 ms
+tx: ACK
+[1269] Frame of 114 data bytes recv'd +184.503006 ms
+tx: ACK
+[1270] Frame of 114 data bytes recv'd +29.327999 ms
+tx: ACK
+[1271] Frame of 70 data bytes recv'd +49.521000 ms
+[1272] Frame of 70 data bytes recv'd +23.062000 ms
+[1273] Frame of 70 data bytes recv'd +19.063999 ms
+[1274] Frame of 114 data bytes recv'd +23.316000 ms
+tx: ACK
+[1275] Frame of 70 data bytes recv'd +159.987000 ms
+[1276] Frame of 70 data bytes recv'd +27.827000 ms
+[1277] Frame of 70 data bytes recv'd +31.816000 ms
+[1278] Frame of 70 data bytes recv'd +25.985001 ms
+[1279] Frame of 70 data bytes recv'd +25.820000 ms
+[1280] Frame of 70 data bytes recv'd +18.358999 ms
+[1281] Frame of 114 data bytes recv'd +25.792000 ms
+tx: ACK
+[1282] Frame of 114 data bytes recv'd +26.372999 ms
+tx: ACK
+[1283] Frame of 114 data bytes recv'd +1956.151001 ms
+tx: ACK
+[1284] Frame of 114 data bytes recv'd +184.274002 ms
+tx: ACK
+[1285] Frame of 114 data bytes recv'd +28.514000 ms
+tx: ACK
+[1286] Frame of 114 data bytes recv'd +52.556000 ms
+tx: ACK
+[1287] Frame of 114 data bytes recv'd +184.238007 ms
+tx: ACK
+[1288] Frame of 114 data bytes recv'd +32.747002 ms
+tx: ACK
+[1289] Frame of 114 data bytes recv'd +45.056000 ms
+tx: ACK
+[1290] Frame of 114 data bytes recv'd +184.143997 ms
+tx: ACK
+[1291] Frame of 114 data bytes recv'd +51.252998 ms
+tx: ACK
+[1292] Frame of 70 data bytes recv'd +43.787998 ms
+[1293] Frame of 70 data bytes recv'd +29.784000 ms
+[1294] Frame of 114 data bytes recv'd +32.695999 ms
+tx: ACK
+[1295] Frame of 70 data bytes recv'd +1839.407959 ms
+[1296] Frame of 70 data bytes recv'd +28.580000 ms
+[1297] Frame of 114 data bytes recv'd +29.011999 ms
+tx: ACK
+[1298] Frame of 114 data bytes recv'd +15.246000 ms
+tx: ACK
+[1299] Frame of 114 data bytes recv'd +51.804001 ms
+tx: ACK
+[1300] Frame of 114 data bytes recv'd +21.013000 ms
+tx: ACK
+[1301] Frame of 114 data bytes recv'd +182.845001 ms
+tx: ACK
+[1302] Frame of 114 data bytes recv'd +29.158001 ms
+tx: ACK
+[1303] Frame of 114 data bytes recv'd +46.451000 ms
+tx: ACK
+[1304] Frame of 114 data bytes recv'd +184.602997 ms
+tx: ACK
+[1305] Frame of 114 data bytes recv'd +28.657000 ms
+tx: ACK
+[1306] Frame of 114 data bytes recv'd +44.264000 ms
+tx: ACK
+[1307] Frame of 114 data bytes recv'd +184.141998 ms
+tx: ACK
+[1308] Frame of 114 data bytes recv'd +28.511000 ms
+tx: ACK
+[1309] Frame of 70 data bytes recv'd +43.953999 ms
+[1310] Frame of 70 data bytes recv'd +1976.333008 ms
+[1311] Frame of 70 data bytes recv'd +20.153000 ms
+[1312] Frame of 114 data bytes recv'd +35.424999 ms
+tx: ACK
+[1313] Frame of 70 data bytes recv'd +160.188995 ms
+[1314] Frame of 70 data bytes recv'd +26.304001 ms
+[1315] Frame of 70 data bytes recv'd +16.368999 ms
+[1316] Frame of 114 data bytes recv'd +34.695999 ms
+tx: ACK
+[1317] Frame of 114 data bytes recv'd +11.367000 ms
+tx: ACK
+[1318] Frame of 114 data bytes recv'd +52.125999 ms
+tx: ACK
+[1319] Frame of 114 data bytes recv'd +184.117996 ms
+tx: ACK
+[1320] Frame of 114 data bytes recv'd +29.423000 ms
+tx: ACK
+[1321] Frame of 114 data bytes recv'd +44.310001 ms
+tx: ACK
+[1322] Frame of 114 data bytes recv'd +184.332993 ms
+tx: ACK
+[1323] Frame of 114 data bytes recv'd +29.033001 ms
+tx: ACK
+[1324] Frame of 114 data bytes recv'd +45.465000 ms
+tx: ACK
+[1325] Frame of 114 data bytes recv'd +1815.866943 ms
+tx: ACK
+[1326] Frame of 114 data bytes recv'd +32.311001 ms
+tx: ACK
+[1327] Frame of 70 data bytes recv'd +43.695999 ms
+[1328] Frame of 70 data bytes recv'd +19.077000 ms
+[1329] Frame of 70 data bytes recv'd +21.518000 ms
+[1330] Frame of 114 data bytes recv'd +28.580999 ms
+tx: ACK
+[1331] Frame of 70 data bytes recv'd +159.944000 ms
+[1332] Frame of 70 data bytes recv'd +25.049000 ms
+[1333] Frame of 70 data bytes recv'd +19.497999 ms
+[1334] Frame of 70 data bytes recv'd +8.617000 ms
+[1335] Frame of 114 data bytes recv'd +28.750999 ms
+tx: ACK
+[1336] Frame of 114 data bytes recv'd +13.946000 ms
+tx: ACK
+[1337] Frame of 114 data bytes recv'd +56.303001 ms
+tx: ACK
+[1338] Frame of 114 data bytes recv'd +184.511993 ms
+tx: ACK
+[1339] Frame of 114 data bytes recv'd +28.643999 ms
+tx: ACK
+[1340] Frame of 114 data bytes recv'd +43.785999 ms
+tx: ACK
+[1341] Frame of 114 data bytes recv'd +184.195999 ms
+tx: ACK
+[1342] Frame of 114 data bytes recv'd +28.607000 ms
+tx: ACK
+[1343] Frame of 114 data bytes recv'd +1951.092041 ms
+tx: ACK
+[1344] Frame of 114 data bytes recv'd +184.169006 ms
+tx: ACK
+[1345] Frame of 114 data bytes recv'd +28.781000 ms
+tx: ACK
+[1346] Frame of 70 data bytes recv'd +54.939999 ms
+[1347] Frame of 70 data bytes recv'd +29.478001 ms
+[1348] Frame of 70 data bytes recv'd +22.711000 ms
+[1349] Frame of 114 data bytes recv'd +5.585000 ms
+tx: ACK
+[1350] Frame of 70 data bytes recv'd +162.274002 ms
+[1351] Frame of 70 data bytes recv'd +31.955000 ms
+[1352] Frame of 70 data bytes recv'd +14.787000 ms
+[1353] Frame of 70 data bytes recv'd +21.021000 ms
+[1354] Frame of 114 data bytes recv'd +19.889999 ms
+tx: ACK
+[1355] Frame of 114 data bytes recv'd +31.055000 ms
+tx: ACK
+[1356] Frame of 114 data bytes recv'd +44.233002 ms
+tx: ACK
+[1357] Frame of 114 data bytes recv'd +184.270996 ms
+tx: ACK
+[1358] Frame of 114 data bytes recv'd +28.709000 ms
+tx: ACK
+[1359] Frame of 114 data bytes recv'd +43.854000 ms
+tx: ACK
+[1360] Frame of 114 data bytes recv'd +1815.927002 ms
+tx: ACK
+[1361] Frame of 114 data bytes recv'd +28.422001 ms
+tx: ACK
+[1362] Frame of 114 data bytes recv'd +44.013000 ms
+tx: ACK
+[1363] Frame of 114 data bytes recv'd +184.056000 ms
+tx: ACK
+[1364] Frame of 114 data bytes recv'd +28.438999 ms
+tx: ACK
+[1365] Frame of 70 data bytes recv'd +44.192001 ms
+[1366] Frame of 70 data bytes recv'd +29.367001 ms
+[1367] Frame of 70 data bytes recv'd +25.711000 ms
+[1368] Frame of 114 data bytes recv'd +21.695999 ms
+tx: ACK
+[1369] Frame of 70 data bytes recv'd +160.376999 ms
+[1370] Frame of 70 data bytes recv'd +14.227000 ms
+[1371] Frame of 70 data bytes recv'd +30.816999 ms
+[1372] Frame of 70 data bytes recv'd +26.622000 ms
+[1373] Frame of 114 data bytes recv'd +21.503000 ms
+tx: ACK
+[1374] Frame of 114 data bytes recv'd +22.893000 ms
+tx: ACK
+[1375] Frame of 114 data bytes recv'd +52.320000 ms
+tx: ACK
+[1376] Frame of 114 data bytes recv'd +1813.745972 ms
+tx: ACK
+[1377] Frame of 114 data bytes recv'd +29.292000 ms
+tx: ACK
+[1378] Frame of 114 data bytes recv'd +45.018002 ms
+tx: ACK
+[1379] Frame of 114 data bytes recv'd +184.485001 ms
+tx: ACK
+[1380] Frame of 114 data bytes recv'd +29.247000 ms
+tx: ACK
+[1381] Frame of 114 data bytes recv'd +51.073002 ms
+tx: ACK
+[1382] Frame of 114 data bytes recv'd +184.641998 ms
+tx: ACK
+[1383] Frame of 114 data bytes recv'd +34.299999 ms
+tx: ACK
+[1384] Frame of 70 data bytes recv'd +45.810001 ms
+[1385] Frame of 70 data bytes recv'd +19.740999 ms
+[1386] Frame of 70 data bytes recv'd +19.075001 ms
+[1387] Frame of 114 data bytes recv'd +25.068001 ms
+tx: ACK
+[1388] Frame of 70 data bytes recv'd +160.158005 ms
+[1389] Frame of 70 data bytes recv'd +33.129002 ms
+[1390] Frame of 70 data bytes recv'd +26.662001 ms
+[1391] Frame of 114 data bytes recv'd +17.270000 ms
+tx: ACK
+[1392] Frame of 114 data bytes recv'd +26.073999 ms
+tx: ACK
+[1393] Frame of 114 data bytes recv'd +1956.221924 ms
+tx: ACK
+[1394] Frame of 114 data bytes recv'd +184.423004 ms
+tx: ACK
+[1395] Frame of 114 data bytes recv'd +28.447001 ms
+tx: ACK
+[1396] Frame of 114 data bytes recv'd +51.080002 ms
+tx: ACK
+[1397] Frame of 114 data bytes recv'd +184.048996 ms
+tx: ACK
+[1398] Frame of 114 data bytes recv'd +28.459999 ms
+tx: ACK
+[1399] Frame of 114 data bytes recv'd +43.757999 ms
+tx: ACK
+[1400] Frame of 114 data bytes recv'd +184.695007 ms
+tx: ACK
+[1401] Frame of 114 data bytes recv'd +35.344002 ms
+tx: ACK
+[1402] Frame of 70 data bytes recv'd +44.851002 ms
+[1403] Frame of 70 data bytes recv'd +16.372999 ms
+[1404] Frame of 70 data bytes recv'd +22.665001 ms
+[1405] Frame of 114 data bytes recv'd +22.993999 ms
+tx: ACK
+[1406] Frame of 70 data bytes recv'd +1842.340088 ms
+[1407] Frame of 70 data bytes recv'd +28.204000 ms
+[1408] Frame of 114 data bytes recv'd +20.040001 ms
+tx: ACK
+[1409] Frame of 114 data bytes recv'd +36.314999 ms
+tx: ACK
+[1410] Frame of 114 data bytes recv'd +46.284000 ms
+tx: ACK
+[1411] Frame of 114 data bytes recv'd +184.179001 ms
+tx: ACK
+[1412] Frame of 114 data bytes recv'd +30.778999 ms
+tx: ACK
+[1413] Frame of 114 data bytes recv'd +43.791000 ms
+tx: ACK
+[1414] Frame of 114 data bytes recv'd +184.714005 ms
+tx: ACK
+[1415] Frame of 114 data bytes recv'd +29.853001 ms
+tx: ACK
+[1416] Frame of 114 data bytes recv'd +43.785000 ms
+tx: ACK
+[1417] Frame of 114 data bytes recv'd +184.093994 ms
+tx: ACK
+[1418] Frame of 114 data bytes recv'd +28.441000 ms
+tx: ACK
+[1419] Frame of 70 data bytes recv'd +43.698002 ms
+[1420] Frame of 70 data bytes recv'd +31.021999 ms
+[1421] Frame of 70 data bytes recv'd +17.233000 ms
+[1422] Frame of 114 data bytes recv'd +1965.796997 ms
+tx: ACK
+[1423] Frame of 70 data bytes recv'd +158.479004 ms
+[1424] Frame of 62 data bytes recv'd +26.881001 ms
+tx: ACK
+[1425] Frame of 70 data bytes recv'd +36.103001 ms
+[1426] Frame of 62 data bytes recv'd +12.195000 ms
+tx: ACK
+[1427] Frame of 114 data bytes recv'd +11.693000 ms
+tx: ACK
+[1428] Frame of 114 data bytes recv'd +32.708000 ms
+tx: ACK
+[1429] Frame of 114 data bytes recv'd +46.726002 ms
+tx: ACK
+[1430] Frame of 114 data bytes recv'd +184.158005 ms
+tx: ACK
+[1431] Frame of 114 data bytes recv'd +28.466000 ms
+tx: ACK
+[1432] Frame of 114 data bytes recv'd +51.789001 ms
+tx: ACK
+[1433] Frame of 114 data bytes recv'd +184.078995 ms
+tx: ACK
+[1434] Frame of 114 data bytes recv'd +28.448999 ms
+tx: ACK
+[1435] Frame of 114 data bytes recv'd +46.249001 ms
+tx: ACK
+[1436] Frame of 114 data bytes recv'd +1815.916992 ms
+tx: ACK
+[1437] Frame of 114 data bytes recv'd +28.423000 ms
+tx: ACK
+[1438] Frame of 70 data bytes recv'd +55.804001 ms
+[1439] Frame of 70 data bytes recv'd +17.077999 ms
+[1440] Frame of 114 data bytes recv'd +34.091000 ms
+tx: ACK
+[1441] Frame of 62 data bytes recv'd +166.024002 ms
+tx: ACK
+[1442] Frame of 62 data bytes recv'd +24.430000 ms
+tx: ACK
+[1443] Frame of 70 data bytes recv'd +25.664000 ms
+[1444] Frame of 62 data bytes recv'd +31.572001 ms
+tx: ACK
+[1445] Frame of 74 data bytes recv'd +27.870001 ms
+[1446] Frame of 74 data bytes recv'd +20.232000 ms
+[1447] Frame of 74 data bytes recv'd +28.929001 ms
+[1448] Frame of 62 data bytes recv'd +27.620001 ms
+tx: ACK
+[1449] Frame of 74 data bytes recv'd +21.514000 ms
+[1450] Frame of 74 data bytes recv'd +29.143999 ms
+[1451] Frame of 114 data bytes recv'd +26.594999 ms
+tx: ACK
+[1452] Frame of 70 data bytes recv'd +24.087000 ms
+tx: ACK
+[1453] Frame of 70 data bytes recv'd +173.731003 ms
+tx: ACK
+[1454] Frame of 70 data bytes recv'd +17.267000 ms
+tx: ACK
+[1455] Frame of 114 data bytes recv'd +19.798000 ms
+tx: ACK
+[1456] Frame of 74 data bytes recv'd +40.088001 ms
+[1457] Frame of 114 data bytes recv'd +22.790001 ms
+tx: ACK
+[1458] Frame of 70 data bytes recv'd +16.007999 ms
+tx: ACK
+[1459] Frame of 114 data bytes recv'd +11.965000 ms
+tx: ACK
+[1460] Frame of 114 data bytes recv'd +47.674999 ms
+tx: ACK
+[1461] Frame of 114 data bytes recv'd +1944.947021 ms
+tx: ACK
+[1462] Frame of 114 data bytes recv'd +184.184006 ms
+tx: ACK
+[1463] Frame of 114 data bytes recv'd +29.207001 ms
+tx: ACK
+[1464] Frame of 114 data bytes recv'd +43.821999 ms
+tx: ACK
+[1465] Frame of 114 data bytes recv'd +184.565002 ms
+tx: ACK
+[1466] Frame of 114 data bytes recv'd +28.611000 ms
+tx: ACK
+[1467] Frame of 70 data bytes recv'd +43.749001 ms
+[1468] Frame of 114 data bytes recv'd +26.556999 ms
+tx: ACK
+[1469] Frame of 62 data bytes recv'd +168.095993 ms
+[1470] Frame of 74 data bytes recv'd +25.385000 ms
+[1471] Frame of 74 data bytes recv'd +27.205999 ms
+[1472] Frame of 70 data bytes recv'd +10.175000 ms
+[1473] Frame of 114 data bytes recv'd +36.643002 ms
+tx: ACK
+[1474] Frame of 74 data bytes recv'd +38.749001 ms
+[1475] Frame of 74 data bytes recv'd +108.945000 ms
+[1476] Frame of 74 data bytes recv'd +1976.218018 ms
+[1477] Frame of 74 data bytes recv'd +41.555000 ms
+[1478] Frame of 70 data bytes recv'd +26.670000 ms
+tx: ACK
+[1479] Frame of 70 data bytes recv'd +31.385000 ms
+tx: ACK
+[1480] Frame of 70 data bytes recv'd +34.740002 ms
+tx: ACK
+[1481] Frame of 70 data bytes recv'd +18.622000 ms
+tx: ACK
+[1482] Frame of 70 data bytes recv'd +20.332001 ms
+tx: ACK
+[1483] Frame of 70 data bytes recv'd +15.563000 ms
+tx: ACK
+[1484] Frame of 70 data bytes recv'd +38.882000 ms
+tx: ACK
+[1485] Frame of 74 data bytes recv'd +27.134001 ms
+[1486] Frame of 114 data bytes recv'd +23.284000 ms
+tx: ACK
+[1487] Frame of 74 data bytes recv'd +17.621000 ms
+[1488] Frame of 114 data bytes recv'd +17.775999 ms
+tx: ACK
+[1489] Frame of 114 data bytes recv'd +35.070000 ms
+tx: ACK
+[1490] Frame of 114 data bytes recv'd +43.813000 ms
+tx: ACK
+[1491] Frame of 114 data bytes recv'd +184.429001 ms
+tx: ACK
+[1492] Frame of 114 data bytes recv'd +28.702999 ms
+tx: ACK
+[1493] Frame of 114 data bytes recv'd +44.335999 ms
+tx: ACK
+[1494] Frame of 114 data bytes recv'd +184.600006 ms
+tx: ACK
+[1495] Frame of 114 data bytes recv'd +28.768000 ms
+tx: ACK
+[1496] Frame of 114 data bytes recv'd +43.752998 ms
+tx: ACK
+[1497] Frame of 114 data bytes recv'd +1815.818970 ms
+tx: ACK
+[1498] Frame of 70 data bytes recv'd +30.820000 ms
+[1499] Frame of 74 data bytes recv'd +22.025999 ms
+[1500] Frame of 70 data bytes recv'd +18.059000 ms
+tx: ACK
+[1501] Frame of 114 data bytes recv'd +17.535999 ms
+tx: ACK
+[1502] Frame of 62 data bytes recv'd +24.444000 ms
+tx: ACK
+[1503] Frame of 74 data bytes recv'd +10.764000 ms
+[1504] Frame of 62 data bytes recv'd +12.876000 ms
+tx: ACK
+[1505] Frame of 70 data bytes recv'd +43.384998 ms
+tx: ACK
+[1506] Frame of 62 data bytes recv'd +31.850000 ms
+tx: ACK
+[1507] Frame of 74 data bytes recv'd +31.122000 ms
+[1508] Frame of 74 data bytes recv'd +18.594000 ms
+[1509] Frame of 70 data bytes recv'd +32.493000 ms
+tx: ACK
+[1510] Frame of 62 data bytes recv'd +29.153999 ms
+tx: ACK
+[1511] Frame of 70 data bytes recv'd +16.296000 ms
+tx: ACK
+[1512] Frame of 70 data bytes recv'd +32.521000 ms
+tx: ACK
+[1513] Frame of 74 data bytes recv'd +23.697001 ms
+[1514] Frame of 74 data bytes recv'd +23.353001 ms
+[1515] Frame of 74 data bytes recv'd +15.624000 ms
+[1516] Frame of 74 data bytes recv'd +20.222000 ms
+[1517] Frame of 74 data bytes recv'd +33.375000 ms
+[1518] Frame of 70 data bytes recv'd +34.091999 ms
+tx: ACK
+[1519] Frame of 74 data bytes recv'd +16.823000 ms
+[1520] Frame of 70 data bytes recv'd +39.264999 ms
+tx: ACK
+[1521] Frame of 74 data bytes recv'd +32.032001 ms
+[1522] Frame of 70 data bytes recv'd +24.480000 ms
+tx: ACK
+[1523] Frame of 74 data bytes recv'd +30.679001 ms
+[1524] Frame of 70 data bytes recv'd +24.510000 ms
+tx: ACK
+[1525] Frame of 74 data bytes recv'd +34.285999 ms
+[1526] Frame of 74 data bytes recv'd +17.681000 ms
+[1527] Frame of 74 data bytes recv'd +23.124001 ms
+[1528] Frame of 70 data bytes recv'd +21.903999 ms
+tx: ACK
+[1529] Frame of 70 data bytes recv'd +27.329000 ms
+tx: ACK
+[1530] Frame of 70 data bytes recv'd +18.900999 ms
+tx: ACK
+[1531] Frame of 74 data bytes recv'd +30.283001 ms
+[1532] Frame of 70 data bytes recv'd +12.430000 ms
+tx: ACK
+[1533] Frame of 74 data bytes recv'd +1973.481934 ms
+[1534] Frame of 74 data bytes recv'd +20.007000 ms
+[1535] Frame of 74 data bytes recv'd +18.510000 ms
+[1536] Frame of 74 data bytes recv'd +19.118000 ms
+[1537] Frame of 74 data bytes recv'd +32.731998 ms
+[1538] Frame of 74 data bytes recv'd +18.389999 ms
+[1539] Frame of 74 data bytes recv'd +15.126000 ms
+[1540] Frame of 74 data bytes recv'd +24.891001 ms
+[1541] Frame of 74 data bytes recv'd +16.896999 ms
+[1542] Frame of 70 data bytes recv'd +23.646999 ms
+tx: ACK
+[1543] Frame of 70 data bytes recv'd +31.098000 ms
+tx: ACK
+[1544] Frame of 74 data bytes recv'd +27.490000 ms
+[1545] Frame of 74 data bytes recv'd +30.856001 ms
+[1546] Frame of 74 data bytes recv'd +18.229000 ms
+[1547] Frame of 74 data bytes recv'd +28.266001 ms
+[1548] Frame of 74 data bytes recv'd +35.876999 ms
+[1549] Frame of 74 data bytes recv'd +19.187000 ms
+[1550] Frame of 74 data bytes recv'd +14.115000 ms
+[1551] Frame of 74 data bytes recv'd +28.420000 ms
+[1552] Frame of 74 data bytes recv'd +13.432000 ms
+[1553] Frame of 74 data bytes recv'd +26.420000 ms
+[1554] Frame of 114 data bytes recv'd +14.433000 ms
+tx: ACK
+[1555] Frame of 114 data bytes recv'd +38.084999 ms
+tx: ACK
+[1556] Frame of 114 data bytes recv'd +31.209999 ms
+tx: ACK
+[1557] Frame of 114 data bytes recv'd +48.700001 ms
+tx: ACK
+[1558] Frame of 114 data bytes recv'd +184.399002 ms
+tx: ACK
+[1559] Frame of 114 data bytes recv'd +29.068001 ms
+tx: ACK
+[1560] Frame of 114 data bytes recv'd +45.712002 ms
+tx: ACK
+[1561] Frame of 114 data bytes recv'd +1815.958008 ms
+tx: ACK
+[1562] Frame of 114 data bytes recv'd +28.681999 ms
+tx: ACK
+[1563] Frame of 114 data bytes recv'd +43.827999 ms
+tx: ACK
+[1564] Frame of 114 data bytes recv'd +184.227005 ms
+tx: ACK
+[1565] Frame of 114 data bytes recv'd +32.966999 ms
+tx: ACK
+[1566] Frame of 70 data bytes recv'd +44.050999 ms
+tx: ACK
+[1567] Frame of 70 data bytes recv'd +23.080000 ms
+tx: ACK
+[1568] Frame of 70 data bytes recv'd +23.504999 ms
+tx: ACK
+[1569] Frame of 74 data bytes recv'd +17.728001 ms
+[1570] Frame of 70 data bytes recv'd +17.889999 ms
+tx: ACK
+[1571] Frame of 74 data bytes recv'd +21.344999 ms
+[1572] Frame of 74 data bytes recv'd +20.794001 ms
+[1573] Frame of 74 data bytes recv'd +12.836000 ms
+[1574] Frame of 70 data bytes recv'd +23.523001 ms
+[1575] Frame of 62 data bytes recv'd +24.325001 ms
+tx: ACK
+[1576] Frame of 62 data bytes recv'd +32.519001 ms
+tx: ACK
+[1577] Frame of 74 data bytes recv'd +33.879002 ms
+[1578] Frame of 74 data bytes recv'd +26.079000 ms
+[1579] Frame of 74 data bytes recv'd +16.341999 ms
+[1580] Frame of 74 data bytes recv'd +24.010000 ms
+[1581] Frame of 74 data bytes recv'd +32.821999 ms
+[1582] Frame of 74 data bytes recv'd +21.055000 ms
+[1583] Frame of 70 data bytes recv'd +17.218000 ms
+tx: ACK
+[1584] Frame of 70 data bytes recv'd +18.834000 ms
+tx: ACK
+[1585] Frame of 114 data bytes recv'd +28.382999 ms
+tx: ACK
+[1586] Frame of 74 data bytes recv'd +57.358002 ms
+[1587] Frame of 62 data bytes recv'd +33.417000 ms
+tx: ACK
+[1588] Frame of 74 data bytes recv'd +33.657001 ms
+[1589] Frame of 74 data bytes recv'd +14.886000 ms
+[1590] Frame of 74 data bytes recv'd +10.976000 ms
+[1591] Frame of 114 data bytes recv'd +11.967000 ms
+tx: ACK
+[1592] Frame of 114 data bytes recv'd +1972.536987 ms
+tx: ACK
+[1593] Frame of 114 data bytes recv'd +198.809998 ms
+tx: ACK
+[1594] Frame of 74 data bytes recv'd +70.306000 ms
+[1595] Frame of 74 data bytes recv'd +117.650002 ms
+[1596] Frame of 74 data bytes recv'd +15.583000 ms
+[1597] Frame of 74 data bytes recv'd +9.833000 ms
+[1598] Frame of 74 data bytes recv'd +25.707001 ms
+[1599] Frame of 114 data bytes recv'd +32.119999 ms
+tx: ACK
+[1600] Frame of 114 data bytes recv'd +56.528000 ms
+tx: ACK
+[1601] Frame of 114 data bytes recv'd +70.238998 ms
+tx: ACK
+[1602] Frame of 114 data bytes recv'd +184.048004 ms
+tx: ACK
+[1603] Frame of 70 data bytes recv'd +70.351997 ms
+[1604] Frame of 74 data bytes recv'd +120.269997 ms
+[1605] Frame of 70 data bytes recv'd +1968.813965 ms
+tx: ACK
+[1606] Frame of 74 data bytes recv'd +18.823000 ms
+[1607] Frame of 74 data bytes recv'd +34.237999 ms
+[1608] Frame of 78 data bytes recv'd +16.229000 ms
+tx: ACK
+[1609] Frame of 70 data bytes recv'd +15.896000 ms
+tx: ACK
+[1610] Frame of 70 data bytes recv'd +19.885000 ms
+tx: ACK
+[1611] Frame of 74 data bytes recv'd +10.887000 ms
+[1612] Frame of 74 data bytes recv'd +12.667000 ms
+[1613] Frame of 74 data bytes recv'd +20.973000 ms
+[1614] Frame of 70 data bytes recv'd +21.667999 ms
+tx: ACK
+[1615] Frame of 74 data bytes recv'd +11.882000 ms
+[1616] Frame of 70 data bytes recv'd +18.980000 ms
+tx: ACK
+[1617] Frame of 74 data bytes recv'd +36.000999 ms
+[1618] Frame of 70 data bytes recv'd +10.843000 ms
+tx: ACK
+[1619] Frame of 70 data bytes recv'd +34.410999 ms
+tx: ACK
+[1620] Frame of 70 data bytes recv'd +11.507000 ms
+tx: ACK
+[1621] Frame of 70 data bytes recv'd +31.650000 ms
+tx: ACK
+[1622] Frame of 74 data bytes recv'd +13.444000 ms
+[1623] Frame of 70 data bytes recv'd +32.179001 ms
+tx: ACK
+[1624] Frame of 74 data bytes recv'd +34.244999 ms
+[1625] Frame of 70 data bytes recv'd +14.927000 ms
+tx: ACK
+[1626] Frame of 70 data bytes recv'd +29.826000 ms
+tx: ACK
+[1627] Frame of 70 data bytes recv'd +28.382000 ms
+tx: ACK
+[1628] Frame of 74 data bytes recv'd +21.912001 ms
+[1629] Frame of 74 data bytes recv'd +26.500999 ms
+[1630] Frame of 70 data bytes recv'd +34.078999 ms
+tx: ACK
+[1631] Frame of 114 data bytes recv'd +19.399000 ms
+tx: ACK
+[1632] Frame of 70 data bytes recv'd +38.713001 ms
+tx: ACK
+[1633] Frame of 70 data bytes recv'd +12.545000 ms
+tx: ACK
+[1634] Frame of 70 data bytes recv'd +38.910999 ms
+tx: ACK
+[1635] Frame of 114 data bytes recv'd +18.976000 ms
+tx: ACK
+[1636] Frame of 70 data bytes recv'd +38.276001 ms
+tx: ACK
+[1637] Frame of 114 data bytes recv'd +40.730000 ms
+tx: ACK
+[1638] Frame of 114 data bytes recv'd +27.382999 ms
+tx: ACK
+[1639] Frame of 114 data bytes recv'd +11.965000 ms
+tx: ACK
+[1640] Frame of 70 data bytes recv'd +34.012001 ms
+tx: ACK
+[1641] Frame of 70 data bytes recv'd +25.351999 ms
+tx: ACK
+[1642] Frame of 70 data bytes recv'd +18.797001 ms
+tx: ACK
+[1643] Frame of 70 data bytes recv'd +22.158001 ms
+tx: ACK
+[1644] Frame of 70 data bytes recv'd +28.850000 ms
+tx: ACK
+[1645] Frame of 70 data bytes recv'd +31.974001 ms
+tx: ACK
+[1646] Frame of 70 data bytes recv'd +1982.422974 ms
+tx: ACK
+[1647] Frame of 74 data bytes recv'd +22.351999 ms
+[1648] Frame of 70 data bytes recv'd +14.923000 ms
+tx: ACK
+[1649] Frame of 74 data bytes recv'd +22.163000 ms
+[1650] Frame of 74 data bytes recv'd +26.400000 ms
+[1651] Frame of 114 data bytes recv'd +17.212999 ms
+tx: ACK
+[1652] Frame of 70 data bytes recv'd +15.661000 ms
+tx: ACK
+[1653] Frame of 52 data bytes recv'd +30.936001 ms
+tx: ACK
+[1654] Frame of 70 data bytes recv'd +31.051001 ms
+tx: ACK
+[1655] Frame of 70 data bytes recv'd +36.138000 ms
+tx: ACK
+[1656] Frame of 70 data bytes recv'd +28.853001 ms
+tx: ACK
+[1657] Frame of 52 data bytes recv'd +11.435000 ms
+tx: ACK
+[1658] Frame of 70 data bytes recv'd +33.460999 ms
+tx: ACK
+[1659] Frame of 62 data bytes recv'd +19.271000 ms
+tx: ACK
+[1660] Frame of 70 data bytes recv'd +27.965000 ms
+tx: ACK
+[1661] Frame of 74 data bytes recv'd +36.705002 ms
+[1662] Frame of 114 data bytes recv'd +32.745998 ms
+tx: ACK
+[1663] Frame of 70 data bytes recv'd +35.634998 ms
+tx: ACK
+[1664] Frame of 70 data bytes recv'd +24.183001 ms
+tx: ACK
+[1665] Frame of 70 data bytes recv'd +32.353001 ms
+tx: ACK
+[1666] Frame of 74 data bytes recv'd +22.642000 ms
+[1667] Frame of 74 data bytes recv'd +19.393999 ms
+[1668] Frame of 70 data bytes recv'd +34.837002 ms
+tx: ACK
+[1669] Frame of 114 data bytes recv'd +13.099000 ms
+tx: ACK
+[1670] Frame of 74 data bytes recv'd +20.761999 ms
+[1671] Frame of 74 data bytes recv'd +15.426000 ms
+[1672] Frame of 74 data bytes recv'd +17.243000 ms
+[1673] Frame of 74 data bytes recv'd +26.312000 ms
+[1674] Frame of 74 data bytes recv'd +20.273001 ms
+[1675] Frame of 114 data bytes recv'd +17.065001 ms
+tx: ACK
+[1676] Frame of 114 data bytes recv'd +164.714996 ms
+tx: ACK
+[1677] Frame of 114 data bytes recv'd +28.591000 ms
+tx: ACK
+[1678] Frame of 114 data bytes recv'd +47.418999 ms
+tx: ACK
+[1679] Frame of 114 data bytes recv'd +1815.938965 ms
+tx: ACK
+[1680] Frame of 114 data bytes recv'd +37.505001 ms
+tx: ACK
+[1681] Frame of 114 data bytes recv'd +50.313999 ms
+tx: ACK
+[1682] Frame of 114 data bytes recv'd +184.205002 ms
+tx: ACK
+[1683] Frame of 114 data bytes recv'd +30.245001 ms
+tx: ACK
+[1684] Frame of 70 data bytes recv'd +43.743999 ms
+tx: ACK
+[1685] Frame of 70 data bytes recv'd +127.001999 ms
+tx: ACK
+[1686] Frame of 62 data bytes recv'd +30.896999 ms
+tx: ACK
+[1687] Frame of 114 data bytes recv'd +35.884998 ms
+tx: ACK
+[1688] Frame of 70 data bytes recv'd +21.518999 ms
+[1689] Frame of 114 data bytes recv'd +23.971001 ms
+tx: ACK
+[1690] Frame of 114 data bytes recv'd +20.325001 ms
+tx: ACK
+[1691] Frame of 70 data bytes recv'd +43.985001 ms
+[1692] Frame of 70 data bytes recv'd +17.233999 ms
+[1693] Frame of 70 data bytes recv'd +35.532001 ms
+[1694] Frame of 62 data bytes recv'd +32.173000 ms
+tx: ACK
+[1695] Frame of 70 data bytes recv'd +22.101999 ms
+[1696] Frame of 70 data bytes recv'd +23.028999 ms
+[1697] Frame of 74 data bytes recv'd +19.160000 ms
+[1698] Frame of 74 data bytes recv'd +25.620001 ms
+[1699] Frame of 74 data bytes recv'd +33.134998 ms
+[1700] Frame of 74 data bytes recv'd +1986.091064 ms
+[1701] Frame of 74 data bytes recv'd +26.284000 ms
+[1702] Frame of 70 data bytes recv'd +15.478000 ms
+tx: ACK
+[1703] Frame of 74 data bytes recv'd +19.693001 ms
+[1704] Frame of 74 data bytes recv'd +28.677999 ms
+[1705] Frame of 74 data bytes recv'd +27.733000 ms
+[1706] Frame of 74 data bytes recv'd +26.247000 ms
+[1707] Frame of 74 data bytes recv'd +18.174999 ms
+[1708] Frame of 74 data bytes recv'd +18.629000 ms
+[1709] Frame of 74 data bytes recv'd +26.370001 ms
+[1710] Frame of 74 data bytes recv'd +27.076000 ms
+[1711] Frame of 74 data bytes recv'd +23.716000 ms
+[1712] Frame of 114 data bytes recv'd +20.643999 ms
+tx: ACK
+[1713] Frame of 114 data bytes recv'd +21.115000 ms
+tx: ACK
+[1714] Frame of 114 data bytes recv'd +31.216000 ms
+tx: ACK
+[1715] Frame of 70 data bytes recv'd +44.189999 ms
+tx: ACK
+[1716] Frame of 114 data bytes recv'd +181.067993 ms
+tx: ACK
+[1717] Frame of 70 data bytes recv'd +24.061001 ms
+tx: ACK
+[1718] Frame of 70 data bytes recv'd +20.736000 ms
+tx: ACK
+[1719] Frame of 114 data bytes recv'd +34.229000 ms
+tx: ACK
+[1720] Frame of 114 data bytes recv'd +37.588001 ms
+tx: ACK
+[1721] Frame of 70 data bytes recv'd +18.070999 ms
+tx: ACK
+[1722] Frame of 70 data bytes recv'd +29.421000 ms
+tx: ACK
+[1723] Frame of 74 data bytes recv'd +17.128000 ms
+[1724] Frame of 70 data bytes recv'd +27.443001 ms
+tx: ACK
+[1725] Frame of 52 data bytes recv'd +38.645000 ms
+tx: ACK
+[1726] Frame of 70 data bytes recv'd +31.089001 ms
+tx: ACK
+[1727] Frame of 74 data bytes recv'd +27.886000 ms
+[1728] Frame of 52 data bytes recv'd +25.212999 ms
+tx: ACK
+[1729] Frame of 74 data bytes recv'd +31.705000 ms
+[1730] Frame of 70 data bytes recv'd +22.986000 ms
+tx: ACK
+[1731] Frame of 52 data bytes recv'd +28.051001 ms
+tx: ACK
+[1732] Frame of 74 data bytes recv'd +1966.921021 ms
+[1733] Frame of 74 data bytes recv'd +26.452999 ms
+[1734] Frame of 74 data bytes recv'd +36.952999 ms
+[1735] Frame of 114 data bytes recv'd +16.923000 ms
+tx: ACK
+[1736] Frame of 114 data bytes recv'd +29.267000 ms
+tx: ACK
+[1737] Frame of 74 data bytes recv'd +16.597000 ms
+[1738] Frame of 74 data bytes recv'd +21.343000 ms
+[1739] Frame of 74 data bytes recv'd +25.420000 ms
+[1740] Frame of 74 data bytes recv'd +21.466000 ms
+[1741] Frame of 114 data bytes recv'd +17.833000 ms
+tx: ACK
+[1742] Frame of 114 data bytes recv'd +131.839005 ms
+tx: ACK
+[1743] Frame of 114 data bytes recv'd +29.261000 ms
+tx: ACK
+[1744] Frame of 74 data bytes recv'd +44.214001 ms
+[1745] Frame of 74 data bytes recv'd +128.421997 ms
+[1746] Frame of 74 data bytes recv'd +23.167000 ms
+[1747] Frame of 114 data bytes recv'd +24.353001 ms
+tx: ACK
+[1748] Frame of 74 data bytes recv'd +60.758999 ms
+[1749] Frame of 74 data bytes recv'd +21.073999 ms
+[1750] Frame of 74 data bytes recv'd +23.238001 ms
+[1751] Frame of 74 data bytes recv'd +16.667000 ms
+[1752] Frame of 74 data bytes recv'd +22.677000 ms
+[1753] Frame of 74 data bytes recv'd +35.049999 ms
+[1754] Frame of 74 data bytes recv'd +20.559000 ms
+[1755] Frame of 74 data bytes recv'd +20.552000 ms
+[1756] Frame of 114 data bytes recv'd +43.071999 ms
+tx: ACK
+[1757] Frame of 114 data bytes recv'd +21.357000 ms
+tx: ACK
+[1758] Frame of 70 data bytes recv'd +55.737999 ms
+tx: ACK
+[1759] Frame of 114 data bytes recv'd +1915.991943 ms
+tx: ACK
+[1760] Frame of 114 data bytes recv'd +102.625999 ms
+tx: ACK
+[1761] Frame of 114 data bytes recv'd +40.294998 ms
+tx: ACK
+[1762] Frame of 114 data bytes recv'd +43.775002 ms
+tx: ACK
+[1763] Frame of 114 data bytes recv'd +184.104004 ms
+tx: ACK
+[1764] Frame of 114 data bytes recv'd +28.486000 ms
+tx: ACK
+[1765] Frame of 70 data bytes recv'd +44.192001 ms
+tx: ACK
+[1766] Frame of 74 data bytes recv'd +172.660995 ms
+[1767] Frame of 74 data bytes recv'd +27.364000 ms
+[1768] Frame of 70 data bytes recv'd +24.297001 ms
+tx: ACK
+[1769] Frame of 70 data bytes recv'd +22.153000 ms
+tx: ACK
+[1770] Frame of 74 data bytes recv'd +22.743999 ms
+[1771] Frame of 70 data bytes recv'd +22.420000 ms
+tx: ACK
+[1772] Frame of 70 data bytes recv'd +32.560001 ms
+tx: ACK
+[1773] Frame of 70 data bytes recv'd +21.700001 ms
+tx: ACK
+[1774] Frame of 52 data bytes recv'd +32.053001 ms
+tx: ACK
+[1775] Frame of 70 data bytes recv'd +36.842999 ms
+tx: ACK
+[1776] Frame of 70 data bytes recv'd +13.462000 ms
+tx: ACK
+[1777] Frame of 70 data bytes recv'd +33.173000 ms
+tx: ACK
+[1778] Frame of 70 data bytes recv'd +29.698999 ms
+tx: ACK
+[1779] Frame of 114 data bytes recv'd +20.978001 ms
+tx: ACK
+[1780] Frame of 52 data bytes recv'd +1977.901978 ms
+tx: ACK
+[1781] Frame of 70 data bytes recv'd +27.590000 ms
+tx: ACK
+[1782] Frame of 70 data bytes recv'd +31.194000 ms
+tx: ACK
+[1783] Frame of 70 data bytes recv'd +21.556000 ms
+tx: ACK
+[1784] Frame of 52 data bytes recv'd +10.925000 ms
+tx: ACK
+[1785] Frame of 74 data bytes recv'd +36.465000 ms
+[1786] Frame of 114 data bytes recv'd +10.240000 ms
+tx: ACK
+[1787] Frame of 74 data bytes recv'd +35.563000 ms
+[1788] Frame of 70 data bytes recv'd +38.757000 ms
+tx: ACK
+[1789] Frame of 70 data bytes recv'd +18.232000 ms
+tx: ACK
+[1790] Frame of 70 data bytes recv'd +15.242000 ms
+tx: ACK
+[1791] Frame of 70 data bytes recv'd +22.879000 ms
+tx: ACK
+[1792] Frame of 70 data bytes recv'd +34.880001 ms
+tx: ACK
+[1793] Frame of 114 data bytes recv'd +26.004999 ms
+tx: ACK
+[1794] Frame of 114 data bytes recv'd +34.081001 ms
+tx: ACK
+[1795] Frame of 70 data bytes recv'd +211.554993 ms
+[1796] Frame of 114 data bytes recv'd +26.538000 ms
+tx: ACK
+[1797] Frame of 114 data bytes recv'd +21.712000 ms
+tx: ACK
+[1798] Frame of 114 data bytes recv'd +50.138000 ms
+tx: ACK
+[1799] Frame of 114 data bytes recv'd +184.110001 ms
+tx: ACK
+[1800] Frame of 114 data bytes recv'd +29.104000 ms
+tx: ACK
+[1801] Frame of 114 data bytes recv'd +44.137001 ms
+tx: ACK
+[1802] Frame of 114 data bytes recv'd +1815.915039 ms
+tx: ACK
+[1803] Frame of 70 data bytes recv'd +28.540001 ms
+tx: ACK
+[1804] Frame of 62 data bytes recv'd +33.022999 ms
+tx: ACK
+[1805] Frame of 114 data bytes recv'd +21.194000 ms
+tx: ACK
+[1806] Frame of 62 data bytes recv'd +19.070999 ms
+tx: ACK
+[1807] Frame of 70 data bytes recv'd +90.485001 ms
+tx: ACK
+[1808] Frame of 70 data bytes recv'd +64.151001 ms
+tx: ACK
+[1809] Frame of 70 data bytes recv'd +22.134001 ms
+tx: ACK
+[1810] Frame of 70 data bytes recv'd +24.180000 ms
+tx: ACK
+[1811] Frame of 70 data bytes recv'd +19.452000 ms
+tx: ACK
+[1812] Frame of 70 data bytes recv'd +26.593000 ms
+tx: ACK
+[1813] Frame of 70 data bytes recv'd +33.419998 ms
+tx: ACK
+[1814] Frame of 70 data bytes recv'd +17.205000 ms
+tx: ACK
+[1815] Frame of 70 data bytes recv'd +37.818001 ms
+tx: ACK
+[1816] Frame of 70 data bytes recv'd +16.548000 ms
+tx: ACK
+[1817] Frame of 70 data bytes recv'd +27.038000 ms
+tx: ACK
+[1818] Frame of 70 data bytes recv'd +39.328999 ms
+tx: ACK
+[1819] Frame of 70 data bytes recv'd +29.254000 ms
+tx: ACK
+[1820] Frame of 70 data bytes recv'd +31.216999 ms
+tx: ACK
+[1821] Frame of 70 data bytes recv'd +29.368999 ms
+tx: ACK
+[1822] Frame of 74 data bytes recv'd +29.580000 ms
+[1823] Frame of 52 data bytes recv'd +26.069000 ms
+tx: ACK
+[1824] Frame of 70 data bytes recv'd +25.728001 ms
+tx: ACK
+[1825] Frame of 70 data bytes recv'd +34.793999 ms
+tx: ACK
+[1826] Frame of 74 data bytes recv'd +13.579000 ms
+[1827] Frame of 70 data bytes recv'd +12.293000 ms
+tx: ACK
+[1828] Frame of 70 data bytes recv'd +36.078999 ms
+tx: ACK
+[1829] Frame of 70 data bytes recv'd +27.148001 ms
+tx: ACK
+[1830] Frame of 70 data bytes recv'd +28.483999 ms
+tx: ACK
+[1831] Frame of 70 data bytes recv'd +22.160000 ms
+tx: ACK
+[1832] Frame of 70 data bytes recv'd +1964.532959 ms
+tx: ACK
+[1833] Frame of 70 data bytes recv'd +25.056999 ms
+tx: ACK
+[1834] Frame of 114 data bytes recv'd +22.205000 ms
+tx: ACK
+[1835] Frame of 70 data bytes recv'd +22.615999 ms
+tx: ACK
+[1836] Frame of 70 data bytes recv'd +17.441000 ms
+tx: ACK
+[1837] Frame of 62 data bytes recv'd +30.070999 ms
+tx: ACK
+[1838] Frame of 52 data bytes recv'd +32.042999 ms
+tx: ACK
+[1839] Frame of 62 data bytes recv'd +26.902000 ms
+tx: ACK
+[1840] Frame of 62 data bytes recv'd +19.586000 ms
+tx: ACK
+[1841] Frame of 70 data bytes recv'd +22.920000 ms
+tx: ACK
+[1842] Frame of 70 data bytes recv'd +22.954000 ms
+tx: ACK
+[1843] Frame of 70 data bytes recv'd +40.782001 ms
+tx: ACK
+[1844] Frame of 74 data bytes recv'd +36.568001 ms
+[1845] Frame of 70 data bytes recv'd +18.975000 ms
+tx: ACK
+[1846] Frame of 70 data bytes recv'd +17.327000 ms
+tx: ACK
+[1847] Frame of 70 data bytes recv'd +26.334999 ms
+tx: ACK
+[1848] Frame of 70 data bytes recv'd +36.606998 ms
+tx: ACK
+[1849] Frame of 70 data bytes recv'd +16.472000 ms
+tx: ACK
+[1850] Frame of 70 data bytes recv'd +18.224001 ms
+tx: ACK
+[1851] Frame of 70 data bytes recv'd +34.678001 ms
+tx: ACK
+[1852] Frame of 114 data bytes recv'd +18.992001 ms
+tx: ACK
+[1853] Frame of 70 data bytes recv'd +30.499001 ms
+tx: ACK
+[1854] Frame of 70 data bytes recv'd +31.981001 ms
+tx: ACK
+[1855] Frame of 70 data bytes recv'd +30.471001 ms
+tx: ACK
+[1856] Frame of 70 data bytes recv'd +29.857000 ms
+[1857] Frame of 70 data bytes recv'd +17.867001 ms
+[1858] Frame of 70 data bytes recv'd +17.308001 ms
+tx: ACK
+[1859] Frame of 70 data bytes recv'd +18.159000 ms
+tx: ACK
+[1860] Frame of 114 data bytes recv'd +27.926001 ms
+tx: ACK
+[1861] Frame of 74 data bytes recv'd +34.944000 ms
+[1862] Frame of 114 data bytes recv'd +11.105000 ms
+tx: ACK
+[1863] Frame of 70 data bytes recv'd +34.740002 ms
+tx: ACK
+[1864] Frame of 74 data bytes recv'd +27.374001 ms
+[1865] Frame of 114 data bytes recv'd +37.695000 ms
+tx: ACK
+[1866] Frame of 114 data bytes recv'd +32.275002 ms
+tx: ACK
+[1867] Frame of 74 data bytes recv'd +37.095001 ms
+[1868] Frame of 52 data bytes recv'd +39.555000 ms
+tx: ACK
+[1869] Frame of 70 data bytes recv'd +1981.302002 ms
+tx: ACK
+[1870] Frame of 70 data bytes recv'd +31.976999 ms
+tx: ACK
+[1871] Frame of 70 data bytes recv'd +36.664001 ms
+tx: ACK
+[1872] Frame of 74 data bytes recv'd +42.616001 ms
+[1873] Frame of 70 data bytes recv'd +21.285000 ms
+tx: ACK
+[1874] Frame of 70 data bytes recv'd +35.758999 ms
+tx: ACK
+[1875] Frame of 52 data bytes recv'd +35.183998 ms
+tx: ACK
+[1876] Frame of 70 data bytes recv'd +22.403000 ms
+tx: ACK
+[1877] Frame of 70 data bytes recv'd +49.209000 ms
+tx: ACK
+[1878] Frame of 70 data bytes recv'd +23.037001 ms
+tx: ACK
+[1879] Frame of 70 data bytes recv'd +45.181999 ms
+tx: ACK
+[1880] Frame of 70 data bytes recv'd +45.452000 ms
+tx: ACK
+[1881] Frame of 70 data bytes recv'd +17.691999 ms
+tx: ACK
+[1882] Frame of 52 data bytes recv'd +37.853001 ms
+tx: ACK
+[1883] Frame of 52 data bytes recv'd +25.788000 ms
+tx: ACK
+[1884] Frame of 70 data bytes recv'd +24.382999 ms
+tx: ACK
+[1885] Frame of 70 data bytes recv'd +40.377998 ms
+tx: ACK
+[1886] Frame of 52 data bytes recv'd +22.907000 ms
+tx: ACK
+[1887] Frame of 70 data bytes recv'd +27.430000 ms
+tx: ACK
+[1888] Frame of 70 data bytes recv'd +26.632999 ms
+tx: ACK
+[1889] Frame of 52 data bytes recv'd +39.542000 ms
+tx: ACK
+[1890] Frame of 70 data bytes recv'd +30.889000 ms
+tx: ACK
+[1891] Frame of 52 data bytes recv'd +20.363001 ms
+tx: ACK
+[1892] Frame of 74 data bytes recv'd +39.917999 ms
+[1893] Frame of 70 data bytes recv'd +9.222000 ms
+tx: ACK
+[1894] Frame of 70 data bytes recv'd +16.709000 ms
+tx: ACK
+[1895] Frame of 70 data bytes recv'd +39.754002 ms
+tx: ACK
+[1896] Frame of 70 data bytes recv'd +32.862000 ms
+tx: ACK
+[1897] Frame of 70 data bytes recv'd +23.931000 ms
+tx: ACK
+[1898] Frame of 70 data bytes recv'd +39.441002 ms
+tx: ACK
+[1899] Frame of 52 data bytes recv'd +31.330999 ms
+tx: ACK
+[1900] Frame of 70 data bytes recv'd +18.853001 ms
+tx: ACK
+[1901] Frame of 70 data bytes recv'd +36.897999 ms
+tx: ACK
+[1902] Frame of 70 data bytes recv'd +1956.255981 ms
+tx: ACK
+[1903] Frame of 74 data bytes recv'd +36.553001 ms
+[1904] Frame of 74 data bytes recv'd +18.732000 ms
+[1905] Frame of 74 data bytes recv'd +17.034000 ms
+[1906] Frame of 74 data bytes recv'd +18.113001 ms
+[1907] Frame of 74 data bytes recv'd +33.894001 ms
+[1908] Frame of 74 data bytes recv'd +28.851000 ms
+[1909] Frame of 74 data bytes recv'd +35.195000 ms
+[1910] Frame of 114 data bytes recv'd +28.497999 ms
+tx: ACK
+[1911] Frame of 114 data bytes recv'd +39.810001 ms
+tx: ACK
+[1912] Frame of 70 data bytes recv'd +35.407001 ms
+[1913] Frame of 70 data bytes recv'd +18.236000 ms
+tx: ACK
+[1914] Frame of 114 data bytes recv'd +28.608999 ms
+tx: ACK
+[1915] Frame of 74 data bytes recv'd +33.731998 ms
+[1916] Frame of 70 data bytes recv'd +28.136999 ms
+tx: ACK
+[1917] Frame of 70 data bytes recv'd +28.362000 ms
+tx: ACK
+[1918] Frame of 114 data bytes recv'd +33.243000 ms
+tx: ACK
+[1919] Frame of 74 data bytes recv'd +27.882000 ms
+[1920] Frame of 74 data bytes recv'd +24.878000 ms
+[1921] Frame of 74 data bytes recv'd +13.755000 ms
+[1922] Frame of 74 data bytes recv'd +25.780001 ms
+[1923] Frame of 114 data bytes recv'd +29.905001 ms
+tx: ACK
+[1924] Frame of 74 data bytes recv'd +152.828003 ms
+[1925] Frame of 114 data bytes recv'd +29.919001 ms
+tx: ACK
+[1926] Frame of 114 data bytes recv'd +31.131001 ms
+tx: ACK
+[1927] Frame of 114 data bytes recv'd +36.098000 ms
+tx: ACK
+[1928] Frame of 114 data bytes recv'd +43.797001 ms
+tx: ACK
+[1929] Frame of 114 data bytes recv'd +1828.770020 ms
+tx: ACK
+[1930] Frame of 114 data bytes recv'd +17.650999 ms
+tx: ACK
+[1931] Frame of 114 data bytes recv'd +40.785000 ms
+tx: ACK
+[1932] Frame of 70 data bytes recv'd +44.063000 ms
+tx: ACK
+[1933] Frame of 70 data bytes recv'd +126.952003 ms
+tx: ACK
+[1934] Frame of 70 data bytes recv'd +18.030001 ms
+tx: ACK
+[1935] Frame of 70 data bytes recv'd +22.715000 ms
+tx: ACK
+[1936] Frame of 52 data bytes recv'd +33.571999 ms
+tx: ACK
+[1937] Frame of 70 data bytes recv'd +31.733000 ms
+tx: ACK
+[1938] Frame of 52 data bytes recv'd +11.560000 ms
+tx: ACK
+[1939] Frame of 70 data bytes recv'd +32.688999 ms
+tx: ACK
+[1940] Frame of 70 data bytes recv'd +24.919001 ms
+tx: ACK
+[1941] Frame of 70 data bytes recv'd +30.877001 ms
+tx: ACK
+[1942] Frame of 70 data bytes recv'd +23.174000 ms
+tx: ACK
+[1943] Frame of 70 data bytes recv'd +24.014999 ms
+tx: ACK
+[1944] Frame of 70 data bytes recv'd +22.409000 ms
+tx: ACK
+[1945] Frame of 74 data bytes recv'd +30.344000 ms
+[1946] Frame of 70 data bytes recv'd +20.823000 ms
+tx: ACK
+[1947] Frame of 74 data bytes recv'd +23.018000 ms
+[1948] Frame of 74 data bytes recv'd +22.513000 ms
+[1949] Frame of 70 data bytes recv'd +23.733000 ms
+tx: ACK
+[1950] Frame of 74 data bytes recv'd +22.839001 ms
+[1951] Frame of 74 data bytes recv'd +31.591000 ms
+[1952] Frame of 74 data bytes recv'd +32.499001 ms
+[1953] Frame of 74 data bytes recv'd +25.927000 ms
+[1954] Frame of 70 data bytes recv'd +22.622000 ms
+tx: ACK
+[1955] Frame of 70 data bytes recv'd +24.629000 ms
+tx: ACK
+[1956] Frame of 52 data bytes recv'd +28.896000 ms
+tx: ACK
+[1957] Frame of 74 data bytes recv'd +23.216000 ms
+[1958] Frame of 70 data bytes recv'd +21.367001 ms
+tx: ACK
+[1959] Frame of 70 data bytes recv'd +26.586000 ms
+tx: ACK
+[1960] Frame of 74 data bytes recv'd +17.341999 ms
+[1961] Frame of 114 data bytes recv'd +1975.193970 ms
+tx: ACK
+[1962] Frame of 70 data bytes recv'd +24.186001 ms
+tx: ACK
+[1963] Frame of 70 data bytes recv'd +17.261000 ms
+tx: ACK
+[1964] Frame of 70 data bytes recv'd +33.530998 ms
+tx: ACK
+[1965] Frame of 74 data bytes recv'd +17.090000 ms
+[1966] Frame of 74 data bytes recv'd +41.265999 ms
+[1967] Frame of 52 data bytes recv'd +9.853000 ms
+tx: ACK
+[1968] Frame of 70 data bytes recv'd +34.348000 ms
+tx: ACK
+[1969] Frame of 114 data bytes recv'd +13.925000 ms
+tx: ACK
+[1970] Frame of 114 data bytes recv'd +35.471001 ms
+tx: ACK
+[1971] Frame of 114 data bytes recv'd +31.789000 ms
+tx: ACK
+[1972] Frame of 52 data bytes recv'd +43.696999 ms
+tx: ACK
+[1973] Frame of 52 data bytes recv'd +40.340000 ms
+tx: ACK
+[1974] Frame of 52 data bytes recv'd +19.063999 ms
+tx: ACK
+[1975] Frame of 114 data bytes recv'd +25.253000 ms
+tx: ACK
+[1976] Frame of 114 data bytes recv'd +131.779007 ms
+tx: ACK
+[1977] Frame of 114 data bytes recv'd +21.660000 ms
+tx: ACK
+[1978] Frame of 114 data bytes recv'd +38.766998 ms
+tx: ACK
+[1979] Frame of 114 data bytes recv'd +44.179001 ms
+tx: ACK
+[1980] Frame of 114 data bytes recv'd +171.190002 ms
+tx: ACK
+[1981] Frame of 62 data bytes recv'd +36.139999 ms
+[1982] Frame of 74 data bytes recv'd +13.204000 ms
+[1983] Frame of 70 data bytes recv'd +15.825000 ms
+tx: ACK
+[1984] Frame of 70 data bytes recv'd +23.612000 ms
+tx: ACK
+[1985] Frame of 70 data bytes recv'd +20.820999 ms
+tx: ACK
+[1986] Frame of 70 data bytes recv'd +28.077999 ms
+tx: ACK
+[1987] Frame of 114 data bytes recv'd +15.677000 ms
+tx: ACK
+[1988] Frame of 70 data bytes recv'd +24.865000 ms
+tx: ACK
+[1989] Frame of 70 data bytes recv'd +1984.437012 ms
+tx: ACK
+[1990] Frame of 74 data bytes recv'd +21.848000 ms
+[1991] Frame of 70 data bytes recv'd +9.008000 ms
+tx: ACK
+[1992] Frame of 70 data bytes recv'd +34.687000 ms
+tx: ACK
+[1993] Frame of 70 data bytes recv'd +29.110001 ms
+tx: ACK
+[1994] Frame of 52 data bytes recv'd +26.966000 ms
+tx: ACK
+[1995] Frame of 70 data bytes recv'd +25.087000 ms
+tx: ACK
+[1996] Frame of 74 data bytes recv'd +28.033001 ms
+[1997] Frame of 74 data bytes recv'd +9.882000 ms
+[1998] Frame of 70 data bytes recv'd +16.568001 ms
+tx: ACK
+[1999] Frame of 70 data bytes recv'd +10.409000 ms
+tx: ACK
+[2000] Frame of 74 data bytes recv'd +53.013000 ms
+[2001] Frame of 52 data bytes recv'd +11.692000 ms
+tx: ACK
+[2002] Frame of 70 data bytes recv'd +9.114000 ms
+tx: ACK
+[2003] Frame of 70 data bytes recv'd +22.601000 ms
+tx: ACK
+[2004] Frame of 70 data bytes recv'd +33.134998 ms
+tx: ACK
+[2005] Frame of 70 data bytes recv'd +22.143000 ms
+tx: ACK
+[2006] Frame of 70 data bytes recv'd +17.385000 ms
+tx: ACK
+[2007] Frame of 70 data bytes recv'd +22.936001 ms
+tx: ACK
+[2008] Frame of 70 data bytes recv'd +30.003000 ms
+tx: ACK
+[2009] Frame of 52 data bytes recv'd +31.618000 ms
+tx: ACK
+[2010] Frame of 74 data bytes recv'd +26.367001 ms
+[2011] Frame of 70 data bytes recv'd +30.709000 ms
+tx: ACK
+[2012] Frame of 74 data bytes recv'd +24.767000 ms
+[2013] Frame of 70 data bytes recv'd +11.708000 ms
+tx: ACK
+[2014] Frame of 70 data bytes recv'd +26.256001 ms
+tx: ACK
+[2015] Frame of 70 data bytes recv'd +23.000999 ms
+tx: ACK
+[2016] Frame of 70 data bytes recv'd +21.955999 ms
+tx: ACK
+[2017] Frame of 74 data bytes recv'd +34.231998 ms
+[2018] Frame of 70 data bytes recv'd +22.705000 ms
+tx: ACK
+[2019] Frame of 70 data bytes recv'd +20.030001 ms
+tx: ACK
+[2020] Frame of 70 data bytes recv'd +25.348000 ms
+tx: ACK
+[2021] Frame of 52 data bytes recv'd +21.687000 ms
+tx: ACK
+[2022] Frame of 52 data bytes recv'd +16.761999 ms
+tx: ACK
+[2023] Frame of 52 data bytes recv'd +13.523000 ms
+tx: ACK
+[2024] Frame of 70 data bytes recv'd +20.801001 ms
+tx: ACK
+[2025] Frame of 52 data bytes recv'd +23.917999 ms
+tx: ACK
+[2026] Frame of 52 data bytes recv'd +17.742001 ms
+tx: ACK
+[2027] Frame of 70 data bytes recv'd +36.537998 ms
+tx: ACK
+[2028] Frame of 52 data bytes recv'd +25.332001 ms
+tx: ACK
+[2029] Frame of 70 data bytes recv'd +27.997999 ms
+tx: ACK
+[2030] Frame of 114 data bytes recv'd +22.844000 ms
+tx: ACK
+[2031] Frame of 70 data bytes recv'd +21.084000 ms
+tx: ACK
+[2032] Frame of 70 data bytes recv'd +1982.351074 ms
+tx: ACK
+[2033] Frame of 74 data bytes recv'd +43.409000 ms
+[2034] Frame of 74 data bytes recv'd +38.590000 ms
+[2035] Frame of 70 data bytes recv'd +8.330000 ms
+tx: ACK
+[2036] Frame of 114 data bytes recv'd +41.799000 ms
+tx: ACK
+[2037] Frame of 114 data bytes recv'd +125.041000 ms
+tx: ACK
+[2038] Frame of 114 data bytes recv'd +38.894001 ms
+tx: ACK
+[2039] Frame of 114 data bytes recv'd +29.969999 ms
+tx: ACK
+[2040] Frame of 70 data bytes recv'd +44.018002 ms
+[2041] Frame of 62 data bytes recv'd +147.451004 ms
+tx: ACK
+[2042] Frame of 114 data bytes recv'd +18.233999 ms
+tx: ACK
+[2043] Frame of 114 data bytes recv'd +23.551001 ms
+tx: ACK
+[2044] Frame of 114 data bytes recv'd +15.266000 ms
+tx: ACK
+[2045] Frame of 114 data bytes recv'd +42.229000 ms
+tx: ACK
+[2046] Frame of 114 data bytes recv'd +44.219002 ms
+tx: ACK
+[2047] Frame of 114 data bytes recv'd +171.973999 ms
+tx: ACK
+[2048] Frame of 62 data bytes recv'd +18.973000 ms
+tx: ACK
+[2049] Frame of 62 data bytes recv'd +13.753000 ms
+[2050] Frame of 62 data bytes recv'd +39.553001 ms
+tx: ACK
+[2051] Frame of 62 data bytes recv'd +19.704000 ms
+tx: ACK
+[2052] Frame of 114 data bytes recv'd +13.273000 ms
+tx: ACK
+[2053] Frame of 62 data bytes recv'd +32.360001 ms
+tx: ACK
+[2054] Frame of 114 data bytes recv'd +13.034000 ms
+tx: ACK
+[2055] Frame of 114 data bytes recv'd +1963.365967 ms
+tx: ACK
+[2056] Frame of 114 data bytes recv'd +51.004002 ms
+tx: ACK
+[2057] Frame of 62 data bytes recv'd +171.095993 ms
+[2058] Frame of 74 data bytes recv'd +23.139000 ms
+[2059] Frame of 114 data bytes recv'd +15.997000 ms
+tx: ACK
+[2060] Frame of 70 data bytes recv'd +28.358999 ms
+tx: ACK
+[2061] Frame of 62 data bytes recv'd +13.581000 ms
+[2062] Frame of 74 data bytes recv'd +29.666000 ms
+[2063] Frame of 74 data bytes recv'd +16.288000 ms
+[2064] Frame of 74 data bytes recv'd +14.791000 ms
+[2065] Frame of 74 data bytes recv'd +34.049999 ms
+[2066] Frame of 74 data bytes recv'd +10.563000 ms
+[2067] Frame of 74 data bytes recv'd +38.210999 ms
+[2068] Frame of 70 data bytes recv'd +13.574000 ms
+tx: ACK
+[2069] Frame of 62 data bytes recv'd +14.061000 ms
+[2070] Frame of 114 data bytes recv'd +14.858000 ms
+tx: ACK
+[2071] Frame of 62 data bytes recv'd +19.420000 ms
+tx: ACK
+[2072] Frame of 114 data bytes recv'd +35.652000 ms
+tx: ACK
+[2073] Frame of 114 data bytes recv'd +16.948999 ms
+tx: ACK
+[2074] Frame of 74 data bytes recv'd +201.425995 ms
+[2075] Frame of 74 data bytes recv'd +21.459000 ms
+[2076] Frame of 70 data bytes recv'd +19.843000 ms
+tx: ACK
+[2077] Frame of 114 data bytes recv'd +27.961000 ms
+tx: ACK
+[2078] Frame of 74 data bytes recv'd +17.882999 ms
+[2079] Frame of 70 data bytes recv'd +44.167999 ms
+tx: ACK
+[2080] Frame of 52 data bytes recv'd +20.788000 ms
+tx: ACK
+[2081] Frame of 74 data bytes recv'd +34.091999 ms
+[2082] Frame of 70 data bytes recv'd +16.437000 ms
+tx: ACK
+[2083] Frame of 70 data bytes recv'd +1982.086914 ms
+tx: ACK
+[2084] Frame of 114 data bytes recv'd +29.877001 ms
+tx: ACK
+[2085] Frame of 114 data bytes recv'd +25.827999 ms
+tx: ACK
+[2086] Frame of 114 data bytes recv'd +44.319000 ms
+tx: ACK
+[2087] Frame of 70 data bytes recv'd +173.052002 ms
+tx: ACK
+[2088] Frame of 114 data bytes recv'd +16.125000 ms
+tx: ACK
+[2089] Frame of 114 data bytes recv'd +26.770000 ms
+tx: ACK
+[2090] Frame of 114 data bytes recv'd +35.249001 ms
+tx: ACK
+[2091] Frame of 114 data bytes recv'd +44.374001 ms
+tx: ACK
+[2092] Frame of 114 data bytes recv'd +171.167007 ms
+tx: ACK
+[2093] Frame of 114 data bytes recv'd +23.114000 ms
+tx: ACK
+[2094] Frame of 114 data bytes recv'd +28.990000 ms
+tx: ACK
+[2095] Frame of 114 data bytes recv'd +45.997002 ms
+tx: ACK
+[2096] Frame of 114 data bytes recv'd +172.162003 ms
+tx: ACK
+[2097] Frame of 114 data bytes recv'd +16.622999 ms
+tx: ACK
+[2098] Frame of 70 data bytes recv'd +27.032000 ms
+[2099] Frame of 114 data bytes recv'd +40.109001 ms
+tx: ACK
+[2100] Frame of 114 data bytes recv'd +33.250999 ms
+tx: ACK
+[2101] Frame of 70 data bytes recv'd +1956.307007 ms
+[2102] Frame of 70 data bytes recv'd +27.568001 ms
+tx: ACK
+[2103] Frame of 70 data bytes recv'd +27.423000 ms
+tx: ACK
+[2104] Frame of 62 data bytes recv'd +11.187000 ms
+tx: ACK
+[2105] Frame of 114 data bytes recv'd +26.739000 ms
+tx: ACK
+[2106] Frame of 114 data bytes recv'd +186.212006 ms
+tx: ACK
+[2107] Frame of 70 data bytes recv'd +28.834999 ms
+[2108] Frame of 70 data bytes recv'd +15.684000 ms
+[2109] Frame of 70 data bytes recv'd +34.216999 ms
+[2110] Frame of 70 data bytes recv'd +18.573999 ms
+[2111] Frame of 114 data bytes recv'd +28.981001 ms
+tx: ACK
+[2112] Frame of 114 data bytes recv'd +18.653000 ms
+tx: ACK
+[2113] Frame of 70 data bytes recv'd +80.356003 ms
+[2114] Frame of 70 data bytes recv'd +157.720001 ms
+[2115] Frame of 114 data bytes recv'd +21.316000 ms
+tx: ACK
+[2116] Frame of 114 data bytes recv'd +23.374001 ms
+tx: ACK
+[2117] Frame of 114 data bytes recv'd +31.931000 ms
+tx: ACK
+[2118] Frame of 114 data bytes recv'd +48.172001 ms
+tx: ACK
+[2119] Frame of 114 data bytes recv'd +43.782001 ms
+tx: ACK
+[2120] Frame of 114 data bytes recv'd +1828.817017 ms
+tx: ACK
+[2121] Frame of 114 data bytes recv'd +54.060001 ms
+tx: ACK
+[2122] Frame of 114 data bytes recv'd +30.332001 ms
+tx: ACK
+[2123] Frame of 114 data bytes recv'd +47.813999 ms
+tx: ACK
+[2124] Frame of 114 data bytes recv'd +171.169998 ms
+tx: ACK
+[2125] Frame of 70 data bytes recv'd +19.577999 ms
+[2126] Frame of 114 data bytes recv'd +14.236000 ms
+tx: ACK
+[2127] Frame of 114 data bytes recv'd +19.362000 ms
+tx: ACK
+[2128] Frame of 70 data bytes recv'd +61.480000 ms
+[2129] Frame of 114 data bytes recv'd +21.674000 ms
+tx: ACK
+[2130] Frame of 114 data bytes recv'd +170.561996 ms
+tx: ACK
+[2131] Frame of 70 data bytes recv'd +32.221001 ms
+[2132] Frame of 70 data bytes recv'd +17.636999 ms
+[2133] Frame of 114 data bytes recv'd +20.952000 ms
+tx: ACK
+[2134] Frame of 114 data bytes recv'd +21.355000 ms
+tx: ACK
+[2135] Frame of 70 data bytes recv'd +43.698002 ms
+tx: ACK
+[2136] Frame of 70 data bytes recv'd +172.117996 ms
+tx: ACK
+[2137] Frame of 70 data bytes recv'd +20.385000 ms
+tx: ACK
+[2138] Frame of 70 data bytes recv'd +24.160000 ms
+tx: ACK
+[2139] Frame of 114 data bytes recv'd +26.594000 ms
+tx: ACK
+[2140] Frame of 70 data bytes recv'd +1974.864990 ms
+tx: ACK
+[2141] Frame of 114 data bytes recv'd +24.791000 ms
+tx: ACK
+[2142] Frame of 70 data bytes recv'd +11.087000 ms
+tx: ACK
+[2143] Frame of 70 data bytes recv'd +30.045000 ms
+tx: ACK
+[2144] Frame of 114 data bytes recv'd +41.452999 ms
+tx: ACK
+[2145] Frame of 114 data bytes recv'd +41.680000 ms
+tx: ACK
+[2146] Frame of 114 data bytes recv'd +48.654999 ms
+tx: ACK
+[2147] Frame of 114 data bytes recv'd +184.240005 ms
+tx: ACK
+[2148] Frame of 114 data bytes recv'd +28.441000 ms
+tx: ACK
+[2149] Frame of 74 data bytes recv'd +45.423000 ms
+[2150] Frame of 74 data bytes recv'd +78.371002 ms
+[2151] Frame of 74 data bytes recv'd +16.933001 ms
+[2152] Frame of 114 data bytes recv'd +20.872999 ms
+tx: ACK
+[2153] Frame of 70 data bytes recv'd +100.983002 ms
+[2154] Frame of 114 data bytes recv'd +37.905998 ms
+tx: ACK
+[2155] Frame of 114 data bytes recv'd +32.338001 ms
+tx: ACK
+[2156] Frame of 114 data bytes recv'd +46.566002 ms
+tx: ACK
+[2157] Frame of 70 data bytes recv'd +185.781006 ms
+[2158] Frame of 70 data bytes recv'd +1967.038086 ms
+[2159] Frame of 114 data bytes recv'd +18.896000 ms
+tx: ACK
+[2160] Frame of 114 data bytes recv'd +38.108002 ms
+tx: ACK
+[2161] Frame of 78 data bytes recv'd +44.060001 ms
+[2162] Frame of 62 data bytes recv'd +163.917999 ms
+[2163] Frame of 70 data bytes recv'd +19.469999 ms
+tx: ACK
+[2164] Frame of 70 data bytes recv'd +35.276001 ms
+tx: ACK
+[2165] Frame of 70 data bytes recv'd +20.013000 ms
+tx: ACK
+[2166] Frame of 114 data bytes recv'd +24.539000 ms
+tx: ACK
+[2167] Frame of 62 data bytes recv'd +36.831001 ms
+tx: ACK
+[2168] Frame of 114 data bytes recv'd +14.043000 ms
+tx: ACK
+[2169] Frame of 114 data bytes recv'd +24.832001 ms
+tx: ACK
+[2170] Frame of 70 data bytes recv'd +49.686001 ms
+tx: ACK
+[2171] Frame of 114 data bytes recv'd +95.125999 ms
+tx: ACK
+[2172] Frame of 114 data bytes recv'd +91.156998 ms
+tx: ACK
+[2173] Frame of 114 data bytes recv'd +28.417000 ms
+tx: ACK
+[2174] Frame of 70 data bytes recv'd +50.506001 ms
+[2175] Frame of 114 data bytes recv'd +82.001999 ms
+tx: ACK
+[2176] Frame of 70 data bytes recv'd +102.374001 ms
+[2177] Frame of 114 data bytes recv'd +22.350000 ms
+tx: ACK
+[2178] Frame of 114 data bytes recv'd +1972.234985 ms
+tx: ACK

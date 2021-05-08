@@ -25,6 +25,7 @@
 #include <fcntl.h>
 #include <unistd.h>
 #include <sys/time.h>
+#include <errno.h>
 
 #include "gpioLib.h"
 #include "sockInit.h"
@@ -57,7 +58,7 @@ int RX(int sockfd, char *src_mac, int *prev_sec, int *prev_usec, int *tx_ACK, in
 
 	ssize_t ether_len= 1518;
 	uint8_t buf[ether_len];
-	memset(send_buffer, 0, ether_len);
+	memset(buf, 0, ether_len);
 	struct ether_header *eh = (struct ether_header *) buf;
 
 	int numbytes;
@@ -65,7 +66,7 @@ int RX(int sockfd, char *src_mac, int *prev_sec, int *prev_usec, int *tx_ACK, in
 		fprintf(stderr, "recvfrom error %d\n", errno);
 	GPIOWrite(GPIO_DATA, 0); //end current-consumption data collection
 
-	printf("rx: %lu bytes ", numbytes - FRAME_HDR_SIZE);
+	printf("rx: %lu bytes ", numbytes - sizeof(struct ether_header));
 
 	//check if the ethernet frame is intended for this node
 	if (eh->ether_dhost[0] == src_mac[0] && eh->ether_dhost[1] == src_mac[1] &&
@@ -74,7 +75,7 @@ int RX(int sockfd, char *src_mac, int *prev_sec, int *prev_usec, int *tx_ACK, in
 	    eh->ether_dhost[5] == src_mac[5]){ 
 
 		//recieve the rest of the bytes 
-		memset(send_buffer, 0, sizeof(struct ether_header));
+		memset(buf, 0, sizeof(struct ether_header));
 		if((numbytes=recvfrom(sockfd, buf, ether_len, 0, NULL, NULL)) < 0)
 			fprintf(stderr, "recvfrom error %d\n", errno);
 
@@ -186,12 +187,12 @@ int main(int argc, char *argv[]){
 	int num_bytes= 0; 
 
 	while(1){
-		if(num_bytes=RX(sockfd, src_mac, prev_sec, prev_usec, &tx_ACK, &tx_done) < 0) 
+		if(num_bytes=RX(RXsockfd, src_mac, prev_sec, prev_usec, &tx_ACK, &tx_done) < 0) 
 			printf("MAC-addr connection error\n");
 
 		/* Transmit an ACK back to TX node if recv'd data packet (0 byte payload)*/
 		/* FWD node: Transmit the entire frame (entire payload of num_bytes received) back to TX node*/
-		if(tx_ACK) TX(sockfd, 0, &ifindex, src_mac, dest_mac); 
+		if(tx_ACK) TX(TXsockfd, 0, &ifindex, src_mac, dest_mac); 
 
 		GPIOWrite(GPIO_DATA, 1); //begin current-consumption data collection
 
@@ -205,6 +206,7 @@ int main(int argc, char *argv[]){
 
 	GPIOUnexport(GPIO_DONE);
 	GPIOUnexport(GPIO_DATA);
-	close(sockfd);
+	close(RXsockfd);
+	close(TXsockfd);
 	return 0;
 }
